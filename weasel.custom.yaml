@@ -1,0 +1,87 @@
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+ustomization:
+  distribution_code_name: Weasel
+  distribution_version: 0.11.1
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Wed Sep 19 21:06:50 2018"
+  rime_version: 1.3.0
+patch:
+
+  # 候選窗横向顯示...
+  "style/horizontal": false  # true为横排
+
+  # 嵌入式編輯模式...
+  "style/inline_preedit": false
+
+  # 顯示字體...
+  #"style/font_face": "YaHei Consolas Hybrid"
+  #YaHei Consolas Hybrid
+  #Source Han Sans Normal
+
+  # 顯示字號...
+  "style/font_point": 15
+
+  # "style/color_scheme": google  # 内置谷歌皮肤
+  # "style/color_scheme": example    # 這項用於選中下面定義的新方案
+  # "preset_color_schemes/example":  # 在配色方案列表裏加入標識爲 blue 的新方案
+  # "name": example
+  # "author": Cheng6774 , original artwork by Blizzard Entertainment
+  # "text_color": 0xFFFFFF
+  # "candidate_text_color": 0xFFFFFF
+  # "back_color": 0xFFFFFF
+  # "border_color": 0x000000
+  # "hilited_text_color": 0xFFFFFF
+  # "hilited_back_color": 0xDDDDDD
+  # "hilited_candidate_text_color": 0x000000
+  # "hilited_candidate_back_color": 0xFFFFFF
+  # "comment_text_color": 0xFFFFFF
+
+  # 自定義配色方案...
+  # "style/color_scheme": blue    # 這項用於選中下面定義的新方案
+  # "preset_color_schemes/blue":  # 在配色方案列表裏加入標識爲 blue 的新方案
+  # "name": blue
+  # "author": Cheng6774 , original artwork by Blizzard Entertainment
+  # "text_color": 0x000000            # 編碼行文字顏色，24位色值，用十六進制書寫方便些，順序是藍綠紅0xBBGGRR
+  # "candidate_text_color": 0x000000   # 候選項文字顏色，當與文字顏色不同時指定
+  # "back_color": 0xeceeee             # 底色
+  # "border_color": 0xeceeee           # 邊框顏色，與底色相同則爲無邊框的效果
+  # "hilited_text_color": 0x000000     # 高亮文字，即與當前高亮候選對應的那部份輸入碼
+  # "hilited_back_color": 0xd4d4d4     # 設定高亮文字的底色，可起到凸顯高亮部份的作用
+  # "hilited_candidate_text_color": 0xffffff  # 高亮候選項的文字顏色，要醒目！
+  # "hilited_candidate_back_color": 0xfa3a0a  # 高亮候選項的底色，若與背景色不同就會顯出光棒
+  # 在[这里](http://pan.baidu.com/s/1mi6vzmC)提供样式生成工具。
+
+  # 應用程序的初始轉換狀態...
+  app_options/bridge.exe: {}
+  #    ascii_mode: true
+  app_options/photoshop.exe: # 程序名字全用小写字母
+    ascii_mode: true
+  app_options/illustrator.exe:
+    ascii_mode: true
+  app_options/flysee.exe:
+    ascii_mode: true
+  app_options/devenv.exe:
+    ascii_mode: true
+  app_options/pxcook.exe:
+    ascii_mode: true
+  app_options/sublime_text.exe:
+    # ascii_mode: true
+  app_options/explorer.exe:
+     ascii_mode: true
+  app_options/launchy.exe:
+    ascii_mode: true
+  app_options/acad.exe:
+    ascii_mode: true
+  app_options/winkawaks.exe:
+    ascii_mode: true
+  app_options/plantsvszombies:
+    ascii_mode: true
+  app_options/evoland.exe:
+    ascii_mode: true

@@ -1,0 +1,81 @@
+﻿#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+patch:
+  # 每頁候選數...
+  "menu/page_size": 6
+
+  # 呼出方案選單...
+  "switcher/hotkeys":
+    - "Control+grave"
+
+  # 中西文切換鍵...
+  ascii_composer/good_old_caps_lock: true
+  ascii_composer/switch_key:
+    Caps_Lock: commit_code
+    Shift_L: commit_code
+    Shift_R: commit_code
+    Control_L: noop
+    Control_R: noop
+
+  # 定義預設的拼音輸入方案...
+  schema_list:
+    - {schema: luna_pinyin_fluency} # 明月拼音语句流
+    - {schema: luna_pinyin_simp}    # 明月拼音简拼
+    - {schema: BakHoi_JyutPing}     # 北海拼音
+    # - {schema: jyutping}            # 香港语言学会粤拼（运用最多）
+    # - {schema: hkcantonese}         # 广东普通话（符合汉语规律）
+    # - {schema: yale}                # 耶鲁粤拼（偏欧美发音）
+    # - {schema: bopomofo}            # 注音
+    # - {schema: bopomofo_express}    # 注音——快打模式
+    # - {schema: bopomofo_tw}         # 注音——台湾正体
+    # - {schema: cangjie5}            # 仓颉五代
+    # - {schema: cangjie5_express}    # 仓颉五代——快打模式
+    # - {schema: luna_pinyin}         # 明月拼音
+    # - {schema: luna_pinyin_tw}      # 明月拼音——台湾正体
+    # - {schema: luna_quanpin}        # 全拼
+    # - {schema: stroke}              # 五笔画
+    # - {schema: terra_pinyin}        # 地球拼音
+    # - {schema: easy_en}             # easy english
+    # - {schema: luna_pinyin_stroke}  # 明月拼音——笔画辅助码
+
+  # 快捷鍵...
+  key_binder:
+    bindings:
+    - {accept: "Control+p", send: Up, when: composing}
+    - {accept: "Control+n", send: Down, when: composing}
+    - {accept: "Control+b", send: Left, when: composing}
+    - {accept: "Control+f", send: Right, when: composing}
+    - {accept: "Control+a", send: Home, when: composing}
+    - {accept: "Control+e", send: End, when: composing}
+    - {accept: "Control+d", send: Delete, when: composing}
+    - {accept: "Control+k", send: "Shift+Delete", when: composing}
+    - {accept: "Control+h", send: BackSpace, when: composing}
+    - {accept: "Control+g", send: Escape, when: composing}
+    - {accept: "Control+bracketleft", send: Escape, when: composing}
+    - {accept: "Alt+v", send: Page_Up, when: composing}
+    - {accept: "Control+v", send: Page_Down, when: composing}
+    - {accept: ISO_Left_Tab, send: Page_Up, when: composing}
+    - {accept: "Shift+Tab", send: Page_Up, when: composing}
+    - {accept: Tab, send: Page_Down, when: composing}
+    - {accept: minus, send: Page_Up, when: has_menu}
+    - {accept: equal, send: Page_Down, when: has_menu}
+    - {accept: comma, send: Page_Up, when: paging}
+    - {accept: period, send: Page_Down, when: has_menu}
+    - {accept: "Control+Shift+1", select: .next, when: always}
+    - {accept: "Control+Shift+2", toggle: ascii_mode, when: always}
+    - {accept: "Control+Shift+3", toggle: full_shape, when: always}
+    - {accept: "Control+Shift+4", toggle: simplification, when: always}
+    - {accept: "Control+Shift+5", toggle: extended_charset, when: always}
+    - {accept: "Control+Shift+exclam", select: .next, when: always}
+    - {accept: "Control+Shift+at", toggle: ascii_mode, when: always}
+    - {accept: "Control+Shift+numbersign", toggle: full_shape, when: always}
+    - {accept: "Control+Shift+dollar", toggle: simplification, when: always}
+    - {accept: "Control+Shift+percent", toggle: extended_charset, when: always}
+    - {accept: "Control+Shift+space", toggle: simplification, when: always}
+    - {accept: "Control+period", toggle: ascii_punct, when: always}

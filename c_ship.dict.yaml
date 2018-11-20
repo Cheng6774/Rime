@@ -1,0 +1,4298 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# 植物学词汇
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: botany
+version: "2018.9.26"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+阿巴丹	a ba dan	1
+阿巴斯港	a ba si gang	1
+阿比让	a bi rang	1
+阿布扎比	a bu zha bi	1
+阿德莱德	a de lai de	1
+阿尔法拉法	a er fa la fa	1
+阿尔赫西拉斯	a er he xi la si	1
+阿尔及尔	a er ji er	1
+阿加迪尔	a jia di er	1
+阿卡胡特拉	a ka hu te la	1
+阿卡普尔科	a ka pu er ke	1
+阿克拉	a ke la	1
+阿雷格里港	a lei ge li gang	1
+阿里卡	a li ka	1
+阿姆斯特丹	a mu si te dan	1
+阿帕帕	a pa pa	1
+阿皮亚	a pi ya	1
+阿萨布	a sa bu	1
+阿什杜德	a shen du de	1
+阿什哈巴特	a shi ha ba te	1
+阿特利斯科	a te li si ke	1
+埃佛格雷兹	ai fo ge lei zi	1
+艾纳	ai na	1
+岸电电缆	an dian dian lan	1
+岸电箱	an dian xiang	1
+安客拉奇	an ke la qi	1
+安科纳	an ke na	1
+安纳巴	an na ba	1
+安全甲板	an quan jia ban	1
+安全降落速度	an quan jiang luo su du	1
+安全路标	an quan lu biao	1
+安全索	an quan suo	1
+安全装置试验	an quan zhuang zhi shi yan	1
+安特卫普	an te wei pu	1
+安托法加斯塔	an tuo fa jia si ta	1
+鞍形舱	an xing cang	1
+安装环境条件	an zhuang huan jing tiao jian	1
+安装状态	an zhuang zhuang tai	1
+敖德萨	ao de sa	1
+奥尔堡	ao er bao	1
+奥尔胡斯	ao er hu si	1
+奥胡斯	ao hu si	1
+奥克兰	ao ke lan	1
+奥兰	ao lan	1
+奥勒松	ao le song	1
+奥卢芬兰	ao lu fen lan	1
+奥米伽	ao mi jia	1
+奥斯陆	ao si lu	1
+耙臂	ba bi	1
+耙臂小车	ba bi xiao che	1
+靶船	ba chuan	1
+巴尔	ba er	1
+巴尔博亚	ba er bo ya	1
+巴尔的摩	ba er de mo	1
+巴拉那瓜	ba la na gua	1
+巴兰基亚	ba lan ji ya	1
+巴林	ba lin	1
+巴拿马	ba na ma	1
+巴拿马城	ba na ma cheng	1
+巴生港	ba sheng gang	1
+巴生港北	ba sheng gang bei	1
+巴生港南	ba sheng gang nan	1
+巴士拉	ba shi la	1
+耙头	ba tou	1
+耙头梯架	ba tou ti jia	1
+巴西古丹	ba xi gu dan	1
+耙吸装置	ba xi zhuang zhi	1
+摆动吊杆装置	bai dong diao gan zhuang zhi	1
+摆墩	bai dun	1
+柏培拉	bai pei la	1
+摆式罗经	bai shi luo jing	1
+白昼信号灯	bai zhou xin hao deng	1
+半高底桁材	ban gao di heng cai	1
+班加西	ban jia xi	1
+半进流角	ban jin liu jiao	1
+半梁	ban liang	1
+伴流	ban liu	1
+伴流测量	ban liu ce liang	1
+伴流分数	ban liu fen shu	1
+伴流模拟	ban liu mo ni	1
+伴流仪	ban liu yi	1
+伴流因数	ban liu yin shu	1
+半潜船	ban qian chuan	1
+半球罗经	ban qiu luo jing	1
+板式热交换器	ban shi re jiao huan qi	1
+半坞式船台	ban wu shi chuan tai	1
+半洗舱	ban xi cang	1
+半悬舵	ban xuan duo	1
+班珠尔	ban zhu er	1
+半自动焊	ban zi dong han	1
+邦帕空	bang pa kong	1
+邦戎曲线	bang rong qu xian	1
+磅逊	bang xun	1
+绑扎单元	bang za dan yuan	1
+曝光测定术	bao guang ce ding shu	1
+保护导架	bao hu dao jia	1
+保护电流密度	bao hu dian liu mi du	1
+保护电位范围	bao hu dian wei fan wei	1
+保护性覆盖层	bao hu xing fu gai ceng	1
+保全险	bao quan xian	1
+保温服	bao wen fu	1
+保温管道	bao wen guan dao	1
+保温用具	bao wen yong ju	1
+报务室	bao wu shi	1
+保险撑	bao xian cheng	1
+包运租船	bao yun zu chuan	1
+爆炸包覆	bao zha bao fu	1
+包装舱容	bao zhuang cang rong	1
+贝尔法斯特	bei er fa si te	1
+卑尔根	bei er gen	1
+贝贾亚	bei jia ya	1
+贝克舵	bei ke duo	1
+背空化	bei kong hua	1
+贝拉	bei la	1
+贝鲁特	bei lu te	1
+贝伦	bei lun	1
+备用泵	bei yong beng	1
+备用发电机组	bei yong fa dian ji zu	1
+备用发信机	bei yong fa xin ji	1
+备用收信机	bei yong shou xin ji	1
+本初子午线	ben chu zi wu xian	1
+泵舱	beng cang	1
+泵吸姓	beng xi xing	1
+泵油和驳油	beng you he bo you	1
+舭板	bi ban	1
+舭部半径	bi bu ban jing	1
+舭部扶手	bi bu fu shou	1
+舭部升高	bi bu sheng gao	1
+舭墩	bi dun	1
+毕尔巴鄂	bi er ba e	1
+比尔堡	bi er bao	1
+彼尔姆	bi er mu	1
+臂杆舷外跨距	bi gan xian wai kua ju	1
+闭环操纵性	bi huan cao zong xing	1
+比雷埃夫斯	bi lei ai fu si	1
+舭肋骨	bi lei gu	1
+比例作用	bi li zuo yong	1
+舭列板	bi lie ban	1
+舭龙骨	bi long gu	1
+舭龙骨阻尼	bi long gu zu ni	1
+避碰灯	bi peng deng	1
+避碰雷达	bi peng lei da	1
+避碰声呐	bi peng sheng na	1
+避碰装置	bi peng zhuang zhi	1
+比塞大	bi sai da	1
+闭式给水系统	bi shi gei shui xi tong	1
+避振穴	bi zhen xue	1
+舭肘板	bi zhou ban	1
+舭纵桁	bi zong heng	1
+边舱	bian cang	1
+边舵	bian duo	1
+变幅绞车	bian fu jiao che	1
+扁管冷却器	bian guan leng que qi	1
+变螺距	bian luo ju	1
+边抛装置	bian pao zhuang zhi	1
+扁刷	bian shua	1
+变速送丝	bian su song si	1
+便携电话	bian xie dian hua	1
+变形载荷	bian xing zai he	1
+鞭状天线	bian zhuang tian xian	1
+标称伴流	biao cheng ban liu	1
+表观进速系数	biao guan jin su xi shu	1
+标记	biao ji	1
+表面力	biao mian li	1
+表铜截止阀	biao tong jie zhi fa	1
+标准船模	biao zhun chuan mu	1
+标准排放接头	biao zhun pai fang jie tou	1
+槟城	bin cheng	1
+并车	bing che	1
+并车屏	bing che ping	1
+冰带区	bing dai qu	1
+病房呼叫	bing fang hu jiao	1
+并靠	bing kao	1
+冰块挤压力	bing kuai ji ya li	1
+并联舵	bing lian duo	1
+并列成一线	bing lie cheng yi xian	1
+冰锚	bing mao	1
+冰区加强	bing qu jia qiang	1
+冰水池	bing shui chi	1
+冰下穿索器	bing xia chuan suo qi	1
+冰载荷	bing zai he	1
+驳船	bo chuan	1
+渤船重工	bo chuan zhong gong	1
+波尔多	bo er duo	1
+伯尔尼瑞士	bo er ni rui shi	1
+伯方	bo fang	1
+拨号	bo hao	1
+波季	bo ji	1
+波激振动	bo ji zhen dong	1
+伯肯黑德	bo ken hei de	1
+波浪冲击载荷	bo lang chong ji zai he	1
+波浪扭矩	bo lang niu ju	1
+波浪谱	bo lang pu	1
+波浪要素	bo lang yao su	1
+波浪仪绞车	bo lang yi jiao che	1
+波浪载荷	bo lang zai he	1
+波里	bo li	1
+玻璃钢船	bo li gang chuan	1
+伯利兹	bo li zi	1
+波能波密度	bo neng bo mi du	1
+伯尼	bo ni	1
+波倾角	bo qing jiao	1
+勃生	bo sheng	1
+波士顿	bo shi dun	1
+波特兰	bo te lan	1
+泊位结构	bo wei jie gou	1
+波形舱口盖	bo xing cang kou gai	1
+波型阻力	bo xing zu li	1
+布埃纳文图拉	bu ai na wen tu la	1
+不沉性	bu chen xing	1
+补充加速度	bu chong jia su du	1
+不定常空泡	bu ding chang kong pao	1
+不对称电压	bu dui chen dian ya	1
+不对称浸水	bu dui chen jin shui	1
+布尔加斯	bu er jia si	1
+部分浸水试验	bu fen jin shui shi yan	1
+补给浮标	bu gei fu biao	1
+不规则波	bu gui ze bo	1
+部件装配	bu jian zhuang pei	1
+捕鲸船	bu jing chuan	1
+捕鲸母船	bu jing mu chuan	1
+不莱梅	bu lai mei	1
+不来梅	bu lai mei	1
+不来梅港	bu lai mei gang	1
+布缆船	bu lan chuan	1
+布缆浮筒	bu lan fu tong	1
+布兰卡港	bu lan ka gang	1
+捕捞机械	bu lao ji xie	1
+布雷舰艇	bu lei jian ting	1
+布雷斯特	bu lei si te	1
+布里齐敦	bu li qi dun	1
+布里斯班	bu li si ban	1
+不平衡舵	bu ping heng duo	1
+布什尔	bu shi er	1
+不稳定环	bu wen ding huan	1
+不稳定空泡	bu wen ding kong pao	1
+不锈钢薄板	bu xiu gang bao ban	1
+不锈钢钢棒	bu xiu gang gang bang	1
+不中断电源	bu zhong duan dian yuan	1
+采样平台	cai yang ping tai	1
+舱壁	cang bi	1
+舱壁板	cang bi ban	1
+舱壁板架	cang bi ban jia	1
+舱壁阀	cang bi fa	1
+舱壁扶强材	cang bi fu qiang cai	1
+舱壁骨架	cang bi gu jia	1
+舱壁甲板	cang bi jia ban	1
+舱壁龛	cang bi kan	1
+舱壁座	cang bi zuo	1
+舱单	cang dan	1
+舱底泵	cang di beng	1
+舱底货	cang di huo	1
+舱底污水	cang di wu shui	1
+舱底消防泵	cang di xiao fang beng	1
+舱底压载泵	cang di ya zai beng	1
+舱顶灯	cang ding deng	1
+舱盖板	cang gai ban	1
+舱盖结构	cang gai jie gou	1
+舱盖启闭装置	cang gai qi bi zhuang zhi	1
+舱盖起升器	cang gai qi sheng qi	1
+舱盖压紧装置	cang gai ya jin zhuang zhi	1
+舱盖曳行装置	cang gai ye xing zhuang zhi	1
+舱口	cang kou	1
+舱口边梁	cang kou bian liang	1
+舱口端梁	cang kou duan liang	1
+舱口盖绞车	cang kou gai jiao che	1
+舱口活动横梁	cang kou huo dong heng liang	1
+舱口围	cang kou wei	1
+舱口围板	cang kou wei ban	1
+舱口悬臂梁	cang kou xuan bi liang	1
+舱口纵桁	cang kou zong heng	1
+舱面属具	cang mian shu ju	1
+舱容图	cang rong tu	1
+舱室	cang shi	1
+舱室布置	cang shi bu zhi	1
+舱室铭牌	cang shi ming pai	1
+舱室设备	cang shi she bei	1
+舱室属具	cang shi shu ju	1
+舱室通风机	cang shi tong feng ji	1
+舱室五金	cang shi wu jin	1
+舱图	cang tu	1
+操舵拉杆	cao duo la gan	1
+操舵链	cao duo lian	1
+操舵轮	cao duo lun	1
+操舵目标灯	cao duo mu biao deng	1
+操舵试验	cao duo shi yan	1
+操舵索	cao duo suo	1
+操舵台	cao duo tai	1
+操舵轴	cao duo zhou	1
+操舵装置	cao duo zhuang zhi	1
+槽型舱壁	cao xing cang bi	1
+槽形舱壁板	cao xing cang bi ban	1
+操纵缆	cao zong lan	1
+操纵区域	cao zong qu yu	1
+操纵试验	cao zong shi yan	1
+操纵限制灯	cao zong xian zhi deng	1
+操纵信号灯	cao zong xin hao deng	1
+操纵性衡准	cao zong xing heng zhun	1
+操纵性试验	cao zong xing shi yan	1
+操纵周期	cao zong zhou qi	1
+操作污染	cao zuo wu ran	1
+测爆	ce bao	1
+测量	ce liang	1
+测量船	ce liang chuan	1
+测量缸套	ce liang gang tao	1
+测深尺	ce shen chi	1
+测深仪舱	ce shen yi cang	1
+测试段	ce shi duan	1
+测速传感器	ce su chuan gan qi	1
+侧推器	ce tui qi	1
+侧向承载桩	ce xiang cheng zai zhuang	1
+侧向推力装置	ce xiang tui li zhuang zhi	1
+侧斜角	ce xie jiao	1
+侧移式舱口盖	ce yi shi cang kou gai	1
+侧轴系	ce zhou xi	1
+层状腐蚀	ceng zhuang fu shi	1
+差奥米伽系统	cha ao mi jia xi tong	1
+插拔桩状态	cha ba zhuang zhuang tai	1
+差动舵	cha dong duo	1
+差动作用	cha dong zuo yong	1
+查尔斯顿	cha er si dun	1
+查尔斯敦	cha er si dun	1
+插头	cha tou	1
+插座	cha zuo	1
+拆船	chai chuan	1
+柴油沉淀柜	chai you chen dian gui	1
+柴油澄清舱	chai you cheng qing cang	1
+柴油分油机	chai you fen you ji	1
+柴油机船	chai you ji chuan	1
+柴油日用柜	chai you ri yong gui	1
+柴油输送泵	chai you shu song beng	1
+拆装校正	chai zhuang jiao zheng	1
+铲斗背度装置	chan dou bei du zhuang zhi	1
+铲斗吊杆	chan dou diao gan	1
+铲斗起升装置	chan dou qi sheng zhuang zhi	1
+铲斗支架	chan dou zhi jia	1
+铲斗转盘	chan dou zhuan pan	1
+铲扬机	chan yang ji	1
+长波通信	chang bo tong xin	1
+长度吃水比	chang du chi shui bi	1
+长峰波	chang feng bo	1
+常规潜艇	chang gui qian ting	1
+长崎	chang qi	1
+长期倒车工况	chang qi dao che gong kuang	1
+长期停车	chang qi ting che	1
+长深比	chang shen bi	1
+长艏楼船	chang shou lou chuan	1
+敞水试验箱	chang shui shi yan xiang	1
+长滩	chang tan	1
+长艉楼船	chang wei lou chuan	1
+场吸收	chang xi shou	1
+常用缩语	chang yong suo yu	1
+超短波通信	chao duan bo tong xin	1
+超空化	chao kong hua	1
+超空化螺旋桨	chao kong hua luo xuan jiang	1
+超扭保护装置	chao niu bao hu zhuang zhi	1
+超速保护装置	chao su bao hu zhuang zhi	1
+抄网机	chao wang ji	1
+潮汐区腐蚀	chao xi qu fu shi	1
+超越角	chao yue jiao	1
+掣链钩	che lian gou	1
+掣链器	che lian qi	1
+车辆舱	che liang cang	1
+车辆甲板	che liang jia ban	1
+掣锚器	che mao qi	1
+掣锚索	che mao suo	1
+撤汽系统	che qi xi tong	1
+掣索器	che suo qi	1
+车钟	che zhong	1
+车钟记录薄	che zhong ji lu bo	1
+车钟记录仪	che zhong ji lu yi	1
+沉垫	chen dian	1
+沉浮状态	chen fu zhuang tai	1
+沉石箱	chen shi xiang	1
+沉坞坑	chen wu keng	1
+承包型拖航合同	cheng bao xing tuo hang he tong	1
+撑材	cheng cai	1
+成品油船	cheng pin you chuan	1
+成束电缆	cheng shu dian lan	1
+成束阻燃电缆	cheng shu zu ran dian lan	1
+承推架	cheng tui jia	1
+澄西船厂	cheng xi chuan chang	1
+尺度效应	chi du xiao ying	1
+吃水	chi shui	1
+吃水标志	chi shui biao zhi	1
+吃水梯	chi shui ti	1
+吃水限制灯	chi shui xian zhi deng	1
+吃水型深比	chi shui xing shen bi	1
+齿形孔	chi xing kong	1
+持续常用功率	chi xu chang yong gong lv	1
+冲荡	chong dang	1
+充电器	chong dian qi	1
+重叠船模	chong die chuan mu	1
+重叠螺旋桨	chong die luo xuan jiang	1
+充放电板	chong fang dian ban	1
+冲击	chong ji	1
+冲击腐蚀	chong ji fu shi	1
+充气试验	chong qi shi yan	1
+冲水泵	chong shui beng	1
+冲水管	chong shui guan	1
+冲水试验	chong shui shi yan	1
+冲箱式造波机	chong xiang shi zao bo ji	1
+冲翼艇	chong yi ting	1
+冲桩	chong zhuang	1
+抽舱排泥装置	chou cang pai ni zhuang zhi	1
+抽气真空泵组	chou qi zhen kong beng zu	1
+抽屉柜	chou ti gui	1
+储备浮力	chu bei fu li	1
+储备排水量	chu bei pai shui liang	1
+出入舱口盖	chu ru cang kou gai	1
+初始对准	chu shi dui zhun	1
+初始舵角	chu shi duo jiao	1
+初始加速度	chu shi jia su du	1
+初稳性	chu wen xing	1
+出坞	chu wu	1
+储油船	chu you chuan	1
+出油管道	chu you guan dao	1
+储油平台	chu you ping tai	1
+储油系统	chu you xi tong	1
+初重稳距	chu zhong wen ju	1
+初转能力	chu zhuan neng li	1
+初转期	chu zhuan qi	1
+船舶	chuan bo	1
+船舶操纵性	chuan bo cao zong xing	1
+船舶常数	chuan bo chang shu	1
+船舶导航	chuan bo dao hang	1
+船舶抵押贷款	chuan bo di ya dai kuan	1
+船舶电气设备	chuan bo dian qi she bei	1
+船舶电气装置	chuan bo dian qi zhuang zhi	1
+船舶电站	chuan bo dian zhan	1
+船舶电子电气	chuan bo dian zi dian qi	1
+船舶动力装置	chuan bo dong li zhuang zhi	1
+船舶辅机	chuan bo fu ji	1
+船舶改装	chuan bo gai zhuang	1
+船舶工程	chuan bo gong cheng	1
+船舶工程技术	chuan bo gong cheng ji shu	1
+船舶国籍证书	chuan bo guo ji zheng shu	1
+船舶建造检验	chuan bo jian zao jian yan	1
+船舶控制中心	chuan bo kong zhi zhong xin	1
+船舶快速性	chuan bo kuai su xing	1
+船舶涂料	chuan bo tu liao	1
+船舶推进	chuan bo tui jin	1
+船舶拖曳力	chuan bo tuo ye li	1
+船舶消防装置	chuan bo xiao fang zhuang zhi	1
+传播压力	chuan bo ya li	1
+船舶摇荡	chuan bo yao dang	1
+船舶与海洋工程	chuan bo yu hai yang gong cheng	1
+船舶噪声	chuan bo zao sheng	1
+船舶振动测量	chuan bo zhen dong ce liang	1
+船舶制冷装置	chuan bo zhi leng zhuang zhi	1
+船舶轴系用钢	chuan bo zhou xi yong gang	1
+船舶总长度	chuan bo zong chang du	1
+船舶阻力	chuan bo zu li	1
+船侧板架	chuan ce ban jia	1
+船侧骨架	chuan ce gu jia	1
+船厂	chuan chang	1
+传导发射	chuan dao fa she	1
+传导干扰	chuan dao gan rao	1
+传导敏感度	chuan dao min gan du	1
+船底板	chuan di ban	1
+船底板架	chuan di ban jia	1
+传递对准	chuan di dui zhun	1
+船底防污涂料	chuan di fang wu tu liao	1
+船底防锈涂料	chuan di fang xiu tu liao	1
+船底横骨	chuan di heng gu	1
+船底净空	chuan di jing kong	1
+船底肋骨	chuan di lei gu	1
+船底剖面模数	chuan di pou mian mo shu	1
+船底塞	chuan di sai	1
+船底涂料	chuan di tu liao	1
+船底望光	chuan di wang guang	1
+船底纵骨	chuan di zong gu	1
+船东代表	chuan dong dai biao	1
+传动端	chuan dong duan	1
+船级	chuan ji	1
+船籍港	chuan ji gang	1
+船级社	chuan ji she	1
+穿甲性	chuan jia xing	1
+船壳板	chuan ke ban	1
+船壳涂料	chuan ke tu liao	1
+船宽	chuan kuan	1
+串联式船坞	chuan lian shi chuan wu	1
+串联造船法	chuan lian zao chuan fa	1
+串列螺旋桨	chuan lie luo xuan jiang	1
+船码头	chuan ma tou	1
+船名灯	chuan ming deng	1
+船模	chuan mu	1
+船模试验水池	chuan mu shi yan shui chi	1
+船模系列试验	chuan mu xi lie shi yan	1
+船模自航点	chuan mu zi hang dian	1
+船模阻力仪	chuan mu zu li yi	1
+川内	chuan nei	1
+船排	chuan pai	1
+船排滑道	chuan pai hua dao	1
+川崎	chuan qi	1
+船旗国	chuan qi guo	1
+川崎汽船	chuan qi qi chuan	1
+船上排泥管	chuan shang pai ni guan	1
+船身效率	chuan shen xiao lv	1
+船艏	chuan shou	1
+船首部结构	chuan shou bu jie gou	1
+船首加速度	chuan shou jia su du	1
+船首外板	chuan shou wai ban	1
+船首住舱	chuan shou zhu cang	1
+穿梭油船	chuan suo you chuan	1
+船台	chuan tai	1
+船台标杆线	chuan tai biao gan xian	1
+船台坡度	chuan tai po du	1
+船台小车	chuan tai xiao che	1
+船台中心线板	chuan tai zhong xin xian ban	1
+船台装配	chuan tai zhuang pei	1
+船体	chuan ti	1
+船梯	chuan ti	1
+船体板架强度	chuan ti ban jia qiang du	1
+船体部分	chuan ti bu fen	1
+船体等值梁	chuan ti deng zhi liang	1
+船体放样	chuan ti fang yang	1
+船体概率强度	chuan ti gai lv qiang du	1
+船体刚度	chuan ti gang du	1
+船体回路系统	chuan ti hui lu xi tong	1
+船体极限弯矩	chuan ti ji xian wan ju	1
+船体加工	chuan ti jia gong	1
+船体建造工艺	chuan ti jian zao gong yi	1
+船体结构	chuan ti jie gou	1
+船体结构钢	chuan ti jie gou gang	1
+船体梁振动	chuan ti liang zhen dong	1
+船体零件号料	chuan ti ling jian hao liao	1
+船体密性试验	chuan ti mi xing shi yan	1
+船体挠度	chuan ti nao du	1
+船体扭转振动	chuan ti niu zhuan zhen dong	1
+船体强度	chuan ti qiang du	1
+船体强度标准	chuan ti qiang du biao zhun	1
+船体外板测厚	chuan ti wai ban ce hou	1
+船体型表面	chuan ti xing biao mian	1
+船体应力测量	chuan ti ying li ce liang	1
+船体振动	chuan ti zhen dong	1
+船体振动性态	chuan ti zhen dong xing tai	1
+船体振动阻尼	chuan ti zhen dong zu ni	1
+船体中和轴	chuan ti zhong he zhou	1
+船体装配	chuan ti zhuang pei	1
+船外板	chuan wai ban	1
+船尾住舱	chuan wei zhu cang	1
+船坞	chuan wu	1
+船坞引船车	chuan wu yin chuan che	1
+船型系数	chuan xing xi shu	1
+船用泵	chuan yong beng	1
+船用变压器	chuan yong bian ya qi	1
+船用柴油机	chuan yong chai you ji	1
+船用产品检验	chuan yong chan pin jian yan	1
+船用厨房设备	chuan yong chu fang she bei	1
+船用电力电缆	chuan yong dian li dian lan	1
+船用电灶	chuan yong dian zao	1
+船用阀门	chuan yong fa men	1
+船用防爆风机	chuan yong fang bao feng ji	1
+船用防火板	chuan yong fang huo ban	1
+船用焚烧炉	chuan yong fen shao lu	1
+船用风机	chuan yong feng ji	1
+船用隔热材料	chuan yong ge re cai liao	1
+船用广播设备	chuan yong guang bo she bei	1
+船用焊剂	chuan yong han ji	1
+船用焊丝	chuan yong han si	1
+船用焊条	chuan yong han tiao	1
+船用家具	chuan yong jia ju	1
+船用胶合板	chuan yong jiao he ban	1
+船用炉灶	chuan yong lu zao	1
+船用铝合金	chuan yong lv he jin	1
+船用汽轮机	chuan yong qi lun ji	1
+船用气瓶	chuan yong qi ping	1
+船用燃气轮机	chuan yong ran qi lun ji	1
+船用射频电缆	chuan yong she pin dian lan	1
+船用钛合金	chuan yong tai he jin	1
+船用铜合金	chuan yong tong he jin	1
+船用通信电缆	chuan yong tong xin dian lan	1
+船用同轴电缆	chuan yong tong zhou dian lan	1
+船用卫生设备	chuan yong wei sheng she bei	1
+船用蓄电池组	chuan yong xu dian chi zu	1
+船用压缩机	chuan yong ya suo ji	1
+船用液压泵站	chuan yong ye ya beng zhan	1
+船用油分离机	chuan yong you fen li ji	1
+船员	chuan yuan	1
+船员舱	chuan yuan cang	1
+船员室	chuan yuan shi	1
+船长室	chuan zhang shi	1
+船装	chuan zhuang	1
+船装部分	chuan zhuang bu fen	1
+垂荡	chui dang	1
+捶击	chui ji	1
+垂线间长	chui xian jian chang	1
+垂向棱形系数	chui xiang leng xing xi shu	1
+垂向弯曲振动	chui xiang wan qu zhen dong	1
+垂直加速度	chui zhi jia su du	1
+垂直鱼探仪	chui zhi yu tan yi	1
+纯粹自航试验	chun cui zi hang shi yan	1
+磁北	ci bei	1
+磁粉探险伤	ci fen tan xian shang	1
+磁力仪绞车	ci li yi jiao che	1
+磁罗经	ci luo jing	1
+磁盘	ci pan	1
+刺网延绳钓机	ci wang yan sheng diao ji	1
+次要构件	ci yao gou jian	1
+粗糙度阻力	cu cao du zu li	1
+催蚀剂	cui shi ji	1
+催速剂	cui su ji	1
+锉刀钢锯架	cuo dao gang ju jia	1
+大阪	da ban	1
+大船标志灯	da chuan biao zhi deng	1
+打底焊	da di han	1
+大地水准面	da di shui zhun mian	1
+大地吸收	da di xi shou	1
+达尔贝达	da er bei da	1
+大副	da fu	1
+大副室	da fu shi	1
+大管轮	da guan lun	1
+大管轮室	da guan lun shi	1
+达卡	da ka	1
+达喀尔	da ka er	1
+打捞船	da lao chuan	1
+打捞浮筒	da lao fu tong	1
+打捞救助气瓶	da lao jiu zhu qi ping	1
+达累斯萨拉姆	da lei si sa la mu	1
+大连大正	da lian da zheng	1
+大连新厂	da lian xin chang	1
+达曼	da man	1
+达米埃塔	da mi ai ta	1
+达尼丁	da ni ding	1
+大气冷凝器	da qi leng ning qi	1
+大倾角稳性	da qing jiao wen xing	1
+大桅	da wei	1
+大抓力锚	da zhua li mao	1
+打桩船	da zhuang chuan	1
+带板	dai ban	1
+带柄铲刀	dai bing chan dao	1
+带负荷试验	dai fu he shi yan	1
+带缆辅助索	dai lan fu zhu suo	1
+带缆羊角	dai lan yang jiao	1
+带缆桩	dai lan zhuang	1
+带通电路	dai tong dian lu	1
+带信号灯警钟	dai xin hao deng jing zhong	1
+单边带收发机	dan bian dai shou fa ji	1
+单底	dan di	1
+单点系泊	dan dian xi bo	1
+单点系泊装置	dan dian xi bo zhuang zhi	1
+弹钩	dan gou	1
+丹吉尔	dan ji er	1
+单甲板船	dan jia ban chuan	1
+单旧率板	dan jiu lv ban	1
+单螺桨船	dan luo jiang chuan	1
+单面坡口	dan mian po kou	1
+丹戎不碌	dan rong bu lu	1
+淡水舱	dan shui cang	1
+淡水冲洗	dan shui chong xi	1
+淡水加热器	dan shui jia re qi	1
+淡水冷却器	dan shui leng que qi	1
+淡水滤器	dan shui lv qi	1
+淡水输送泵	dan shui shu song beng	1
+淡水压力柜	dan shui ya li gui	1
+单体船	dan ti chuan	1
+单向桁架	dan xiang heng jia	1
+单元舾装	dan yuan xi zhuang	1
+单元组装	dan yuan zu zhuang	1
+单轴系	dan zhou xi	1
+挡浪板	dang lang ban	1
+导板定位	dao ban ding wei	1
+导边	dao bian	1
+导边半径	dao bian ban jing	1
+到车	dao che	1
+倒车部分	dao che bu fen	1
+倒车动叶	dao che dong ye	1
+倒车舵	dao che duo	1
+倒车阀	dao che fa	1
+倒车工况	dao che gong kuang	1
+倒车功率	dao che gong lv	1
+倒车喷嘴	dao che pen zui	1
+倒车汽缸	dao che qi gang	1
+倒车燃气轮机	dao che ran qi lun ji	1
+倒车试验	dao che shi yan	1
+倒车油动机	dao che you dong ji	1
+导弹快艇	dao dan kuai ting	1
+导管架	dao guan jia	1
+导管架就位	dao guan jia jiu wei	1
+导管架平台	dao guan jia ping tai	1
+导管架上驳	dao guan jia shang bo	1
+导管架腿柱	dao guan jia tui zhu	1
+导管架下水	dao guan jia xia shui	1
+导管推进器	dao guan tui jin qi	1
+导航	dao hang	1
+导航参数	dao hang can shu	1
+倒航操纵性	dao hang cao zong xing	1
+导航雷达	dao hang lei da	1
+导航设备	dao hang she bei	1
+导航声呐	dao hang sheng na	1
+导航卫星	dao hang wei xing	1
+导缆滚轮	dao lan gun lun	1
+导缆孔	dao lan kong	1
+导缆器	dao lan qi	1
+导缆钳	dao lan qian	1
+导链滚轮	dao lian gun lun	1
+刀轮绞刀	dao lun jiao dao	1
+岛式建造法	dao shi jian zao fa	1
+导向滚轮	dao xiang gun lun	1
+导向索	dao xiang suo	1
+导向索张力器	dao xiang suo zhang li qi	1
+德班	de ban	1
+德岛	de dao	1
+的里雅斯特	de li ya si te	1
+等高度圈	deng gao du quan	1
+登陆舰	deng lu jian	1
+登陆艇	deng lu ting	1
+登陆战舰艇	deng lu zhan jian ting	1
+等螺距	deng luo ju	1
+灯泡	deng pao	1
+等速送丝	deng su song si	1
+登艇灯	deng ting deng	1
+登艇梯	deng ting ti	1
+等推力法	deng tui li fa	1
+等转矩法	deng zhuan ju fa	1
+迪拜	di bai	1
+底边舱	di bian cang	1
+底舱	di cang	1
+低磁钢	di ci gang	1
+底桁材	di heng cai	1
+第利	di li	1
+地理垂线	di li chui xian	1
+地理坐标系	di li zuo biao xi	1
+地漏抽	di lou chou	1
+地面吸收	di mian xi shou	1
+底栖拖网绞车	di qi tuo wang jiao che	1
+底栖拖网装置	di qi tuo wang zhuang zhi	1
+地球速率	di qiu su lv	1
+地球坐标系	di qiu zuo biao xi	1
+低速舵效试验	di su duo xiao shi yan	1
+低速风洞	di su feng dong	1
+低速级组	di su ji zu	1
+底拖法	di tuo fa	1
+低位通海阀	di wei tong hai fa	1
+地心纬度	di xin wei du	1
+地心坐标系	di xin zuo biao xi	1
+低压空气瓶	di ya kong qi ping	1
+滴油灶	di you zao	1
+地震电缆绞车	di zhen dian lan jiao che	1
+地震载荷	di zhen zai he	1
+地质绞车	di zhi jiao che	1
+电池	dian chi	1
+电磁法拉	dian ci fa la	1
+电磁伏特	dian ci fu te	1
+电磁亨利	dian ci heng li	1
+电磁环境电平	dian ci huan jing dian ping	1
+电磁计程仪	dian ci ji cheng yi	1
+电磁库仑	dian ci ku lun	1
+电磁脉冲	dian ci mai chong	1
+电磁敏感度	dian ci min gan du	1
+电磁欧姆	dian ci ou mu	1
+电磁西门子	dian ci xi men zi	1
+电磁噪声	dian ci zao sheng	1
+电笛	dian di	1
+电笛喇叭	dian di la ba	1
+电动操舵装置	dian dong cao duo zhuang zhi	1
+电镀作用	dian du zuo yong	1
+电工间	dian gong jian	1
+电工试验板	dian gong shi yan ban	1
+电光性眼炎	dian guang xing yan yan	1
+垫航吃水	dian hang chi shui	1
+电弧动特性	dian hu dong te xing	1
+电弧静特性	dian hu jing te xing	1
+电化学保护	dian hua xue bao hu	1
+点火加速器	dian huo jia su qi	1
+电机员	dian ji yuan	1
+电解海水防污	dian jie hai shui fang wu	1
+电控罗经	dian kong luo jing	1
+电缆舱	dian lan cang	1
+电缆电流定额	dian lan dian liu ding e	1
+电缆额定电压	dian lan e ding dian ya	1
+电缆管	dian lan guan	1
+电缆绞车	dian lan jiao che	1
+电缆埋设犁	dian lan mai she li	1
+电缆填料函	dian lan tian liao han	1
+电缆扎带	dian lan za dai	1
+电力分电箱	dian li fen dian xiang	1
+电力推进	dian li tui jin	1
+电力推进船	dian li tui jin chuan	1
+电力拖动装置	dian li tuo dong zhuang zhi	1
+电流损坏	dian liu sun huai	1
+电流探头	dian liu tan tou	1
+电罗经	dian luo jing	1
+电偶腐蚀	dian ou fu shi	1
+电偶序	dian ou xu	1
+电气吃水表	dian qi chi shui biao	1
+垫升船底净空	dian sheng chuan di jing kong	1
+垫升风机	dian sheng feng ji	1
+电刷镀	dian shua du	1
+电子报警器	dian zi bao jing qi	1
+电子声学	dian zi sheng xue	1
+电阻	dian zu	1
+电钻头	dian zuan tou	1
+吊臂搁吊	diao bi ge diao	1
+吊筏架	diao fa jia	1
+吊放回收装置	diao fang hui shou zhuang zhi	1
+吊放式救生筏	diao fang shi jiu sheng fa	1
+吊杆	diao gan	1
+吊杆叉头	diao gan cha tou	1
+吊杆鹅颈销	diao gan e jing xiao	1
+吊杆举扬	diao gan ju yang	1
+吊杆偏角	diao gan pian jiao	1
+吊杆托架	diao gan tuo jia	1
+钓竿箱	diao gan xiang	1
+吊杆仰角	diao gan yang jiao	1
+吊杆柱	diao gan zhu	1
+吊杆装置	diao gan zhuang zhi	1
+吊杆座	diao gan zuo	1
+吊缸	diao gang	1
+吊钩净高	diao gou jing gao	1
+吊钩梁	diao gou liang	1
+吊钩装置	diao gou zhuang zhi	1
+吊货索	diao huo suo	1
+吊货索具	diao huo suo ju	1
+吊货眼板	diao huo yan ban	1
+吊梁	diao liang	1
+吊锚	diao mao	1
+吊锚杆	diao mao gan	1
+吊锚索具	diao mao suo ju	1
+吊锚状态	diao mao zhuang tai	1
+吊艇架	diao ting jia	1
+吊艇架跨距	diao ting jia kua ju	1
+吊艇索	diao ting suo	1
+吊艇装置	diao ting zhuang zhi	1
+吊网门形架	diao wang men xing jia	1
+吊装分析	diao zhuang fen xi	1
+蝶阀阀座	die fa fa zuo	1
+迭梁式坞门	die liang shi wu men	1
+碟式油分离机	die shi you fen li ji	1
+顶边舱	ding bian cang	1
+顶边水舱	ding bian shui cang	1
+顶边翼舱	ding bian yi cang	1
+定常空泡	ding chang kong pao	1
+定径清管器	ding jing qing guan qi	1
+顶举系数	ding ju xi shu	1
+顶浪	ding lang	1
+定期租船	ding qi zu chuan	1
+定深拖法	ding shen tuo fa	1
+顶索绞车	ding suo jiao che	1
+顶推	ding tui	1
+顶推船	ding tui chuan	1
+顶桅	ding wei	1
+定位焊	ding wei han	1
+定位锚	ding wei mao	1
+定位能力	ding wei neng li	1
+定位系统	ding wei xi tong	1
+定位桩	ding wei zhuang	1
+定位桩架	ding wei zhuang jia	1
+定位桩台车	ding wei zhuang tai che	1
+定置网打桩机	ding zhi wang da zhuang ji	1
+动臂起重机	dong bi qi zhong ji	1
+东方港	dong fang gang	1
+东方海外	dong fang hai wai	1
+动横倾角	dong heng qing jiao	1
+东京	dong jing	1
+动力定位	dong li ding wei	1
+动力滑轮	dong li hua lun	1
+动力减震器	dong li jian zhen qi	1
+动力平台	dong li ping tai	1
+东伦敦	dong lun dun	1
+动倾覆角	dong qing fu jiao	1
+动水位升高	dong shui wei sheng gao	1
+动弯矩	dong wan ju	1
+动稳定性	dong wen ding xing	1
+动稳性	dong wen xing	1
+动稳性曲线	dong wen xing qu xian	1
+斗湖	dou hu	1
+斗链	dou lian	1
+斗链张紧装置	dou lian zhang jin zhuang zhi	1
+斗轮铰刀	dou lun jiao dao	1
+斗桥	dou qiao	1
+斗桥吊架	dou qiao diao jia	1
+斗桥起落装置	dou qiao qi luo zhuang zhi	1
+杜阿拉	du a la	1
+都柏林	du bo lin	1
+渡船	du chuan	1
+杜蒂戈林	du di ge lin	1
+镀铬修复	du ge xiu fu	1
+都拉斯	du la si	1
+堵漏棒	du lou bang	1
+堵漏用具	du lou yong ju	1
+渡轮	du lun	1
+镀铁修复	du tie xiu fu	1
+短波通信	duan bo tong xin	1
+短峰波	duan feng bo	1
+端铰链	duan jiao lian	1
+端铰链底座	duan jiao lian di zuo	1
+短暂加速度	duan zan jia su du	1
+短纵桁	duan zong heng	1
+对称电压	dui chen dian ya	1
+对称浸水	dui chen jin shui	1
+对称天线	dui chen tian xian	1
+对接焊缝隙	dui jie han feng xi	1
+对流加速度	dui liu jia su du	1
+对中限制器	dui zhong xian zhi qi	1
+对转螺旋桨	dui zhuan luo xuan jiang	1
+趸船	dun chuan	1
+敦贺	dun he	1
+敦刻尔克	dun ke er ke	1
+墩木	dun mu	1
+吨位	dun wei	1
+吨位表	dun wei biao	1
+吨位丈量	dun wei zhang liang	1
+舵板	duo ban	1
+舵臂	duo bi	1
+舵柄	duo bing	1
+舵柄连杆	duo bing lian gan	1
+舵掣	duo che	1
+舵承	duo cheng	1
+多德雷赫特	duo de lei he te	1
+舵杆	duo gan	1
+舵杆衬套	duo gan chen tao	1
+舵杆承座	duo gan cheng zuo	1
+舵杆挡圈	duo gan dang quan	1
+舵杆接头	duo gan jie tou	1
+舵杆扭矩	duo gan niu ju	1
+舵杆轴套	duo gan zhou tao	1
+舵高	duo gao	1
+舵构架	duo gou jia	1
+多哈	duo ha	1
+舵厚度比	duo hou du bi	1
+舵机	duo ji	1
+多机并车试验	duo ji bing che shi yan	1
+舵机舱	duo ji cang	1
+舵机房	duo ji fang	1
+舵机间	duo ji jian	1
+多级预热给水	duo ji yu re gei shui	1
+舵机装置	duo ji zhuang zhi	1
+多甲板船	duo jia ban chuan	1
+舵角	duo jiao	1
+舵角发送器	duo jiao fa song qi	1
+舵角接收器	duo jiao jie shou qi	1
+舵角限位器	duo jiao xian wei qi	1
+舵角指示器	duo jiao zhi shi qi	1
+舵空化	duo kong hua	1
+舵宽	duo kuan	1
+舵链导轮	duo lian dao lun	1
+舵令	duo ling	1
+多路耦合器	duo lu ou he qi	1
+多伦多	duo lun duo	1
+舵面积	duo mian ji	1
+舵面积比	duo mian ji bi	1
+多能打桩架	duo neng da zhuang jia	1
+舵钮	duo niu	1
+舵平衡比	duo ping heng bi	1
+舵剖面	duo pou mian	1
+舵剖面型值	duo pou mian xing zhi	1
+多普勒计程仪	duo pu le ji cheng yi	1
+多普勒记程仪	duo pu le ji cheng yi	1
+多普勒声呐	duo pu le sheng na	1
+舵三分力仪	duo san fen li yi	1
+舵扇	duo shan	1
+舵设备	duo she bei	1
+多体船	duo ti chuan	1
+舵头	duo tou	1
+舵销	duo xiao	1
+舵销承衬套	duo xiao cheng chen tao	1
+舵销承座	duo xiao cheng zuo	1
+舵销轴套	duo xiao zhou tao	1
+惰性冲洗	duo xing chong xi	1
+多星定位	duo xing ding wei	1
+惰性化	duo xing hua	1
+惰性气体系统	duo xing qi ti xi tong	1
+惰性增压	duo xing zeng ya	1
+惰性状态	duo xing zhuang tai	1
+舵压力	duo ya li	1
+舵压力中心	duo ya li zhong xin	1
+舵叶	duo ye	1
+多叶舵	duo ye duo	1
+舵叶尾材	duo ye wei cai	1
+多用途货船	duo yong tu huo chuan	1
+舵展弦比	duo zhan xian bi	1
+多支承舵	duo zhi cheng duo	1
+舵轴	duo zhou	1
+舵轴舵	duo zhou duo	1
+多轴系	duo zhou xi	1
+舵柱	duo zhu	1
+惰走曲线	duo zou qu xian	1
+舵作用	duo zuo yong	1
+轭架	e jia	1
+恩塞纳达	en sai na da	1
+二次配电系统	er ci pei dian xi tong	1
+二副	er fu	1
+二副室	er fu shi	1
+二管轮	er guan lun	1
+二管轮室	er guan lun shi	1
+饵料柜	er liao gui	1
+二氧化碳室	er yang hua tan shi	1
+发电机屏	fa dian ji ping	1
+法定检验	fa ding jian yan	1
+发动机加速	fa dong ji jia su	1
+法兰西堡	fa lan xi bao	1
+阀面研磨	fa mian yan mo	1
+发射换能器	fa she huan neng qi	1
+反馈	fan kui	1
+反馈装置	fan kui zhuang zhi	1
+反射舵	fan she duo	1
+反向横距	fan xiang heng ju	1
+反应堆舱	fan ying dui cang	1
+反应舵	fan ying duo	1
+反应推进器	fan ying tui jin qi	1
+反转试验	fan zhuan shi yan	1
+方便旗	fang bian qi	1
+方便旗船	fang bian qi chuan	1
+防冰系统	fang bing xi tong	1
+防沉板	fang chen ban	1
+防喘系统	fang chuan xi tong	1
+方窗	fang chuang	1
+防火舱壁	fang huo cang bi	1
+防火分隔	fang huo fen ge	1
+防火风门	fang huo feng men	1
+防火风闸	fang huo feng zha	1
+防浪阀	fang lang fa	1
+方龙骨	fang long gu	1
+放弃货载	fang qi huo zai	1
+放气系统	fang qi xi tong	1
+防倾肘板	fang qing zhou ban	1
+防蚀	fang shi	1
+防蚀设计	fang shi she ji	1
+防鼠档	fang shu dang	1
+防水盖布	fang shui gai bu	1
+放艇安全索	fang ting an quan suo	1
+方艉	fang wei	1
+方艉端面	fang wei duan mian	1
+方艉浸宽	fang wei jin kuan	1
+方艉浸深	fang wei jin shen	1
+防污	fang wu	1
+防污涂料	fang wu tu liao	1
+防险救生船	fang xian jiu sheng chuan	1
+方向谱	fang xiang pu	1
+方向稳定性	fang xiang wen ding xing	1
+方形系数	fang xing xi shu	1
+防锈涂料	fang xiu tu liao	1
+防震耳罩	fang zhen er zhao	1
+防撞舱壁	fang zhuang cang bi	1
+防撞装置	fang zhuang zhuang zhi	1
+飞车	fei che	1
+费尔索夫图谱	fei er suo fu tu pu	1
+非法排放	fei fa pai fang	1
+非机动船	fei ji dong chuan	1
+飞溅区	fei jian qu	1
+飞溅区腐蚀	fei jian qu fu shi	1
+飞溅阻力	fei jian zu li	1
+费拉德国尔菲亚	fei la de guo er fei ya	1
+费利克斯托	fei li ke si tuo	1
+菲利普斯岛	fei li pu si dao	1
+非水密舱壁	fei shui mi cang bi	1
+非水密门	fei shui mi men	1
+腓特烈斯塔	fei te lie si ta	1
+腓特烈西亚	fei te lie xi ya	1
+非危险区域	fei wei xian qu yu	1
+非约束管道	fei yue shu guan dao	1
+飞重	fei zhong	1
+粪便泵	fen bian beng	1
+粪便管	fen bian guan	1
+分舱吃水	fen cang chi shui	1
+分舱因数	fen cang yin shu	1
+分舱载重线	fen cang zai zhong xian	1
+分段建造法	fen duan jian zao fa	1
+分段拼模试验	fen duan pin mo shi yan	1
+分段装配	fen duan zhuang pei	1
+分级卸载	fen ji xie zai	1
+分励脱扣	fen li tuo kou	1
+分罗经	fen luo jing	1
+分泥板	fen ni ban	1
+分水机	fen shui ji	1
+分体式浮船坞	fen ti shi fu chuan wu	1
+分油工况	fen you gong kuang	1
+分油机	fen you ji	1
+分杂机	fen za ji	1
+风暴扶手	feng bao fu shou	1
+风暴钩	feng bao gou	1
+封舱胶布	feng cang jiao bu	1
+封舱锁条	feng cang suo tiao	1
+封舱楔	feng cang xie	1
+封舱楔耳	feng cang xie er	1
+封舱压条	feng cang ya tiao	1
+封舱装置	feng cang zhuang zhi	1
+风帆助航推进	feng fan zhu hang tui jin	1
+风加速度	feng jia su du	1
+风力增强	feng li zeng qiang	1
+丰桥	feng qiao	1
+封水环	feng shui huan	1
+封水块	feng shui kuai	1
+风速风向仪	feng su feng xiang yi	1
+峰隙	feng xi	1
+缝隙腐蚀	feng xi fu shi	1
+风向灯	feng xiang deng	1
+风压倾斜力矩	feng ya qing xie li ju	1
+风雨密门	feng yu mi men	1
+风雨密性	feng yu mi xing	1
+风载荷	feng zai he	1
+佛纳	fo na	1
+覆板	fu ban	1
+浮标系统绞车	fu biao xi tong jiao che	1
+覆材甲板	fu cai jia ban	1
+辅柴油机	fu chai you ji	1
+浮船坞	fu chuan wu	1
+浮船坞飞桥	fu chuan wu fei qiao	1
+浮船坞举力	fu chuan wu ju li	1
+浮船坞挠度	fu chuan wu nao du	1
+浮船坞配载	fu chuan wu pei zai	1
+浮船坞试验	fu chuan wu shi yan	1
+浮船坞支墩	fu chuan wu zhi dun	1
+浮船坞总长	fu chuan wu zong chang	1
+辅给水系统	fu gei shui xi tong	1
+副钩起重量	fu gou qi zhong liang	1
+辅机	fu ji	1
+副机	fu ji	1
+付机海水泵	fu ji hai shui beng	1
+辅机基座	fu ji ji zuo	1
+负加速度	fu jia su du	1
+附加质量	fu jia zhi liang	1
+辅空气瓶	fu kong qi ping	1
+符拉迪沃斯托克	fu la di wo si tuo ke	1
+弗里波特	fu li bo te	1
+浮力舱	fu li cang	1
+弗里敦	fu li dun	1
+弗里曼特尔	fu li man te er	1
+浮力曲线	fu li qu xian	1
+浮力升船机	fu li sheng chuan ji	1
+浮力调节系统	fu li tiao jie xi tong	1
+浮锚	fu mao	1
+辅汽轮机	fu qi lun ji	1
+辅汽轮机组	fu qi lun ji zu	1
+辅燃气轮机	fu ran qi lun ji	1
+辅燃气轮机组	fu ran qi lun ji zu	1
+釜山	fu shan	1
+辐射发射	fu she fa she	1
+辐射干扰	fu she gan rao	1
+辐射敏感度	fu she min gan du	1
+辐射危害	fu she wei hai	1
+辐射吸收	fu she xi shou	1
+腐蚀	fu shi	1
+腐蚀电池	fu shi dian chi	1
+腐蚀电流	fu shi dian liu	1
+腐蚀电位	fu shi dian wei	1
+腐蚀疲劳	fu shi pi lao	1
+腐蚀深度	fu shi shen du	1
+浮式生产系统	fu shi sheng chan xi tong	1
+腐蚀裕量	fu shi yu liang	1
+福斯	fu si	1
+福塔莱萨	fu ta lai sa	1
+副台	fu tai	1
+浮态	fu tai	1
+浮体	fu ti	1
+附体阻力	fu ti zu li	1
+浮筒绞车	fu tong jiao che	1
+复位	fu wei	1
+复位动作	fu wei dong zuo	1
+浮坞	fu wu	1
+服务航速	fu wu hang su	1
+浮坞起重机	fu wu qi zhong ji	1
+浮箱	fu xiang	1
+复向期	fu xiang qi	1
+浮箱式浮船坞	fu xiang shi fu chuan wu	1
+浮箱式坞门	fu xiang shi wu men	1
+浮心	fu xin	1
+浮性	fu xing	1
+浮油回收船	fu you hui shou chuan	1
+浮油回收装置	fu you hui shou zhuang zhi	1
+浮游生物吊杆	fu you sheng wu diao gan	1
+复原力臂	fu yuan li bi	1
+复原力矩	fu yuan li ju	1
+扶正分析	fu zheng fen xi	1
+扶正能力	fu zheng neng li	1
+辅蒸汽系统	fu zheng qi xi tong	1
+扶正注水	fu zheng zhu shui	1
+辅助操舵装置	fu zhu cao duo zhuang zhi	1
+辅助舰船	fu zhu jian chuan	1
+辅助水柜	fu zhu shui gui	1
+辅助阳极	fu zhu yang ji	1
+辅助阳极材料	fu zhu yang ji cai liao	1
+改变航向到	gai bian hang xiang dao	1
+盖布泽	gai bu ze	1
+盖面焊	gai mian han	1
+盖姆利克	gai mu li ke	1
+干舱	gan cang	1
+干船坞	gan chuan wu	1
+干货船	gan huo chuan	1
+干罗经	gan luo jing	1
+干扰力	gan rao li	1
+干湿温度计	gan shi wen du ji	1
+感温探头	gan wen tan tou	1
+干舷	gan xian	1
+干线导管	gan xian dao guan	1
+干线放线机	gan xian fang xian ji	1
+干舷甲板	gan xian jia ban	1
+干线理线机	gan xian li xian ji	1
+干线起线机	gan xian qi xian ji	1
+感烟探头	gan yan tan tou	1
+赶油工况	gan you gong kuang	1
+钢材预处理	gang cai yu chu li	1
+钢船	gang chuan	1
+港口惯例	gang kou guan li	1
+港口航道与海岸工程	gang kou hang dao yu hai an gong cheng	1
+港口容纳量	gang kou rong na liang	1
+港口设备	gang kou she bei	1
+钢丝夹	gang si jia	1
+钢丝紧索夹	gang si jin suo jia	1
+钢丝切断	gang si qie duan	1
+钢丝网门	gang si wang men	1
+钢丝油	gang si you	1
+缸套水系统	gang tao shui xi tong	1
+港调	gang tiao	1
+港务船	gang wu chuan	1
+刚性构件	gang xing gou jian	1
+刚性救生筏	gang xing jiu sheng fa	1
+刚性轴系	gang xing zhou xi	1
+钢质工程	gang zhi gong cheng	1
+高度差法	gao du cha fa	1
+高度视差	gao du shi cha	1
+高级船员舱	gao ji chuan yuan cang	1
+高肋板	gao lei ban	1
+高速喷头	gao su pen tou	1
+高位通海阀	gao wei tong hai fa	1
+高性能船	gao xing neng chuan	1
+高压空气瓶	gao ya kong qi ping	1
+高压空气系统	gao ya kong qi xi tong	1
+高压水冲洗	gao ya shui chong xi	1
+高压水清洗	gao ya shui qing xi	1
+高压无气喷涂	gao ya wu qi pen tu	1
+隔爆篷顶灯	ge bao peng ding deng	1
+哥本哈根	ge ben ha gen	1
+隔舱填料函	ge cang tian liao han	1
+格但斯克	ge dan si ke	1
+哥德堡	ge de bao	1
+格丁尼亚	ge ding ni ya	1
+搁墩负荷	ge dun fu he	1
+格拉斯哥	ge la si ge	1
+格兰粉	ge lan fen	1
+隔离管	ge li guan	1
+哥伦布	ge lun bu	1
+格栅滤器	ge shan lv qi	1
+隔水管张力器	ge shui guan zhang li qi	1
+隔水套管	ge shui tao guan	1
+隔水套管构架	ge shui tao guan gou jia	1
+铬酸盐处理	ge suan yan chu li	1
+戈特霍布	ge te huo bu	1
+格网北	ge wang bei	1
+格网航向	ge wang hang xiang	1
+格网艏向	ge wang shou xiang	1
+格子线	ge zi xian	1
+给水加热器	gei shui jia re qi	1
+给水软化装置	gei shui ruan hua zhuang zhi	1
+根厚	gen hou	1
+根涡	gen wo	1
+更换水泥	geng huan shui ni	1
+工程船	gong cheng chuan	1
+共电式电话机	gong dian shi dian hua ji	1
+功率电源	gong lv dian yuan	1
+功率换算	gong lv huan suan	1
+功率载荷系数	gong lv zai he xi shu	1
+供应船	gong ying chuan	1
+工作艇	gong zuo ting	1
+毂长	gu chang	1
+固定锚	gu ding mao	1
+固定式平台	gu ding shi ping tai	1
+固定载荷	gu ding zai he	1
+骨架	gu jia	1
+古晋	gu jin	1
+毂径	gu jing	1
+毂径比	gu jing bi	1
+固井船	gu jing chuan	1
+鼓轮式布缆机	gu lun shi bu lan ji	1
+毂帽	gu mao	1
+固体浮力材料	gu ti fu li cai liao	1
+固艇索具	gu ting suo ju	1
+故障	gu zhang	1
+故障安全	gu zhang an quan	1
+瓜达拉哈拉	gua da la ha la	1
+挂舵臂	gua duo bi	1
+瓜亚基尔	gua ya ji er	1
+瓜伊马斯	gua yi ma si	1
+冠板	guan ban	1
+关闭	guan bi	1
+关丹	guan dan	1
+管道标志	guan dao biao zhi	1
+管道封头	guan dao feng tou	1
+管道接岸段	guan dao jie an duan	1
+管道末端管汇	guan dao mo duan guan hui	1
+管道疏通机	guan dao shu tong ji	1
+管段连接	guan duan lian jie	1
+管结点	guan jie dian	1
+贯通肘板	guan tong zhou ban	1
+管系放样	guan xi fang yang	1
+惯性导航	guan xing dao hang	1
+惯性导航系统	guan xing dao hang xi tong	1
+惯性空间	guan xing kong jian	1
+管形支柱	guan xing zhi zhu	1
+管子预装	guan zi yu zhuang	1
+广船国际	guang chuan guo ji	1
+广岛	guang dao	1
+光化性	guang hua xing	1
+光能测定仪	guang neng ce ding yi	1
+光线强度计	guang xian qiang du ji	1
+光学测距仪	guang xue ce ju yi	1
+光学方位仪	guang xue fang wei yi	1
+光学天文导航	guang xue tian wen dao hang	1
+光阳	guang yang	1
+广州黄埔	guang zhou huang pu	1
+柜床	gui chuang	1
+规则波	gui ze bo	1
+规则波中试验	gui ze bo zhong shi yan	1
+滚动式舱口盖	gun dong shi cang kou gai	1
+滚翻式舱口盖	gun fan shi cang kou gai	1
+滚卷式舱口盖	gun juan shi cang kou gai	1
+滚轮导缆器	gun lun dao lan qi	1
+滚轮绞机	gun lun jiao ji	1
+滚轮装置	gun lun zhuang zhi	1
+滚筒柄	gun tong bing	1
+滚筒漆刷芯	gun tong qi shua xin	1
+滚筒芯	gun tong xin	1
+滚柱导缆器	gun zhu dao lan qi	1
+滚装船	gun zhuang chuan	1
+滚装通道设备	gun zhuang tong dao she bei	1
+过渡舱	guo du cang	1
+过荷传感器	guo he chuan gan qi	1
+国际吨位证书	guo ji dun wei zheng shu	1
+国际海上拖航	guo ji hai shang tuo hang	1
+国际海事委员会	guo ji hai shi wei yuan hui	1
+国际海事组织	guo ji hai shi zu zhi	1
+国际海运危险货物规则	guo ji hai yun wei xian huo wu gui ze	1
+国际航运业务管理	guo ji hang yun ye wu guan li	1
+国际通岸接头	guo ji tong an jie tou	1
+锅炉安全阀	guo lu an quan fa	1
+锅炉舱	guo lu cang	1
+锅炉底座定位	guo lu di zuo ding wei	1
+锅炉管孔堵焊	guo lu guan kong du han	1
+锅炉排污系统	guo lu pai wu xi tong	1
+锅炉燃油泵	guo lu ran you beng	1
+锅炉燃油系统	guo lu ran you xi tong	1
+锅炉日用油柜	guo lu ri yong you gui	1
+锅炉水舱	guo lu shui cang	1
+锅炉水酸性	guo lu shui suan xing	1
+锅炉水压试验	guo lu shui ya shi yan	1
+锅炉座	guo lu zuo	1
+锅筒定位	guo tong ding wei	1
+哈尔姆斯塔德	ha er mu si ta de	1
+哈科特港	ha ke te gang	1
+哈瓦那	ha wa na	1
+海船	hai chuan	1
+海底冲刷	hai di chong shua	1
+海底阀箱	hai di fa xiang	1
+海底格栅	hai di ge shan	1
+海底管道	hai di guan dao	1
+海底管道系统	hai di guan dao xi tong	1
+海底爬行机	hai di pa xing ji	1
+海东造船厂	hai dong zao chuan chang	1
+海法	hai fa	1
+海防	hai fang	1
+海军系数	hai jun xi shu	1
+海流载荷	hai liu zai he	1
+海泥区腐蚀	hai ni qu fu shi	1
+海事局	hai shi ju	1
+海水泵	hai shui beng	1
+海水淡化装置	hai shui dan hua zhuang zhi	1
+海水滤器	hai shui lv qi	1
+海水系统	hai shui xi tong	1
+海水压力柜	hai shui ya li gui	1
+海水蒸馏装置	hai shui zheng liu zhuang zhi	1
+海损载荷	hai sun zai he	1
+海图灯	hai tu deng	1
+海图室	hai tu shi	1
+海图桌	hai tu zhuo	1
+海峡渡船	hai xia du chuan	1
+海洋大气腐蚀	hai yang da qi fu shi	1
+海洋调查船	hai yang diao cha chuan	1
+海洋腐蚀	hai yang fu shi	1
+海洋平台	hai yang ping tai	1
+氦氧潜水电话	hai yang qian shui dian hua	1
+海运单	hai yun dan	1
+汉堡	han bao	1
+汉堡规则	han bao gui ze	1
+汉堡海关灯	han bao hai guan deng	1
+焊缝成形	han feng cheng xing	1
+焊缝余高	han feng yu gao	1
+焊缝正面	han feng zheng mian	1
+焊合线	han he xian	1
+焊剂漏斗	han ji lou dou	1
+焊脚	han jiao	1
+焊脚长度	han jiao chang du	1
+焊接变位机	han jie bian wei ji	1
+焊接操作	han jie cao zuo	1
+焊接衬垫	han jie chen dian	1
+焊接船体结构	han jie chuan ti jie gou	1
+焊接窗	han jie chuang	1
+焊接工艺	han jie gong yi	1
+焊接工作台	han jie gong zuo tai	1
+焊接锚链钢	han jie mao lian gang	1
+焊接速度	han jie su du	1
+焊接性试验	han jie xing shi yan	1
+焊区腐蚀	han qu fu shi	1
+焊丝间距	han si jian ju	1
+焊丝盘	han si pan	1
+焊趾裂纹	han zhi lie wen	1
+航标舱	hang biao cang	1
+航标船	hang biao chuan	1
+航标起重机	hang biao qi zhong ji	1
+航标失常	hang biao shi chang	1
+航次期租	hang ci qi zu	1
+航次租船	hang ci zu chuan	1
+航道	hang dao	1
+航海技术	hang hai ji shu	1
+航海性能	hang hai xing neng	1
+航迹	hang ji	1
+航迹角	hang ji jiao	1
+航速	hang su	1
+航速试验	hang su shi yan	1
+航位推算法	hang wei tui suan fa	1
+航向	hang xiang	1
+航向保持性	hang xiang bao chi xing	1
+航向改变试验	hang xiang gai bian shi yan	1
+航行补给船	hang xing bu ji chuan	1
+航行灯	hang xing deng	1
+航行灯控制器	hang xing deng kong zhi qi	1
+航行监控台	hang xing jian kong tai	1
+航行距离	hang xing ju li	1
+航行试验	hang xing shi yan	1
+航行信号设备	hang xing xin hao she bei	1
+航运管理	hang yun guan li	1
+杭州东风	hang zhou dong feng	1
+号灯	hao deng	1
+号笛控制装置	hao di kong zhi zhuang zhi	1
+号笛信号灯	hao di xin hao deng	1
+豪尔费坎	hao er fei kan	1
+号旗	hao qi	1
+浩友船厂	hao you chuan chang	1
+号钟	hao zhong	1
+核动力船	he dong li chuan	1
+核动力装置	he dong li zhuang zhi	1
+赫尔辛基	he er xin ji	1
+核潜艇	he qian ting	1
+荷台达	he tai da	1
+合象式测距仪	he xiang shi ce ju yi	1
+黑德兰港	hei de lan gang	1
+黑角	hei jiao	1
+横滨	heng bin	1
+桁材	heng cai	1
+横舱壁	heng cang bi	1
+横荡	heng dang	1
+横电磁波室	heng dian ci bo shi	1
+恒电流	heng dian liu	1
+恒电位仪	heng dian wei yi	1
+横舵柄	heng duo bing	1
+横骨架式	heng gu jia shi	1
+横焊	heng han	1
+横桁	heng heng	1
+桁架桅	heng jia wei	1
+横距	heng ju	1
+横框架肋骨	heng kuang jia lei gu	1
+横浪	heng lang	1
+横裂纹	heng lie wen	1
+横漂	heng piao	1
+横剖面	heng pou mian	1
+横剖线	heng pou xian	1
+横倾	heng qing	1
+横倾角	heng qing jiao	1
+横倾力矩	heng qing li ju	1
+横倾平衡泵	heng qing ping heng beng	1
+横甩	heng shuai	1
+恒温计	heng wen ji	1
+横稳心	heng wen xin	1
+横稳性	heng wen xing	1
+横向堆列	heng xiang dui lie	1
+横向滑道	heng xiang hua dao	1
+横向拉伸	heng xiang la shen	1
+横向强度	heng xiang qiang du	1
+横向梳式滑道	heng xiang shu shi hua dao	1
+横向下水	heng xiang xia shui	1
+横摇	heng yao	1
+横摇角	heng yao jiao	1
+横摇扭矩	heng yao niu ju	1
+横摇衰减曲线	heng yao shuai jian qu xian	1
+横摇阻尼	heng yao zu ni	1
+横移车	heng yi che	1
+横移绞车	heng yi jiao che	1
+横移坑	heng yi keng	1
+横移区	heng yi qu	1
+恒张力系统	heng zhang li xi tong	1
+横张索	heng zhang suo	1
+鸿寇船厂	hong kou chuan chang	1
+后备断路器	hou bei duan lu qi	1
+后端壁	hou duan bi	1
+后热温度	hou re wen du	1
+后体	hou ti	1
+后桅	hou wei	1
+后转式尾门	hou zhuan shi wei men	1
+沪东中华	hu dong zhong hua	1
+弧焊变压器	hu han bian ya qi	1
+弧焊整流器	hu han zheng liu qi	1
+护卫舰	hu wei jian	1
+护卫艇	hu wei ting	1
+护舷材	hu xian cai	1
+胡志明新港	hu zhi ming xin gang	1
+滑板	hua ban	1
+滑参数起动	hua can shu qi dong	1
+滑车	hua che	1
+滑道间距	hua dao jian ju	1
+滑道门	hua dao men	1
+滑道末端凹口	hua dao mo duan ao kou	1
+滑道末端水深	hua dao mo duan shui shen	1
+滑道末端压力	hua dao mo duan ya li	1
+滑道坡度	hua dao po du	1
+滑道摇架	hua dao yao jia	1
+滑道转盘	hua dao zhuan pan	1
+划桨救生艇	hua jiang jiu sheng ting	1
+花蓝螺丝	hua lan luo si	1
+滑轮机构	hua lun ji gou	1
+花铁板	hua tie ban	1
+话筒	hua tong	1
+滑行艇	hua xing ting	1
+滑行艇底面积	hua xing ting di mian ji	1
+化学品船	hua xue pin chuan	1
+滑油泵	hua you beng	1
+滑油舱	hua you cang	1
+滑油沉淀柜	hua you chen dian gui	1
+滑油澄清舱	hua you cheng qing cang	1
+滑油储藏舱	hua you chu cang cang	1
+滑油分油机	hua you fen you ji	1
+滑油加热器	hua you jia re qi	1
+滑油间歇净化	hua you jian xie jing hua	1
+滑油净化系统	hua you jing hua xi tong	1
+滑油冷却器	hua you leng que qi	1
+滑油连续净化	hua you lian xu jing hua	1
+滑油输送泵	hua you shu song beng	1
+滑油污油舱	hua you wu you cang	1
+滑油系统	hua you xi tong	1
+滑油消耗率	hua you xiao hao lv	1
+滑油泄放柜	hua you xie fang gui	1
+滑油泄放系统	hua you xie fang xi tong	1
+滑油循环舱	hua you xun huan cang	1
+滑油循环柜	hua you xun huan gui	1
+滑油溢油舱	hua you yi you cang	1
+滑油油渣柜	hua you you zha gui	1
+滑油贮存柜	hua you zhu cun gui	1
+化装台	hua zhuang tai	1
+环境设计衡准	huan jing she ji heng zhun	1
+环境载荷	huan jing zai he	1
+环境资料	huan jing zi liao	1
+环流加速度	huan liu jia su du	1
+换向机构	huan xiang ji gou	1
+换向时间	huan xiang shi jian	1
+环形吸收体	huan xing xi shou ti	1
+环照灯	huan zhao deng	1
+晃荡	huang dang	1
+黄海船厂	huang hai chuan chang	1
+回舵试验	hui duo shi yan	1
+回声测深仪	hui sheng ce shen yi	1
+灰水	hui shui	1
+回油柜	hui you gui	1
+回转横倾角	hui zhuan heng qing jiao	1
+回转迹线	hui zhuan ji xian	1
+回转绞车	hui zhuan jiao che	1
+回转区域	hui zhuan qu yu	1
+回转区域半径	hui zhuan qu yu ban jing	1
+回转试验	hui zhuan shi yan	1
+回转速降	hui zhuan su jiang	1
+回转突倾	hui zhuan tu qing	1
+回转性	hui zhuan xing	1
+回转中心	hui zhuan zhong xin	1
+回转周期	hui zhuan zhou qi	1
+混合骨架式	hun he gu jia shi	1
+货舱	huo cang	1
+货舱盖	huo cang gai	1
+货舱工作灯	huo cang gong zuo deng	1
+货舱甲板	huo cang jia ban	1
+货舱口	huo cang kou	1
+货舱容积	huo cang rong ji	1
+货船	huo chuan	1
+货船安全证书	huo chuan an quan zheng shu	1
+活动板手	huo dong ban shou	1
+活动梯步	huo dong ti bu	1
+霍尔迪亚	huo er di ya	1
+火工矫正	huo gong jiao zheng	1
+火警复显器	huo jing fu xian qi	1
+火警检测箱	huo jing jian ce xiang	1
+火炬平台	huo ju ping tai	1
+活络钣	huo luo ban	1
+霍梅尼港	huo mei ni gang	1
+火奴鲁鲁	huo nu lu lu	1
+活塞裙	huo sai qun	1
+活塞头	huo sai tou	1
+货物扭矩	huo wu niu ju	1
+火星熄灭器	huo xing xi mie qi	1
+火焰探头	huo yan tan tou	1
+货油泵	huo you beng	1
+货油舱	huo you cang	1
+货油阀	huo you fa	1
+货油控制室	huo you kong zhi shi	1
+货油压载舱	huo you ya zai cang	1
+吉布提	ji bu ti	1
+机舱	ji cang	1
+机舱报警	ji cang bao jing	1
+机舱部分	ji cang bu fen	1
+机舱布置	ji cang bu zhi	1
+机舱辅机	ji cang fu ji	1
+机舱辅机组	ji cang fu ji zu	1
+机舱集控室	ji cang ji kong shi	1
+机舱集控台	ji cang ji kong tai	1
+机舱监测报警	ji cang jian ce bao jing	1
+机舱棚	ji cang peng	1
+机舱平台	ji cang ping tai	1
+机舱通风机	ji cang tong feng ji	1
+机舱涂料	ji cang tu liao	1
+机舱自动化	ji cang zi dong hua	1
+计程仪	ji cheng yi	1
+计程仪舱	ji cheng yi cang	1
+基础台架	ji chu tai jia	1
+吉达	ji da	1
+吉大港	ji da gang	1
+机电式报警器	ji dian shi bao jing qi	1
+机动船	ji dong chuan	1
+机动救生艇	ji dong jiu sheng ting	1
+吉恩吉恩	ji en ji en	1
+基尔	ji er	1
+机帆船	ji fan chuan	1
+级分隔	ji fen ge	1
+激光测速仪	ji guang ce su yi	1
+机架定位	ji jia ding wei	1
+系紧螺栓	ji jin luo shuan	1
+机控室	ji kong shi	1
+集控台	ji kong tai	1
+吉朗	ji lang	1
+激流装置	ji liu zhuang zhi	1
+基隆	ji long	1
+基面	ji mian	1
+基盘式平台	ji pan shi ping tai	1
+机器处所	ji qi chu suo	1
+极区船	ji qu chuan	1
+集输管道	ji shu guan dao	1
+集输系统	ji shu xi tong	1
+集输中心	ji shu zhong xin	1
+基斯马尤	ji si ma you	1
+计算剖面	ji suan pou mian	1
+计算水头	ji suan shui tou	1
+计算图式	ji suan tu shi	1
+计算载荷	ji suan zai he	1
+计算状态	ji suan zhuang tai	1
+机械除锈	ji xie chu xiu	1
+机械开沟法	ji xie kai gou fa	1
+机械调速器	ji xie tiao su qi	1
+机械噪声	ji xie zao sheng	1
+机械轴封	ji xie zhou feng	1
+机修间	ji xiu jian	1
+积载	ji zai	1
+积载因数	ji zai yin shu	1
+激振机	ji zhen ji	1
+激振试验	ji zhen shi yan	1
+机装	ji zhuang	1
+集装箱驳船	ji zhuang xiang bo chuan	1
+集装箱舱	ji zhuang xiang cang	1
+集装箱船	ji zhuang xiang chuan	1
+基准方向	ji zhun fang xiang	1
+基准分段	ji zhun fen duan	1
+机座找平	ji zuo zhao ping	1
+机座纵桁	ji zuo zong heng	1
+甲板	jia ban	1
+甲板板	jia ban ban	1
+甲板板架	jia ban ban jia	1
+甲板边板	jia ban bian ban	1
+甲板边线	jia ban bian xian	1
+甲板窗	jia ban chuang	1
+甲板防滑涂料	jia ban fang hua tu liao	1
+甲板敷料	jia ban fu liao	1
+甲板高度	jia ban gao du	1
+甲板横桁	jia ban heng heng	1
+甲板货提单	jia ban huo ti dan	1
+甲板加压舱	jia ban jia ya cang	1
+甲板间舱	jia ban jian cang	1
+甲板间舱壁	jia ban jian cang bi	1
+甲板间肋骨	jia ban jian lei gu	1
+甲板克令吊	jia ban ke ling diao	1
+甲板剖面模数	jia ban pou mian mo shu	1
+甲板设计载荷	jia ban she ji zai he	1
+甲板室	jia ban shi	1
+甲板水封	jia ban shui feng	1
+甲板梯	jia ban ti	1
+甲板通岸接头	jia ban tong an jie tou	1
+甲板涂料	jia ban tu liao	1
+甲板下住舱	jia ban xia zhu cang	1
+甲板下纵桁	jia ban xia zong heng	1
+甲板线	jia ban xian	1
+甲板淹湿	jia ban yan shi	1
+甲板中线	jia ban zhong xian	1
+甲板纵骨	jia ban zong gu	1
+甲板纵桁	jia ban zong heng	1
+假舱壁	jia cang bi	1
+加大链环	jia da lian huan	1
+加的夫	jia de fu	1
+甲电池	jia dian chi	1
+加尔各答	jia er ge da	1
+假毂	jia gu	1
+驾控台	jia kong tai	1
+加莱角	jia lai jiao	1
+假模	jia mo	1
+加拿大北美	jia na da bei mei	1
+加热作用	jia re zuo yong	1
+驾驶甲板	jia shi jia ban	1
+驾驶室遥控	jia shi shi yao kong	1
+加速度表	jia su du biao	1
+加速度计	jia su du ji	1
+加速段	jia su duan	1
+加速腐蚀试验	jia su fu shi shi yan	1
+加速性能	jia su xing neng	1
+加速性能试验	jia su xing neng shi yan	1
+迦哇内卢	jia wa nei lu	1
+加重电路	jia zhong dian lu	1
+尖舱肋骨	jian cang lei gu	1
+检测清管器	jian ce qing guan qi	1
+检测阈	jian ce yu	1
+检查	jian cha	1
+坚持顶浪	jian chi ding lang	1
+间断构件	jian duan gou jian	1
+间隔斗链	jian ge dou lian	1
+减功系数	jian gong xi shu	1
+减机运转试验	jian ji yun zhuan shi yan	1
+渐近稳定性	jian jin wen ding xing	1
+监控圈	jian kong quan	1
+减扭震器	jian niu zhen qi	1
+键盘	jian pan	1
+减轻孔	jian qing kong	1
+减压试验水池	jian ya shi yan shui chi	1
+减摇泵	jian yao beng	1
+减音材料	jian yin cai liao	1
+鲣鱼竿钓机	jian yu gan diao ji	1
+减震阀	jian zhen fa	1
+减轴运转试验	jian zhou yun zhuan shi yan	1
+江都船厂	jiang du chuan chang	1
+桨毂	jiang gu	1
+桨毂空化	jiang gu kong hua	1
+降落装置	jiang luo zhuang zhi	1
+江面坡度推力	jiang mian po du tui li	1
+江面坡度阻力	jiang mian po du zu li	1
+桨叶	jiang ye	1
+交叉加速度	jiao cha jia su du	1
+绞车	jiao che	1
+胶衬泥泵	jiao chen ni beng	1
+铰刀吊架	jiao dao diao jia	1
+铰刀架	jiao dao jia	1
+铰刀修理平台	jiao dao xiu li ping tai	1
+绞纲机组	jiao gang ji zu	1
+胶管张力器	jiao guan zhang li qi	1
+交换机	jiao huan ji	1
+角接接头	jiao jie jie tou	1
+铰接柱	jiao jie zhu	1
+绞缆绞车	jiao lan jiao che	1
+绞缆筒	jiao lan tong	1
+交流成份	jiao liu cheng fen	1
+角磨机磨片	jiao mo ji mo pian	1
+绞盘	jiao pan	1
+胶丝绳	jiao si sheng	1
+交验项目	jiao yan xiang mu	1
+校正时	jiao zheng shi	1
+绞制螺栓	jiao zhi luo shuan	1
+杰贝阿里	jie bei a li	1
+接触调整孔	jie chu tiao zheng kong	1
+接地	jie di	1
+节点温差	jie dian wen cha	1
+结构吃水	jie gou chi shui	1
+结构试验平台	jie gou shi yan ping tai	1
+结构噪声	jie gou zao sheng	1
+桀克逊维尔	jie ke xun wei er	1
+接口界面	jie kou jie mian	1
+接收换能器	jie shou huan neng qi	1
+解算能力	jie suan neng li	1
+接头根部	jie tou gen bu	1
+近底拖法	jin di tuo fa	1
+襟舵角	jin duo jiao	1
+进风道	jin feng dao	1
+紧急停车装置	jin ji ting che zhuang zhi	1
+紧急停船试验	jin ji ting chuan shi yan	1
+进角	jin jiao	1
+进流段	jin liu duan	1
+进气装置	jin qi zhuang zhi	1
+浸深	jin shen	1
+浸深比	jin shen bi	1
+金属覆盖层	jin shu fu gai ceng	1
+金属扣合	jin shu kou he	1
+金属喷镀	jin shu pen du	1
+金属热浸镀	jin shu re jin du	1
+金属吸收	jin shu xi shou	1
+浸水保温服	jin shui bao wen fu	1
+进水角	jin shui jiao	1
+金斯顿	jin si dun	1
+金斯敦	jin si dun	1
+进速	jin su	1
+进速比	jin su bi	1
+进速系数	jin su xi shu	1
+进坞	jin wu	1
+进坞重量	jin wu zhong liang	1
+近洋航区	jin yang hang qu	1
+襟翼舵	jin yi duo	1
+今治	jin zhi	1
+静波浪剪力	jing bo lang jian li	1
+静波浪弯矩	jing bo lang wan ju	1
+精度管理	jing du guan li	1
+净吨	jing dun	1
+净吨位	jing dun wei	1
+境港	jing gang	1
+静合成剪力	jing he cheng jian li	1
+静合成弯矩	jing he cheng wan ju	1
+净化滑油柜	jing hua hua you gui	1
+晶间裂纹	jing jian lie wen	1
+井口基盘	jing kou ji pan	1
+井口平台	jing kou ping tai	1
+静水剪力	jing shui jian li	1
+静水力曲线	jing shui li qu xian	1
+静水弯矩	jing shui wan ju	1
+鲸湾岛	jing wan dao	1
+静稳定性	jing wen ding xing	1
+静稳性	jing wen xing	1
+静稳性曲线	jing wen xing qu xian	1
+净吸收	jing xi shou	1
+镜向灯	jing xiang deng	1
+纠航能力	jiu hang neng li	1
+纠偏期	jiu pian qi	1
+救生凳	jiu sheng deng	1
+救生登乘梯	jiu sheng deng cheng ti	1
+救生电台	jiu sheng dian tai	1
+救生筏	jiu sheng fa	1
+救生筏架	jiu sheng fa jia	1
+救生服	jiu sheng fu	1
+救生浮	jiu sheng fu	1
+救生甲板	jiu sheng jia ban	1
+救生抛绳设备	jiu sheng pao sheng she bei	1
+救生气瓶	jiu sheng qi ping	1
+救生圈	jiu sheng quan	1
+救生裙	jiu sheng qun	1
+救生设备	jiu sheng she bei	1
+救生属具	jiu sheng shu ju	1
+救生索	jiu sheng suo	1
+救生艇	jiu sheng ting	1
+救生艇滑架	jiu sheng ting hua jia	1
+救生衣	jiu sheng yi	1
+救生衣灯	jiu sheng yi deng	1
+救生衣柜	jiu sheng yi gui	1
+救生钟	jiu sheng zhong	1
+酒田	jiu tian	1
+救助泵	jiu zhu beng	1
+救助艇	jiu zhu ting	1
+局部舱壁	ju bu cang bi	1
+局部腐蚀	ju bu fu shi	1
+局部空泡	ju bu kong pao	1
+局部强度	ju bu qiang du	1
+局部强度试验	ju bu qiang du shi yan	1
+局部弯曲	ju bu wan qu	1
+局部振动	ju bu zhen dong	1
+巨港	ju gang	1
+举升能力	ju sheng neng li	1
+拘束船模试验	ju shu chuan mu shi yan	1
+居住舱	ju zhu cang	1
+居住舱室	ju zhu cang shi	1
+卷纲机	juan gang ji	1
+卷筒铺管驳	juan tong pu guan bo	1
+卷网机	juan wang ji	1
+绝对计程仪	jue dui ji cheng yi	1
+卡贝略	ka bei lue	1
+卡贝略港	ka bei lue gang	1
+卡宾达	ka bin da	1
+卡尔德拉港	ka er de la gang	1
+卡基纳达	ka ji na da	1
+卡拉奇	ka la qi	1
+喀呖声	ka li sheng	1
+卡利亚里	ka li ya li	1
+卡姆登	ka mu deng	1
+卡萨布兰卡	ka sa bu lan ka	1
+卡塔赫萨	ka ta he sa	1
+卡亚俄	ka ya e	1
+开敞式救生艇	kai chang shi jiu sheng ting	1
+开沟犁法	kai gou li fa	1
+开环操纵性	kai huan cao zong xing	1
+开口钣	kai kou ban	1
+开阔场地	kai kuo chang di	1
+开普敦	kai pu dun	1
+开式给水系统	kai shi gei shui xi tong	1
+开式炉舱通风	kai shi lu cang tong feng	1
+坎德拉	kan de la	1
+堪萨斯城	kan sa si cheng	1
+抗滑稳定性	kang hua wen ding xing	1
+抗扭箱	kang niu xiang	1
+抗倾稳定性	kang qing wen ding xing	1
+康斯坦察	kang si tan cha	1
+康斯坦萨	kang si tan sa	1
+抗谐鸣边	kang xie ming bian	1
+拷铲	kao chan	1
+靠舷	kao xian	1
+可变压载	ke bian ya zai	1
+可变载荷	ke bian zai he	1
+客舱	ke cang	1
+可操纵域	ke cao zong yu	1
+客船	ke chuan	1
+客船安全证书	ke chuan an quan zheng shu	1
+可倒桅	ke dao wei	1
+科尔特斯港	ke er te si gang	1
+可翻转救生筏	ke fan zhuan jiu sheng fa	1
+可浮救生索	ke fu jiu sheng suo	1
+客货船	ke huo chuan	1
+可浸长度	ke jin chang du	1
+科克都	ke ke dou	1
+科林托	ke lin tuo	1
+克令吊筒体	ke ling diao tong ti	1
+科隆	ke long	1
+科伦坡	ke lun po	1
+可逆压载系统	ke ni ya zai xi tong	1
+可逆转柴油机	ke ni zhuan chai you ji	1
+可抛固体压载	ke pao gu ti ya zai	1
+科佩尔	ke pei er	1
+可弃压载	ke qi ya zai	1
+可潜泥管	ke qian ni guan	1
+科钦	ke qin	1
+可伸缩桅	ke shen suo wei	1
+可调压载水舱	ke tiao ya zai shui cang	1
+科托努	ke tuo nu	1
+科威特	ke wei te	1
+可移式风机	ke yi shi feng ji	1
+控测器	kong ce qi	1
+空船重量	kong chuan zhong liang	1
+空船重量分布	kong chuan zhong liang fen bu	1
+空负荷试验	kong fu he shi yan	1
+空隔舱	kong ge cang	1
+空化斗	kong hua dou	1
+空化衡准	kong hua heng zhun	1
+空化螺旋桨	kong hua luo xuan jiang	1
+空化试验	kong hua shi yan	1
+空化数	kong hua shu	1
+空化水筒	kong hua shui tong	1
+空泡长度	kong pao chang du	1
+空泡厚度	kong pao hou du	1
+空泡压力	kong pao ya li	1
+空气抽除装置	kong qi chou chu zhuang zhi	1
+空气断路器	kong qi duan lu qi	1
+空气绝缘电缆	kong qi jue yuan dian lan	1
+空气冷却器	kong qi leng que qi	1
+空气螺旋桨	kong qi luo xuan jiang	1
+空气驱动灯	kong qi qu dong deng	1
+空气箱	kong qi xiang	1
+空气消耗率	kong qi xiao hao lv	1
+孔雀港	kong que gang	1
+空调机室	kong tiao ji shi	1
+空坞吃水	kong wu chi shui	1
+空坞排水量	kong wu pai shui liang	1
+空载吃水	kong zai chi shui	1
+控制管路	kong zhi guan lu	1
+控制空气瓶	kong zhi kong qi ping	1
+控制站	kong zhi zhan	1
+口岸船厂	kou an chuan chang	1
+库尔纳	ku er na	1
+库马纳	ku ma na	1
+夸察尔科斯	kua cha er ke si	1
+快速换向试验	kuai su huan xiang shi yan	1
+快速解脱接头	kuai su jie tuo jie tou	1
+宽带发射	kuan dai fa she	1
+宽带干扰	kuan dai gan rao	1
+宽度吃水比	kuan du chi shui bi	1
+宽深比	kuan shen bi	1
+矿砂船	kuang sha chuan	1
+矿油船	kuang you chuan	1
+亏舱	kui cang	1
+亏舱费	kui cang fei	1
+馈电品	kui dian pin	1
+坤甸	kun dian	1
+昆新港	kun xin gang	1
+括纲吊臂	kuo gang diao bi	1
+拉布安	la bu an	1
+拉各斯	la ge si	1
+拉瓜伊拉	la gua yi la	1
+拉普拉塔	la pu la ta	1
+拉斯帕尔马斯	la si pa er ma si	1
+拉斯佩齐亚	la si pei qi ya	1
+拉索塔	la suo ta	1
+拉塔基亚	la ta ji ya	1
+拉完那	la wan na	1
+拉希德港	la xi de gang	1
+拉桩	la zhuang	1
+莱戈恩	lai ge en	1
+来航	lai hang	1
+莱雄厄什	lai xiong e shen	1
+栏杆柱头	lan gan zhu tou	1
+缆绳缓冲器	lan sheng huan chong qi	1
+缆索	lan suo	1
+缆索卷车	lan suo juan che	1
+浪高仪	lang gao yi	1
+浪蚀	lang shi	1
+锒头	lang tou	1
+浪向	lang xiang	1
+劳莱收信机	lao lai shou xin ji	1
+捞缆钩	lao lan gou	1
+捞雷船	lao lei chuan	1
+勒阿佛尔	le a fo er	1
+了望桅	le wang wei	1
+肋板	lei ban	1
+雷达	lei da	1
+雷达平台	lei da ping tai	1
+雷达室	lei da shi	1
+雷达桅	lei da wei	1
+雷达应答器	lei da ying da qi	1
+肋骨框架强度	lei gu kuang jia qiang du	1
+肋距	lei ju	1
+雷克雅未克	lei ke ya wei ke	1
+雷鸟尼翁	lei niao ni weng	1
+类危险区域	lei wei xian qu yu	1
+累西非	lei xi fei	1
+累西脾	lei xi pi	1
+冷藏船	leng cang chuan	1
+冷藏货舱	leng cang huo cang	1
+冷冻机室	leng dong ji shi	1
+冷库呼叫	leng ku hu jiao	1
+冷凝水柜	leng ning shui gui	1
+冷却水泵	leng que shui beng	1
+冷却水系统	leng que shui xi tong	1
+冷态起动	leng tai qi dong	1
+冷态应急起动	leng tai ying ji qi dong	1
+棱形系数	leng xing xi shu	1
+里奥格兰德	li ao ge lan de	1
+里奥热内卢	li ao re nei lu	1
+李柏君	li bai jun	1
+李伯军	li bo jun	1
+利伯维尔	li bo wei er	1
+利尔昆	li er kun	1
+立丰船厂	li feng chuan chang	1
+黎佛诺	li fo nuo	1
+立管管卡	li guan guan ka	1
+立管支撑件	li guan zhi cheng jian	1
+离合器试验	li he qi shi yan	1
+利马索尔	li ma suo er	1
+利蒙港	li meng gang	1
+里那卡	li na ka	1
+利纳克里	li na ke li	1
+利萨斯港	li sa si gang	1
+立时得胶水	li shi de jiao shui	1
+里斯本	li si ben	1
+利特尔顿	li te er dun	1
+立体分段	li ti fen duan	1
+理网机	li wang ji	1
+利物普	li wu pu	1
+利物浦	li wu pu	1
+立向上焊	li xiang shang han	1
+立向下焊	li xiang xia han	1
+里耶卡	li ye ka	1
+联邦海事委员会	lian bang hai shi wei yuan hui	1
+联动脱钩装置	lian dong tuo gou zhuang zhi	1
+链斗装置	lian dou zhuang zhi	1
+联合动力装置	lian he dong li zhuang zhi	1
+联合国海上货物运输公约	lian he guo hai shang huo wu yun shu gong yue	1
+连接链环	lian jie lian huan	1
+链节链环	lian jie lian huan	1
+连接桥	lian jie qiao	1
+连接卸扣	lian jie xie kou	1
+链径	lian jing	1
+连锁	lian suo	1
+连续板	lian xu ban	1
+连续斗链	lian xu dou lian	1
+连续构件	lian xu gou jian	1
+连续航程	lian xu hang cheng	1
+连续式拉桩	lian xu shi la zhuang	1
+连云港	lian yun gang	1
+两段造船法	liang duan zao chuan fa	1
+梁拱	liang gong	1
+梁拱甲板	liang gong jia ban	1
+梁拱线	liang gong xian	1
+粮食库	liang shi ku	1
+两用水枪	liang yong shui qiang	1
+两支点滑道	liang zhi dian hua dao	1
+梁肘板	liang zhou ban	1
+列板	lie ban	1
+猎雷舰艇	lie lei jian ting	1
+猎潜艇	lie qian ting	1
+林查班	lin cha ban	1
+临界舵角	lin jie duo jiao	1
+临界空化数	lin jie kong hua shu	1
+临时应急电源	lin shi ying ji dian yuan	1
+淋水试验	lin shui shi yan	1
+领盘	ling pan	1
+令司板	ling si ban	1
+流刺网振网机	liu ci wang zhen wang ji	1
+六分仪	liu fen yi	1
+溜泥槽	liu ni cao	1
+流水沟	liu shui gou	1
+流水孔	liu shui kong	1
+流通能力	liu tong neng li	1
+流线试验	liu xian shi yan	1
+流线型舵	liu xian xing duo	1
+龙骨舱	long gu cang	1
+龙骨墩	long gu dun	1
+龙骨净空	long gu jing kong	1
+龙骨设计斜度	long gu she ji xie du	1
+龙骨水平半宽	long gu shui ping ban kuan	1
+龙骨线	long gu xian	1
+龙骨翼板	long gu yi ban	1
+龙骨折角线	long gu zhe jiao xian	1
+笼形天线	long xing tian xian	1
+漏水口	lou shui kou	1
+炉舱棚	lu cang peng	1
+炉胆顶圆	lu dan ding yuan	1
+炉胆焊装	lu dan han zhuang	1
+鹿儿岛	lu er dao	1
+鲁琅特王子港	lu lang te wang zi gang	1
+炉墙砌筑	lu qiang qi zhu	1
+鹿特丹	lu te dan	1
+露天船台	lu tian chuan tai	1
+路易港	lu yi gang	1
+录音机	lu yin ji	1
+伦敦	lun dun	1
+轮机工程	lun ji gong cheng	1
+轮机日志	lun ji ri zhi	1
+轮机员安全	lun ji yuan an quan	1
+轮机员呼叫	lun ji yuan hu jiao	1
+轮机长	lun ji zhang	1
+轮机长室	lun ji zhang shi	1
+罗安达	luo an da	1
+罗北	luo bei	1
+洛比托	luo bi tuo	1
+裸船体	luo chuan ti	1
+罗德城	luo de cheng	1
+落点能力	luo dian neng li	1
+罗航向	luo hang xiang	1
+螺检	luo jian	1
+罗津	luo jin	1
+罗经	luo jing	1
+罗经甲板	luo jing jia ban	1
+螺距比	luo ju bi	1
+螺距规	luo ju gui	1
+螺距角	luo ju jiao	1
+洛美	luo mei	1
+洛杉机	luo shan ji	1
+洛杉矶	luo shan ji	1
+罗艏向	luo shou xiang	1
+螺栓窗	luo shuan chuang	1
+螺线试验	luo xian shi yan	1
+螺旋风管	luo xuan feng guan	1
+螺旋桨	luo xuan jiang	1
+螺旋桨测力仪	luo xuan jiang ce li yi	1
+螺旋桨船	luo xuan jiang chuan	1
+螺旋桨灯	luo xuan jiang deng	1
+螺旋桨基准线	luo xuan jiang ji zhun xian	1
+螺旋桨模型	luo xuan jiang mo xing	1
+螺旋桨盘	luo xuan jiang pan	1
+螺旋桨盘面积	luo xuan jiang pan mian ji	1
+螺旋桨平面	luo xuan jiang ping mian	1
+螺旋桨推力	luo xuan jiang tui li	1
+螺旋桨推入力	luo xuan jiang tui ru li	1
+螺旋桨推入量	luo xuan jiang tui ru liang	1
+螺旋桨尾流	luo xuan jiang wei liu	1
+螺旋桨校平衡	luo xuan jiang xiao ping heng	1
+螺旋桨噪声	luo xuan jiang zao sheng	1
+螺旋桨直径	luo xuan jiang zhi jing	1
+螺旋桨中点	luo xuan jiang zhong dian	1
+螺旋桨轴	luo xuan jiang zhou	1
+螺旋桨轴配键	luo xuan jiang zhou pei jian	1
+螺旋桨转矩	luo xuan jiang zhuan ju	1
+螺旋桨纵倾角	luo xuan jiang zong qing jiao	1
+螺旋扣	luo xuan kou	1
+裸置管道	luo zhi guan dao	1
+履带式布缆机	lv dai shi bu lan ji	1
+旅游船	lv you chuan	1
+滤油设备	lv you she bei	1
+马埃	ma ai	1
+马辰	ma chen	1
+马但萨斯	ma dan sa si	1
+马德拉斯	ma de la si	1
+马德普拉塔	ma de pu la ta	1
+马尔默	ma er mo	1
+马哈赞加	ma ha zan jia	1
+麻拉	ma la	1
+马拉加	ma la jia	1
+马拉开波	ma la kai bo	1
+马拉松革新	ma la song ge xin	1
+马累	ma lei	1
+马林迪	ma lin di	1
+马六甲	ma liu jia	1
+马纳瓜	ma na gua	1
+马瑙斯	ma nao si	1
+马尼拉	ma ni la	1
+马尼拉北	ma ni la bei	1
+马尼拉南	ma ni la nan	1
+马普托	ma pu tuo	1
+马任加	ma ren jia	1
+马萨特兰	ma sa te lan	1
+马萨瓦	ma sa wa	1
+马赛	ma sai	1
+马塞	ma sai	1
+马塞福斯	ma sai fu si	1
+马斯喀特	ma si ka te	1
+马塔迪	ma ta di	1
+马尾船厂	ma wei chuan chang	1
+迈阿密	mai a mi	1
+脉动空泡	mai dong kong pao	1
+埋管驳	mai guan bo	1
+埋弧自动焊	mai hu zi dong han	1
+麦鲁舵	mai lu duo	1
+麦纳麦	mai na mai	1
+麦纳麦巴林	mai na mai ba lin	1
+埋入式人孔盖	mai ru shi ren kong gai	1
+埋设管道	mai she guan dao	1
+埋设深度	mai she shen du	1
+满舵舵角	man duo duo jiao	1
+曼谷	man gu	1
+曼萨尼约	man sa ni yue	1
+曼萨尼约角	man sa ni yue jiao	1
+曼塔	man ta	1
+满载吃水	man zai chi shui	1
+满载排水量	man zai pai shui liang	1
+满载水线	man zai shui xian	1
+满载水线长	man zai shui xian chang	1
+盲板法兰	mang ban fa lan	1
+锚臂	mao bi	1
+锚柄	mao bing	1
+锚泊定位	mao bo ding wei	1
+锚泊设备	mao bo she bei	1
+锚泊状态	mao bo zhuang tai	1
+锚床	mao chuang	1
+锚唇	mao chun	1
+毛淡棉	mao dan mian	1
+锚灯	mao deng	1
+锚端链节	mao duan lian jie	1
+锚浮标	mao fu biao	1
+锚干	mao gan	1
+锚杆	mao gan	1
+锚冠	mao guan	1
+锚横杆	mao heng gan	1
+锚机底座	mao ji di zuo	1
+锚架	mao jia	1
+锚铰机	mao jiao ji	1
+铆接船体结构	mao jie chuan ti jie gou	1
+锚拉力试验	mao la li shi yan	1
+锚缆	mao lan	1
+锚链	mao lian	1
+锚链舱	mao lian cang	1
+锚链等级	mao lian deng ji	1
+锚链管	mao lian guan	1
+锚链环	mao lian huan	1
+锚链节	mao lian jie	1
+锚链拉断试验	mao lian la duan shi yan	1
+锚链拉力试验	mao lian la li shi yan	1
+锚链轮	mao lian lun	1
+锚链筒	mao lian tong	1
+锚链脱钩	mao lian tuo gou	1
+锚链转环	mao lian zhuan huan	1
+锚啮入性	mao nie ru xing	1
+锚球	mao qiu	1
+锚投落试验	mao tou luo shi yan	1
+锚腿	mao tui	1
+锚卸扣	mao xie kou	1
+锚卸扣锥销	mao xie kou zhui xiao	1
+锚穴	mao xue	1
+锚眼圈锚台	mao yan quan mao tai	1
+锚爪	mao zhao	1
+锚爪袭角	mao zhao xi jiao	1
+锚爪折角	mao zhao zhe jiao	1
+锚抓力	mao zhua li	1
+锚抓重比	mao zhua zhong bi	1
+煤舱盖	mei cang gai	1
+梅尔辛	mei er xin	1
+美国标准局	mei guo biao zhun ju	1
+美国船级社	mei guo chuan ji she	1
+梅花钣	mei hua ban	1
+梅花板手	mei hua ban shou	1
+眉毛板	mei mao ban	1
+煤油试验	mei you shi yan	1
+门坑	men keng	1
+门司	men si	1
+门型柱	men xing zhu	1
+蒙巴萨	meng ba sa	1
+孟克力矩	meng ke li ju	1
+孟拉	meng la	1
+蒙罗维亚	meng luo wei ya	1
+孟买	meng mai	1
+蒙特雷	meng te lei	1
+蒙特利尔	meng te li er	1
+米尔福德港	mi er fu de gang	1
+密集气孔	mi ji qi kong	1
+米纳卡布斯	mi na ka bu si	1
+米苏拉塔	mi su la ta	1
+面板	mian ban	1
+面板切斜连接	mian ban qie xie lian jie	1
+免除处所	mian chu chu suo	1
+免除证书	mian chu zheng shu	1
+面积渗透率	mian ji shen tou lv	1
+面节线	mian jie xian	1
+棉兰拉湾	mian lan la wan	1
+面螺距	mian luo ju	1
+民都港	min dou gang	1
+敏感度门限	min gan du men xian	1
+明德卢	ming de lu	1
+名古屋	ming gu wu	1
+明轮	ming lun	1
+莫比尔	mo bi er	1
+磨擦减震器	mo ca jian zhen qi	1
+摩擦阻力	mo ca zu li	1
+摩擦阻尼	mo ca zu ni	1
+末端链节	mo duan lian jie	1
+末端卸扣	mo duan xie kou	1
+墨尔本	mo er ben	1
+莫尔灯	mo er deng	1
+摩尔曼斯克	mo er man si ke	1
+莫尔兹比港	mo er zi bi gang	1
+摩加迪沙	mo jia di sha	1
+模块	mo kuai	1
+模拟腐蚀试验	mo ni fu shi shi yan	1
+模拟手	mo ni shou	1
+莫氏灯	mo shi deng	1
+莫氏信号灯	mo shi xin hao deng	1
+莫斯键	mo si jian	1
+墨西哥城	mo xi ge cheng	1
+墨西拿	mo xi na	1
+模型拖车	mo xing tuo che	1
+模型拖点	mo xing tuo dian	1
+木船	mu chuan	1
+木船防污涂料	mu chuan fang wu tu liao	1
+木工间	mu gong jian	1
+木滑车	mu hua che	1
+穆卡拉	mu ka la	1
+穆卡拉也门	mu ka la ye men	1
+木浦	mu pu	1
+木浦朝鲜	mu pu chao xian	1
+母子钟	mu zi zhong	1
+那霸	na ba	1
+那垻	na ba	1
+那不勒斯	na bu le si	1
+纳霍德卡	na huo de ka	1
+纳卡拉	na ka la	1
+纳米贝	na mi bei	1
+拿骚	na sao	1
+那瓦夏瓦	na wa xia wa	1
+耐波性	nai bo xing	1
+耐波性衡准	nai bo xing heng zhun	1
+耐波性试验	nai bo xing shi yan	1
+耐海水不锈钢	nai hai shui bu xiu gang	1
+耐火舱壁	nai huo cang bi	1
+耐火电缆	nai huo dian lan	1
+耐火救生艇	nai huo jiu sheng ting	1
+耐久性试验	nai jiu xing shi yan	1
+耐水刚玉	nai shui gang yu	1
+奶头锤	nai tou chui	1
+耐压壳体钢板	nai ya qiao ti gang ban	1
+南安普敦	nan an pu dun	1
+南浦	nan pu	1
+南圣胡安	nan sheng hu an	1
+南圣克鲁斯	nan sheng ke lu si	1
+南特	nan te	1
+南通	nan tong	1
+南通港闸	nan tong gang zha	1
+南通荣胜	nan tong rong sheng	1
+南洋船厂	nan yang chuan chang	1
+挠性密封装置	nao xing mi feng zhuang zhi	1
+挠性轴系	nao xing zhou xi	1
+内底板	nei di ban	1
+内底边板	nei di bian ban	1
+内底横骨	nei di heng gu	1
+内底纵骨	nei di zong gu	1
+内底纵桁	nei di zong heng	1
+内河船	nei he chuan	1
+内立管	nei li guan	1
+内六角板手	nei liu jiao ban shou	1
+内通道	nei tong dao	1
+内舾装	nei xi zhuang	1
+内斜轴系	nei xie zhou xi	1
+泥泵	ni beng	1
+泥舱	ni cang	1
+泥舱稀释装置	ni cang xi shi zhuang zhi	1
+逆帆	ni fan	1
+逆功率	ni gong lv	1
+泥阱	ni jing	1
+尼科西亚	ni ke xi ya	1
+逆螺线试验	ni luo xian shi yan	1
+泥门	ni men	1
+泥门启闭机构	ni men qi bi ji gou	1
+泥箱	ni xiang	1
+粘性阻力	nian xing zu li	1
+宁波新乐	ning bo xin le	1
+凝水泵	ning shui beng	1
+凝水给水系统	ning shui gei shui xi tong	1
+纽黑文	niu hei wen	1
+纽黑文美国	niu hei wen mei guo	1
+纽卡斯尔	niu ka si er	1
+纽瓦克	niu wa ke	1
+牛油枪	niu you qiang	1
+纽约	niu yue	1
+扭振减振器	niu zhen jian zhen qi	1
+扭转强度	niu zhuan qiang du	1
+扭转强度试验	niu zhuan qiang du shi yan	1
+农用船	nong yong chuan	1
+努美阿	nu mei a	1
+努瓦克肖特	nu wa ke xiao te	1
+暖机起动	nuan ji qi dong	1
+暖机起动试验	nuan ji qi dong shi yan	1
+暖机蒸汽系统	nuan ji zheng qi xi tong	1
+诺福克	nuo fu ke	1
+耦合运动	ou he yun dong	1
+欧姆收信机	ou mu shou xin ji	1
+爬坡能力	pa po neng li	1
+排放浓度	pai fang nong du	1
+排放条件	pai fang tiao jian	1
+排流保护	pai liu bao hu	1
+排泥浮筒	pai ni fu tong	1
+排泥设备	pai ni she bei	1
+排气侧	pai qi ce	1
+排气水封箱	pai qi shui feng xiang	1
+排汽系统	pai qi xi tong	1
+排绳装置	pai sheng zhuang zhi	1
+排水航行机组	pai shui hang xing ji zu	1
+排水量	pai shui liang	1
+排水型船	pai shui xing chuan	1
+排油监控系统	pai you jian kong xi tong	1
+排油控制	pai you kong zhi	1
+盘车机构	pan che ji gou	1
+盘车联锁装置	pan che lian suo zhuang zhi	1
+盘线装置	pan xian zhuang zhi	1
+旁桁材	pang heng cai	1
+旁内龙骨	pang nei long gu	1
+旁视声呐	pang shi sheng na	1
+旁通调节	pang tong tiao jie	1
+抛落式救生艇	pao luo shi jiu sheng ting	1
+抛锚激振试验	pao mao ji zhen shi yan	1
+抛锚试验	pao mao shi yan	1
+泡沫柜	pao mo gui	1
+泡沫空化	pao mo kong hua	1
+泡沫灭火机	pao mo mie huo ji	1
+泡沫浓缩液	pao mo nong suo ye	1
+泡沫室	pao mo shi	1
+泡沫液循环泵	pao mo ye xun huan beng	1
+泡沫原液泵	pao mo yuan ye beng	1
+配汽机构	pei qi ji gou	1
+喷浆法	pen jiang fa	1
+喷气推进船	pen qi tui jin chuan	1
+喷洒装置	pen sa zhuang zhi	1
+喷射泵	pen she beng	1
+喷射过渡	pen she guo du	1
+喷水推进	pen shui tui jin	1
+喷水推进船	pen shui tui jin chuan	1
+喷水推进器	pen shui tui jin qi	1
+喷丸除锈	pen wan chu xiu	1
+喷丸清理	pen wan qing li	1
+喷盐雾试验	pen yan wu shi yan	1
+碰垫	peng dian	1
+篷顶灯	peng ding deng	1
+砰击	peng ji	1
+砰击载荷	peng ji zai he	1
+蓬莱渤海	peng lai bo hai	1
+蓬塞	peng sai	1
+蓬塔阿雷纳斯	peng ta a lei na si	1
+蓬塔雷纳斯	peng ta lei na si	1
+膨胀容积	peng zhang rong ji	1
+膨胀水箱	peng zhang shui xiang	1
+膨胀弯管	peng zhang wan guan	1
+皮龙带	pi long dai	1
+皮龙接扣	pi long jie kou	1
+皮龙牙扣	pi long ya kou	1
+匹配箱	pi pei xiang	1
+皮特尔角	pi te er jiao	1
+偏航角	pian hang jiao	1
+偏流角	pian liu jiao	1
+偏模直拖试验	pian mo zhi tuo shi yan	1
+片体	pian ti	1
+片体间距	pian ti jian ju	1
+片体水线宽	pian ti shui xian kuan	1
+片状空化	pian zhuang kong hua	1
+漂浮式下水	piao fu shi xia shui	1
+漂浮烟雾信号	piao fu yan wu xin hao	1
+漂心	piao xin	1
+撇缆	pie lan	1
+撇缆绳	pie lan sheng	1
+撇缆头	pie lan tou	1
+频率	pin lv	1
+频谱吸收	pin pu xi shou	1
+拼箱	pin xiang	1
+拼箱货	pin xiang huo	1
+平板舵	ping ban duo	1
+平板龙骨	ping ban long gu	1
+瓶柜	ping gui	1
+平衡舱盖	ping heng cang gai	1
+平衡舵	ping heng duo	1
+平甲板船	ping jia ban chuan	1
+平均吃水	ping jun chi shui	1
+平均叶宽	ping jun ye kuan	1
+平均叶宽比	ping jun ye kuan bi	1
+平面舱壁	ping mian cang bi	1
+平面分段	ping mian fen duan	1
+平面运动机构	ping mian yun dong ji gou	1
+屏幕屏蔽	ping mu ping bi	1
+平台	ping tai	1
+平台罗经	ping tai luo jing	1
+平台调平	ping tai tiao ping	1
+平行中体	ping xing zhong ti	1
+平旋推进器	ping xuan tui jin qi	1
+平旋推进器船	ping xuan tui jin qi chuan	1
+平泽	ping ze	1
+平置式人孔盖	ping zhi shi ren kong gai	1
+破冰船	po bing chuan	1
+破冰型艏	po bing xing shou	1
+破舱水线	po cang shui xian	1
+破舱稳性	po cang wen xing	1
+坡口面	po kou mian	1
+破雷舰	po lei jian	1
+剖面仪绞车	pou mian yi jiao che	1
+普遍腐蚀	pu bian fu shi	1
+朴次茅斯	pu ci mao si	1
+铺管驳	pu guan bo	1
+铺管参数	pu guan can shu	1
+铺管船	pu guan chuan	1
+铺管船法	pu guan chuan fa	1
+普拉塔港	pu la ta gang	1
+普拉亚	pu la ya	1
+普列茅斯	pu lie mao si	1
+普洛切	pu luo qie	1
+普通手电	pu tong shou dian	1
+弃船船员	qi chuan chuan yuan	1
+弃船者	qi chuan zhe	1
+脐带	qi dai	1
+气笛	qi di	1
+气垫船	qi dian chuan	1
+气垫减震器	qi dian jian zhen qi	1
+气电立焊	qi dian li han	1
+气垫面积	qi dian mian ji	1
+起吊设备	qi diao she bei	1
+起吊索	qi diao suo	1
+起吊眼板	qi diao yan ban	1
+起动带	qi dong dai	1
+启动阀	qi dong fa	1
+起动加速度	qi dong jia su du	1
+起动空气系统	qi dong kong qi xi tong	1
+起动气瓶	qi dong qi ping	1
+气动式造波机	qi dong shi zao bo ji	1
+起动压力	qi dong ya li	1
+起动用给水泵	qi dong yong gei shui beng	1
+起动装置	qi dong zhuang zhi	1
+汽封系统	qi feng xi tong	1
+气缸体定位	qi gang ti ding wei	1
+气缸油泵	qi gang you beng	1
+气缸油计量柜	qi gang you ji liang gui	1
+气缸油贮存柜	qi gang you zhu cun gui	1
+弃管	qi guan	1
+汽化油灶	qi hua you zao	1
+起货吊	qi huo diao	1
+起货机平台	qi huo ji ping tai	1
+起货绞车	qi huo jiao che	1
+起货设备	qi huo she bei	1
+起货索具	qi huo suo ju	1
+起居舱室	qi ju cang shi	1
+起居甲板	qi ju jia ban	1
+气力提升泵	qi li ti sheng beng	1
+弃链器	qi lian qi	1
+汽轮给水泵	qi lun gei shui beng	1
+汽轮机船	qi lun ji chuan	1
+起落绞车	qi luo jiao che	1
+起锚机	qi mao ji	1
+起锚绞盘	qi mao jiao pan	1
+气密挡板	qi mi dang ban	1
+气密门	qi mi men	1
+气密试验	qi mi shi yan	1
+气囊下水	qi nang xia shui	1
+起升机械下水	qi sheng ji xie xia shui	1
+气体报警装置	qi ti bao jing zhuang zhi	1
+起艇绞车	qi ting jiao che	1
+起网机	qi wang ji	1
+起网机组	qi wang ji zu	1
+旗箱	qi xiang	1
+七星造船	qi xing zao chuan	1
+汽油浮力系统	qi you fu li xi tong	1
+气载磨料	qi zai mo liao	1
+气胀救生筏	qi zhang jiu sheng fa	1
+气胀密封垫	qi zhang mi feng dian	1
+气胀式设备	qi zhang shi she bei	1
+起重船	qi zhong chuan	1
+起重桅	qi zhong wei	1
+起重柱	qi zhong zhu	1
+洽订舱位	qia ding cang wei	1
+嵌补分段	qian bu fen duan	1
+欠电压	qian dian ya	1
+前端壁	qian duan bi	1
+千斤索	qian jin suo	1
+千斤索具	qian jin suo ju	1
+千斤座	qian jin zuo	1
+前倾型艏	qian qing xing shou	1
+潜水导索	qian shui dao suo	1
+潜水电话	qian shui dian hua	1
+潜水服	qian shui fu	1
+潜水工作间	qian shui gong zuo jian	1
+潜水呼吸器	qian shui hu xi qi	1
+潜水加压舱	qian shui jia ya cang	1
+潜水减压架	qian shui jian ya jia	1
+潜水泥泵	qian shui ni beng	1
+潜水平台	qian shui ping tai	1
+潜水器	qian shui qi	1
+潜水器材舱	qian shui qi cai cang	1
+潜水器母船	qian shui qi mu chuan	1
+潜水器系统	qian shui qi xi tong	1
+浅水试验水池	qian shui shi yan shui chi	1
+潜水梯	qian shui ti	1
+潜水头盔	qian shui tou kui	1
+浅水效应	qian shui xiao ying	1
+潜水鞋	qian shui xie	1
+潜水行进绳	qian shui xing jin sheng	1
+潜水腰节阀	qian shui yao jie fa	1
+潜水员运行器	qian shui yuan yun xing qi	1
+潜水钟	qian shui zhong	1
+潜水装具	qian shui zhuang ju	1
+浅水阻力	qian shui zu li	1
+牵索	qian suo	1
+牵索索具	qian suo suo ju	1
+牵索眼板	qian suo yan ban	1
+牵索柱	qian suo zhu	1
+前体	qian ti	1
+前桅	qian wei	1
+铅吸收体	qian xi shou ti	1
+千叶	qian ye	1
+牵引绞机	qian yin jiao ji	1
+牵引式滑道	qian yin shi hua dao	1
+牵引式下水	qian yin shi xia shui	1
+签字	qian zi	1
+强横梁	qiang heng liang	1
+强肋骨	qiang lei gu	1
+强力甲板	qiang li jia ban	1
+强胸横梁	qiang xiong heng liang	1
+强胸结构	qiang xiong jie gou	1
+强制自航试验	qiang zhi zi hang shi yan	1
+翘棒	qiao bang	1
+敲铲	qiao chan	1
+翘度	qiao du	1
+桥楼	qiao lou	1
+桥楼甲板	qiao lou jia ban	1
+桥楼结构	qiao lou jie gou	1
+壳体加速度	qiao ti jia su du	1
+敲绣护目镜	qiao xiu hu mu jing	1
+敲渣锤	qiao zha chui	1
+乔治敦	qiao zhi dun	1
+乔治市	qiao zhi shi	1
+撬装块	qiao zhuang kuai	1
+切缆器	qie lan qi	1
+切斜端	qie xie duan	1
+钦博特	qin bo te	1
+秦皇岛	qin huang dao	1
+轻舱壁	qing cang bi	1
+轻柴油输送泵	qing chai you shu song beng	1
+青岛	qing dao	1
+青岛北海	qing dao bei hai	1
+青岛现代	qing dao xian dai	1
+轻吨	qing dun	1
+轻合金船	qing he jin chuan	1
+清洁	qing jie	1
+清洁压载舱	qing jie ya zai cang	1
+清洁压载水	qing jie ya zai shui	1
+清洁油漆	qing jie you qi	1
+清津	qing jin	1
+清奈	qing nai	1
+氢气压缩机	qing qi ya suo ji	1
+青铅床	qing qian chuang	1
+请上船	qing shang chuan	1
+清水	qing shui	1
+轻水泡沫	qing shui pao mo	1
+清洗试验	qing xi shi yan	1
+倾斜船台	qing xie chuan tai	1
+倾斜试验	qing xie shi yan	1
+轻型吊杆	qing xing diao gan	1
+轻型肋板	qing xing lei ban	1
+氢致裂纹	qing zhi lie wen	1
+球鼻艏	qiu bi shou	1
+球鼻首肋骨	qiu bi shou lei gu	1
+球扁钢	qiu bian gang	1
+球臌型剖面	qiu gu xing pou mian	1
+球曲型肋骨	qiu qu xing lei gu	1
+泅水	qiu shui	1
+球形接头	qiu xing jie tou	1
+球形艉	qiu xing wei	1
+曲柄销轴承	qu bing xiao zhou cheng	1
+去船上	qu chuan shang	1
+去流段	qu liu duan	1
+曲面分段	qu mian fen duan	1
+去耦能力	qu ou neng li	1
+区配电板	qu pei dian ban	1
+驱气	qu qi	1
+驱绳绞车	qu sheng jiao che	1
+曲线	qu xian	1
+去锈水	qu xiu shui	1
+曲轴就地加工	qu zhou jiu di jia gong	1
+曲轴量表	qu zhou liang biao	1
+曲轴修正	qu zhou xiu zheng	1
+驱逐舰	qu zhu jian	1
+全船报警装置	quan chuan bao jing zhuang zhi	1
+全船积载因数	quan chuan ji zai yin shu	1
+全电调节	quan dian tiao jie	1
+全封闭救生艇	quan feng bi jiu sheng ting	1
+全回转推进器	quan hui zhuan tui jin qi	1
+全降落区标志	quan jiang luo qu biao zhi	1
+全浸区腐蚀	quan jin qu fu shi	1
+全潜船	quan qian chuan	1
+全速倒车工况	quan su dao che gong kuang	1
+全速级组	quan su ji zu	1
+全体上船	quan ti shang chuan	1
+全洗舱	quan xi cang	1
+全向信标	quan xiang xin biao	1
+群桩效应	qun zhuang xiao ying	1
+燃料消耗试验	ran liao xiao hao shi yan	1
+燃料油输送泵	ran liao you shu song beng	1
+燃气轮机船	ran qi lun ji chuan	1
+燃气稳压箱	ran qi wen ya xiang	1
+燃油驳运系统	ran you bo yun xi tong	1
+燃油舱	ran you cang	1
+燃油沉淀柜	ran you chen dian gui	1
+燃油澄清舱	ran you cheng qing cang	1
+燃油单元	ran you dan yuan	1
+燃油分油机	ran you fen you ji	1
+燃油供给泵	ran you gong ji beng	1
+燃油柜	ran you gui	1
+燃油净化系统	ran you jing hua xi tong	1
+燃油日用柜	ran you ri yong gui	1
+燃油深舱	ran you shen cang	1
+燃油系统	ran you xi tong	1
+燃油泄放系统	ran you xie fang xi tong	1
+燃油溢油舱	ran you yi you cang	1
+燃油油渣舱	ran you you zha cang	1
+燃油增压泵	ran you zeng ya beng	1
+让蒂尔港	rang di er gang	1
+扰动力	rao dong li	1
+热管热交换器	re guan re jiao huan qi	1
+热井	re jing	1
+热量发散	re liang fa san	1
+热量吸收	re liang xi shou	1
+热裂纹	re lie wen	1
+热那亚	re na ya	1
+热平衡计算	re ping heng ji suan	1
+热平衡试验	re ping heng shi yan	1
+热水柜	re shui gui	1
+热水循环泵	re shui xun huan beng	1
+热水压力柜	re shui ya li gui	1
+热态起动	re tai qi dong	1
+热线图	re xian tu	1
+热亚陶罗	re ya tao luo	1
+仁川	ren chuan	1
+人工越控装置	ren gong yue kong zhuang zhi	1
+人孔	ren kong	1
+人孔盖	ren kong gai	1
+人力操舵装置	ren li cao duo zhuang zhi	1
+人为噪声	ren wei zao sheng	1
+刃形腐蚀	ren xing fu shi	1
+人字式坞门	ren zi shi wu men	1
+人字桅	ren zi wei	1
+日用淡水泵	ri yong dan shui beng	1
+日用燃油泵	ri yong ran you beng	1
+熔敷效率	rong fu xiao lv	1
+熔合比	rong he bi	1
+容积曲线	rong ji qu xian	1
+容积渗透率	rong ji shen tou lv	1
+容积吸收	rong ji xi shou	1
+溶气计	rong qi ji	1
+容许加速度	rong xu jia su du	1
+柔性构件	rou xing gou jian	1
+入级	ru ji	1
+入级标志	ru ji biao zhi	1
+入级符号	ru ji fu hao	1
+入级检验	ru ji jian yan	1
+入级证书	ru ji zheng shu	1
+入试航速	ru shi hang su	1
+软管吊	ruan guan diao	1
+软件	ruan jian	1
+软梯	ruan ti	1
+软梯存放座	ruan ti cun fang zuo	1
+萨尔瓦多	sa er wa duo	1
+萨法加港	sa fa jia gang	1
+萨凡纳	sa fan na	1
+萨非	sa fei	1
+萨洛尼卡	sa luo ni ka	1
+洒水短管	sa shui duan guan	1
+塞德港	sai de gang	1
+塞科港	sai ke gang	1
+塞拉莱	sai la lai	1
+塞萨洛尼基	sai sa luo ni ji	1
+塞图巴尔	sai tu ba er	1
+三宝垄	san bao long	1
+三段式浮船坞	san duan shi fu chuan wu	1
+三副	san fu	1
+三副室	san fu shi	1
+三管轮	san guan lun	1
+三管轮室	san guan lun shi	1
+散货船	san huo chuan	1
+散货集装箱	san huo ji zhuang xiang	1
+三脚桅	san jiao wei	1
+三角形链	san jiao xing lian	1
+三角眼板	san jiao yan ban	1
+三角眼环沙	san jiao yan huan sha	1
+三井商船	san jing shang chuan	1
+三缆定位系统	san lan ding wei xi tong	1
+三螺桨船	san luo jiang chuan	1
+三潘市	san pan shi	1
+散射锚泊系统	san she mao bo xi tong	1
+三位四通阀	san wei si tong fa	1
+三星定位	san xing ding wei	1
+三用拖船	san yong tuo chuan	1
+散装舱容	san zhuang cang rong	1
+桑佛	sang fo	1
+桑给巴尔	sang ji ba er	1
+桑托斯	sang tuo si	1
+扫舱泵	sao cang beng	1
+扫舱系统	sao cang xi tong	1
+扫海绞车	sao hai jiao che	1
+扫海具	sao hai ju	1
+扫雷舰艇	sao lei jian ting	1
+扫炉	sao lu	1
+扫描声呐	sao miao sheng na	1
+扫气口	sao qi kou	1
+扫线清管器	sao xian qing guan qi	1
+刹车	sha che	1
+沙璜	sha huang	1
+沙迦	sha jia	1
+纱口罩	sha kou zhao	1
+砂箱墩	sha xiang dun	1
+舢板信号灯	shan ban xin hao deng	1
+山打根	shan da gen	1
+闪发室	shan fa shi	1
+山海关船厂	shan hai guan chuan chang	1
+山字钩	shan zi gou	1
+上驳分析	shang bo fen xi	1
+上层建筑甲板	shang ceng jian zhu jia ban	1
+上层建筑强度	shang ceng jian zhu qiang du	1
+商船	shang chuan	1
+上船澄西	shang chuan cheng xi	1
+上导轮	shang dao lun	1
+上导轮平台	shang dao lun ping tai	1
+上舵承	shang duo cheng	1
+上舵承底座	shang duo cheng di zuo	1
+上海	shang hai	1
+上甲板	shang jia ban	1
+梢厚	shao hou	1
+少量油污	shao liang you wu	1
+梢涡	shao wo	1
+梢涡空化	shao wo kong hua	1
+梢隙	shao xi	1
+射电天文导航	she dian tian wen dao hang	1
+设计吃水	she ji chi shui	1
+设计航速	she ji hang su	1
+设计环境条件	she ji huan jing tiao jian	1
+设计排水量	she ji pai shui liang	1
+设计水深	she ji shui shen	1
+设计水线	she ji shui xian	1
+设计水线长	she ji shui xian chang	1
+射频无反射室	she pin wu fan she shi	1
+射水抽气器	she shui chou qi qi	1
+射水抽水器	she shui chou shui qi	1
+射线吸收体	she xian xi shou ti	1
+蛇形造波机	she xing zao bo ji	1
+深舱	shen cang	1
+深舱舱壁	shen cang cang bi	1
+深舱肋骨	shen cang lei gu	1
+甚长波通信	shen chang bo tong xin	1
+渗镀	shen du	1
+深海海面	shen hai hai mian	1
+神户	shen hu	1
+神户海运	shen hu hai yun	1
+深潜救生艇	shen qian jiu sheng ting	1
+深潜器	shen qian qi	1
+深潜系统	shen qian xi tong	1
+深溶焊	shen rong han	1
+深水锚锚缆	shen shui mao mao lan	1
+深水密封电缆	shen shui mi feng dian lan	1
+深水抛锚绞车	shen shui pao mao jiao che	1
+伸缩接管	shen suo jie guan	1
+伸缩接头	shen suo jie tou	1
+伸缩型舱口盖	shen suo xing cang kou gai	1
+渗透探伤	shen tou tan shang	1
+深温计绞车	shen wen ji jiao che	1
+伸张轮廓	shen zhang lun kuo	1
+伸张面积	shen zhang mian ji	1
+伸张面积比	shen zhang mian ji bi	1
+深圳	shen zhen	1
+圣安东尼奥	sheng an dong ni ao	1
+圣彼德堡	sheng bi de bao	1
+声波测井仪	sheng bo ce jing yi	1
+生产测试船	sheng chan ce shi chuan	1
+生产储油船	sheng chan chu you chuan	1
+升船机	sheng chuan ji	1
+生存吃水	sheng cun chi shui	1
+生存环境条件	sheng cun huan jing tiao jian	1
+生存排水量	sheng cun pai shui liang	1
+圣地亚哥	sheng di ya ge	1
+圣迭戈	sheng die ge	1
+圣多美	sheng duo mei	1
+圣多明各	sheng duo ming ge	1
+圣多斯	sheng duo si	1
+圣费尔南多	sheng fei er nan duo	1
+圣弗朗西斯科	sheng fu lang xi si ke	1
+升高甲板	sheng gao jia ban	1
+声光信号设备	sheng guang xin hao she bei	1
+圣胡安	sheng hu an	1
+生活舱	sheng huo cang	1
+生活平台	sheng huo ping tai	1
+声级仪	sheng ji yi	1
+升降式舱口盖	sheng jiang shi cang kou gai	1
+升降状态	sheng jiang zhuang tai	1
+升降装置	sheng jiang zhuang zhi	1
+圣克鲁期	sheng ke lu qi	1
+圣克鲁瓦	sheng ke lu wa	1
+圣劳伦斯	sheng lao lun si	1
+声力电话	sheng li dian hua	1
+声力电话机	sheng li dian hua ji	1
+升力阻尼	sheng li zu ni	1
+圣路易斯	sheng lu yi si	1
+圣洛伦索	sheng luo lun suo	1
+声呐	sheng na	1
+声呐参数	sheng na can shu	1
+声呐舱	sheng na cang	1
+声呐导流罩	sheng na dao liu zhao	1
+声呐电缆绞车	sheng na dian lan jiao che	1
+声呐发射机	sheng na fa she ji	1
+声呐方程	sheng na fang cheng	1
+声呐浮标	sheng na fu biao	1
+声呐基阵	sheng na ji zhen	1
+声呐接收机	sheng na jie shou ji	1
+圣佩德罗	sheng pei de luo	1
+圣乔治	sheng qiao zhi	1
+声速测量仪	sheng su ce liang yi	1
+圣托马斯	sheng tuo ma si	1
+声吸收	sheng xi shou	1
+声相关计程仪	sheng xiang guan ji cheng yi	1
+声响信号器	sheng xiang xin hao qi	1
+圣约翰	sheng yue han	1
+圣约翰斯	sheng yue han si	1
+适伴流螺旋桨	shi ban liu luo xuan jiang	1
+湿舱	shi cang	1
+试车码头	shi che ma tou	1
+使船向后退	shi chuan xiang hou tui	1
+失电	shi dian	1
+施放箱	shi fang xiang	1
+事故倾向性	shi gu qing xiang xing	1
+事故污染	shi gu wu ran	1
+适航能力	shi hang neng li	1
+试航速度	shi hang su du	1
+适航性	shi hang xing	1
+拭镜纸	shi jing zhi	1
+施救浮索	shi jiu fu suo	1
+施矩速率	shi ju su lv	1
+视觉显示	shi jue xian shi	1
+失控灯	shi kong deng	1
+室兰	shi lan	1
+实肋板	shi lei ban	1
+湿面积	shi mian ji	1
+石墨床	shi mo chuang	1
+室内船台	shi nei chuan tai	1
+湿喷砂除锈	shi pen sha chu xiu	1
+湿气吸收	shi qi xi shou	1
+什切青	shi qie qing	1
+湿式阀装置	shi shi fa zhuang zhi	1
+湿式潜水器	shi shi qian shui qi	1
+石狩	shi shou	1
+适拖	shi tuo	1
+实效伴流	shi xiao ban liu	1
+实心电弧焊	shi xin dian hu han	1
+实芯绝缘电缆	shi xin jue yuan dian lan	1
+失压报警器	shi ya bao jing qi	1
+试验船	shi yan chuan	1
+实用腐蚀试验	shi yong fu shi shi yan	1
+十字带缆桩	shi zi dai lan zhuang	1
+十字环支架	shi zi huan zhi jia	1
+十字接头	shi zi jie tou	1
+时子午线	shi zi wu xian	1
+艏部结构	shou bu jie gou	1
+首舱	shou cang	1
+手操舵装置	shou cao duo zhuang zhi	1
+艏沉	shou chen	1
+手持火焰信号	shou chi huo yan xin hao	1
+艏吃水	shou chi shui	1
+艏垂线	shou chui xian	1
+收到功率	shou dao gong lv	1
+收到功率系数	shou dao gong lv xi shu	1
+手动手册	shou dong shou ce	1
+艏舵	shou duo	1
+艏封板	shou feng ban	1
+收管	shou guan	1
+守护船	shou hu chuan	1
+艏滑轮架	shou hua lun jia	1
+艏尖舱	shou jian cang	1
+首尖舱	shou jian cang	1
+艏尖舱泵	shou jian cang beng	1
+手孔盖	shou kong gai	1
+首肋骨	shou lei gu	1
+艏楼	shou lou	1
+首楼甲板	shou lou jia ban	1
+首楼结构	shou lou jie gou	1
+艏落	shou luo	1
+艏锚	shou mao	1
+艏锚灯	shou mao deng	1
+艏锚绞车	shou mao jiao che	1
+首锚主锚	shou mao zhu mao	1
+艏门	shou men	1
+艏翘	shou qiao	1
+艏倾	shou qing	1
+艏升高甲板船	shou sheng gao jia ban chuan	1
+手提灭火器	shou ti mie huo qi	1
+艏向	shou xiang	1
+艏斜浪	shou xie lang	1
+艏摇	shou yao	1
+收音机	shou yin ji	1
+艏支架	shou zhi jia	1
+艏支架压力	shou zhi jia ya li	1
+艏踵	shou zhong	1
+艏柱	shou zhu	1
+首柱板	shou zhu ban	1
+鼠标	shu biao	1
+竖桁	shu heng	1
+舒瓦克港	shu wa ke gang	1
+枢心	shu xin	1
+数学型线	shu xue xing xian	1
+输油平台	shu you ping tai	1
+输鱼槽	shu yu cao	1
+双板舱壁	shuang ban cang bi	1
+双层底	shuang ceng di	1
+双层底舱	shuang ceng di cang	1
+双层管	shuang ceng guan	1
+双冲程	shuang chong cheng	1
+双杆操作钩	shuang gan cao zuo gou	1
+双杆吊货装置	shuang gan diao huo zhuang zhi	1
+双甲板船	shuang jia ban chuan	1
+双节卷筒	shuang jie juan tong	1
+双截门	shuang jie men	1
+双壳船	shuang ke chuan	1
+双壳泥泵	shuang ke ni beng	1
+双链转环	shuang lian zhuan huan	1
+双路供电	shuang lu gong dian	1
+双螺桨船	shuang luo jiang chuan	1
+双面坡口	shuang mian po kou	1
+双频鱼探仪	shuang pin yu tan yi	1
+双曲线系统	shuang qu xian xi tong	1
+双燃料发动机	shuang ran liao fa dong ji	1
+双体船	shuang ti chuan	1
+双艉鳍	shuang wei qi	1
+双向桁架	shuang xiang heng jia	1
+双星定位	shuang xing ding wei	1
+双叶螺桨	shuang ye luo jiang	1
+双支承舵	shuang zhi cheng duo	1
+双轴系	shuang zhou xi	1
+水岛	shui dao	1
+水道测量船	shui dao ce liang chuan	1
+水动力导数	shui dong li dao shu	1
+水动力分量	shui dong li fen liang	1
+水分吸收体	shui fen xi shou ti	1
+水封泵	shui feng beng	1
+水管夹	shui guan jia	1
+水击压力	shui ji ya li	1
+水密舱壁	shui mi cang bi	1
+水密舱口盖	shui mi cang kou gai	1
+水密分舱	shui mi fen cang	1
+水密甲板	shui mi jia ban	1
+水密肋板	shui mi lei ban	1
+水密门	shui mi men	1
+水面高程	shui mian gao cheng	1
+水面拖法	shui mian tuo fa	1
+水面战斗舰艇	shui mian zhan dou jian ting	1
+水泥船	shui ni chuan	1
+水泥钢锹	shui ni gang qiao	1
+水平船台	shui ping chuan tai	1
+水平桁	shui ping heng	1
+水平建造法	shui ping jian zao fa	1
+水平减震器	shui ping jian zhen qi	1
+水平弯曲振动	shui ping wan qu zhen dong	1
+水平鱼探仪	shui ping yu tan yi	1
+水平指示灯	shui ping zhi shi deng	1
+水平肘板	shui ping zhou ban	1
+水上合拢	shui shang he long	1
+水声对讲机	shui sheng dui jiang ji	1
+水声反声材料	shui sheng fan sheng cai liao	1
+水声透声材料	shui sheng tou sheng cai liao	1
+水声吸声材料	shui sheng xi sheng cai liao	1
+水文吊杆	shui wen diao gan	1
+水文绞车	shui wen jiao che	1
+水下侧面积	shui xia ce mian ji	1
+水下导缆桩	shui xia dao lan zhuang	1
+水下吊深	shui xia diao shen	1
+水下覆护	shui xia fu hu	1
+水下工作	shui xia gong zuo	1
+水下管汇	shui xia guan hui	1
+水下管汇中心	shui xia guan hui zhong xin	1
+水下监听站	shui xia jian ting zhan	1
+水下胶黏剂	shui xia jiao nian ji	1
+水下居住舱	shui xia ju zhu cang	1
+水下黏合	shui xia nian he	1
+水下设备	shui xia she bei	1
+水下生产系统	shui xia sheng chan xi tong	1
+水下施工涂料	shui xia shi gong tu liao	1
+水下维修	shui xia wei xiu	1
+水下游览船	shui xia you lan chuan	1
+水下作业灯	shui xia zuo ye deng	1
+水下作业机械	shui xia zuo ye ji xie	1
+水下作业站	shui xia zuo ye zhan	1
+水线	shui xian	1
+水线长	shui xian chang	1
+水线后段	shui xian hou duan	1
+水线宽	shui xian kuan	1
+水线面	shui xian mian	1
+水线面系数	shui xian mian xi shu	1
+水线平行段	shui xian ping xing duan	1
+水线前段	shui xian qian duan	1
+水线区腐蚀	shui xian qu fu shi	1
+水线涂料	shui xian tu liao	1
+水压计程仪	shui ya ji cheng yi	1
+水翼三分力仪	shui yi san fen li yi	1
+水翼艇	shui yi ting	1
+瞬态波	shun tai bo	1
+瞬态波试验	shun tai bo shi yan	1
+顺应式结构	shun ying shi jie gou	1
+斯德哥尔摩	si de ge er mo	1
+斯法克斯	si fa ke si	1
+丝极电池	si ji dian chi	1
+斯基克达	si ji ke da	1
+斯里巴加湾	si li ba jia wan	1
+斯里巴加湾市	si li ba jia wan shi	1
+斯普利特	si pu li te	1
+四日市	si ri shi	1
+四十英尺集装箱换算单位	si shi ying chi ji zhuang xiang huan suan dan wei	1
+泗水	si shui	1
+斯塔万各	si ta wan ge	1
+斯旺西	si wang xi	1
+泗务	si wu	1
+宋卡	song ka	1
+送丝机构	song si ji gou	1
+送丝速度	song si su du	1
+松土器	song tu qi	1
+送网管	song wang guan	1
+搜救灯	sou jiu deng	1
+搜索灯	sou suo deng	1
+速闭舱盖	su bi cang gai	1
+苏碧湾	su bi wan	1
+苏丹港	su dan gang	1
+速关阀	su guan fa	1
+塑料喉管泵	su liao hou guan beng	1
+塑料门口垫	su liao men kou dian	1
+速率积分陀螺	su lv ji fen tuo luo	1
+速率陀螺	su lv tuo luo	1
+苏瓦	su wa	1
+苏瓦沛	su wa pei	1
+宿雾	su wu	1
+宿务	su wu	1
+苏伊士	su yi shi	1
+酸化处理	suan hua chu li	1
+酸性焊条	suan xing han tiao	1
+随边	sui bian	1
+随边半径	sui bian ban jing	1
+随船架	sui chuan jia	1
+隧道顶线	sui dao ding xian	1
+隧道艉	sui dao wei	1
+碎泥刀	sui ni dao	1
+损管设备室	sun guan she bei shi	1
+损失浮力	sun shi fu li	1
+缩尺比	suo chi bi	1
+索节	suo jie	1
+索约	suo yue	1
+锁制试验	suo zhi shi yan	1
+锁轴试验	suo zhou shi yan	1
+塔巴科	ta ba ke	1
+塔迪库尔干	ta di ku er gan	1
+塔尔图斯	ta er tu si	1
+塔可角洛	ta ke jiao luo	1
+塔克拉迪	ta ke la di	1
+塔科拉迪	ta ke la di	1
+塔科马	ta ke ma	1
+塔拉瓦	ta la wa	1
+塔兰托	ta lan tuo	1
+塔林	ta lin	1
+塔马塔夫	ta ma ta fu	1
+塔式建造法	ta shi jian zao fa	1
+抬船甲板	tai chuan jia ban	1
+台灯	tai deng	1
+泰国东南亚	tai guo dong nan ya	1
+胎架	tai jia	1
+台卡	tai ka	1
+台卡计	tai ka ji	1
+台链	tai lian	1
+泰晤士港	tai wu shi gang	1
+台州五洲	tai zhou wu zhou	1
+台州中远	tai zhou zhong yuan	1
+太子港	tai zi gang	1
+坦噶	tan ga	1
+碳弧气刨	tan hu qi bao	1
+坦帕	tan pa	1
+坦帕美国	tan pa mei guo	1
+坦皮科	tan pi ke	1
+陶瓷棉	tao ci mian	1
+套管接头	tao guan jie tou	1
+陶质衬垫焊	tao zhi chen dian han	1
+特拉维夫	te la wei fu	1
+特鲁希略	te lu xi lue	1
+特马	te ma	1
+特征潮位	te zheng chao wei	1
+梯道布置	ti dao bu zhi	1
+体积吸收	ti ji xi shou	1
+天幕	tian mu	1
+天幕帘	tian mu lian	1
+天幕索	tian mu suo	1
+天桥	tian qiao	1
+天体计算方位	tian ti ji suan fang wei	1
+天体真方位	tian ti zhen fang wei	1
+天文导航	tian wen dao hang	1
+天文导航系统	tian wen dao hang xi tong	1
+天文定位点	tian wen ding wei dian	1
+天文定位圆	tian wen ding wei yuan	1
+天文经纬仪	tian wen jing wei yi	1
+天文年历	tian wen nian li	1
+天文位置	tian wen wei zhi	1
+天线	tian xian	1
+天线调谐器	tian xian tiao xie qi	1
+跳板门	tiao ban men	1
+条虫状气孔	tiao chong zhuang qi kong	1
+调光器	tiao guang qi	1
+调整	tiao zheng	1
+调整轴	tiao zheng zhou	1
+铁粉性焊条	tie fen xing han tiao	1
+铁滑车	tie hua che	1
+铁水泥	tie shui ni	1
+铁丸压载	tie wan ya zai	1
+铁錾子	tie zan zi	1
+停泊发电机组	ting bo fa dian ji zu	1
+停泊海水泵	ting bo hai shui beng	1
+停泊设备	ting bo she bei	1
+停车	ting che	1
+停船试验	ting chuan shi yan	1
+艇吊钩	ting diao gou	1
+艇滑架	ting hua jia	1
+艇机	ting ji	1
+艇甲板	ting jia ban	1
+听觉显示	ting jue xian shi	1
+亭可马里	ting ke ma li	1
+听筒	ting tong	1
+停止能力	ting zhi neng li	1
+艇座	ting zuo	1
+同步表	tong bu biao	1
+同步屏	tong bu ping	1
+同步卫星	tong bu wei xing	1
+通舱管件	tong cang guan jian	1
+通道	tong dao	1
+铜法兰	tong fa lan	1
+通风机室	tong feng ji shi	1
+通风水密闸阀	tong feng shui mi zha fa	1
+铜钢复合板	tong gang fu he ban	1
+通海阀	tong hai fa	1
+通海箱	tong hai xiang	1
+通焊孔	tong han kong	1
+铜滑块	tong hua kuai	1
+通孔尺寸	tong kong chi cun	1
+铜冷却板	tong leng que ban	1
+通用报警	tong yong bao jing	1
+桶装货物	tong zhuang huo wu	1
+透光尺寸	tou guang chi cun	1
+透气孔	tou qi kong	1
+投影轮廓	tou ying lun kuo	1
+投影面积比	tou ying mian ji bi	1
+图阿马西纳	tu a ma xi na	1
+图尔库	tu er ku	1
+图莱亚尔	tu lai ya er	1
+涂料缺陷	tu liao que xian	1
+土伦港	tu lun gang	1
+突尼斯	tu ni si	1
+土司机	tu si ji	1
+推船	tui chuan	1
+推架	tui jia	1
+推架式系结	tui jia shi xi jie	1
+推进电机	tui jin dian ji	1
+推进风机	tui jin feng ji	1
+推进器柱	tui jin qi zhu	1
+推进式坞门	tui jin shi wu men	1
+推进系数	tui jin xi shu	1
+推进效率	tui jin xiao lv	1
+推进装置	tui jin zhuang zhi	1
+推力功率	tui li gong lv	1
+推力功率系数	tui li gong lv xi shu	1
+推力减额	tui li jian e	1
+推力减额分数	tui li jian e fen shu	1
+推力减额因数	tui li jian e yin shu	1
+推力块	tui li kuai	1
+推力器系统	tui li qi xi tong	1
+推力系数	tui li xi shu	1
+推力仪	tui li yi	1
+推力载荷系数	tui li zai he xi shu	1
+推力轴	tui li zhou	1
+推力轴承龛	tui li zhou cheng kan	1
+推力轴承座	tui li zhou cheng zuo	1
+推力轴轴承	tui li zhou zhou cheng	1
+推入量起始点	tui ru liang qi shi dian	1
+推拖设备	tui tuo she bei	1
+推压机构	tui ya ji gou	1
+拖驳船队	tuo bo chuan dui	1
+脱成分腐蚀	tuo cheng fen fu shi	1
+拖船	tuo chuan	1
+拖带灯	tuo dai deng	1
+拖钩	tuo gou	1
+拖钩台	tuo gou tai	1
+拖管法	tuo guan fa	1
+托管架	tuo guan jia	1
+拖管头	tuo guan tou	1
+拖航	tuo hang	1
+拖航分析	tuo hang fen xi	1
+拖航潜水器	tuo hang qian shui qi	1
+拖航状态	tuo hang zhuang tai	1
+拖距	tuo ju	1
+拖缆	tuo lan	1
+拖缆承架	tuo lan cheng jia	1
+拖缆绞车	tuo lan jiao che	1
+拖缆孔	tuo lan kong	1
+拖缆系缆绞车	tuo lan xi lan jiao che	1
+拖缆限位器	tuo lan xian wei qi	1
+陀螺罗经	tuo luo luo jing	1
+陀螺罗经对准	tuo luo luo jing dui zhun	1
+陀螺罗经室	tuo luo luo jing shi	1
+陀螺漂移	tuo luo piao yi	1
+陀螺仪	tuo luo yi	1
+托盘管理	tuo pan guan li	1
+脱险口	tuo xian kou	1
+拖曳弓架	tuo ye gong jia	1
+拖曳航速	tuo ye hang su	1
+拖曳滑车	tuo ye hua che	1
+拖曳设备试验	tuo ye she bei shi yan	1
+拖曳水池	tuo ye shui chi	1
+椭圆艉	tuo yuan wei	1
+脱轴试验	tuo zhou shi yan	1
+拖轴试验	tuo zhou shi yan	1
+拖桩	tuo zhuang	1
+瓦尔纳	wa er na	1
+瓦尔帕莱索	wa er pa lai suo	1
+挖掘能力	wa jue neng li	1
+瓦莱塔	wa lai ta	1
+挖泥船	wa ni chuan	1
+挖泥机具	wa ni ji ju	1
+挖泥设备	wa ni she bei	1
+瓦萨芬兰	wa sa fen lan	1
+外板	wai ban	1
+外侧螺桨	wai ce luo jiang	1
+外廓线	wai kuo xian	1
+外立管	wai li guan	1
+外飘	wai piao	1
+外舾装	wai xi zhuang	1
+外斜轴系	wai xie zhou xi	1
+外形吃水	wai xing chi shui	1
+外牙短接头	wai ya duan jie tou	1
+弯曲	wan qu	1
+弯头铲刀	wan tou chan dao	1
+万向架	wan xiang jia	1
+网板架	wang ban jia	1
+往复锯	wang fu ju	1
+往复作用	wang fu zuo yong	1
+望加锡	wang jia xi	1
+网位仪	wang wei yi	1
+围壁	wei bi	1
+围蔽处所	wei bi chu suo	1
+尾部敞开井	wei bu chang kai jing	1
+艉部结构	wei bu jie gou	1
+尾部水舱	wei bu shui cang	1
+艉部振动	wei bu zhen dong	1
+维柴	wei chai	1
+艉吃水	wei chi shui	1
+艉垂线	wei chui xian	1
+艉灯	wei deng	1
+桅灯	wei deng	1
+危地马拉城	wei di ma la cheng	1
+维多利亚	wei duo li ya	1
+维多利亚港	wei duo li ya gang	1
+威尔明顿	wei er ming dun	1
+艉封板	wei feng ban	1
+艉浮	wei fu	1
+桅杆	wei gan	1
+维哥	wei ge	1
+艉管	wei guan	1
+桅冠	wei guan	1
+艉管滑油泵	wei guan hua you beng	1
+艉管密封装置	wei guan mi feng zhuang zhi	1
+微观试样	wei guan shi yang	1
+艉管填料函	wei guan tian liao han	1
+尾滚筒	wei gun tong	1
+威海船厂	wei hai chuan chang	1
+桅横杆	wei heng gan	1
+艉横梁	wei heng liang	1
+艉滑轮	wei hua lun	1
+艉机型布置	wei ji xing bu zhi	1
+艉机型船	wei ji xing chuan	1
+桅肩	wei jian	1
+艉尖舱	wei jian cang	1
+尾尖舱	wei jian cang	1
+艉尖舱舱壁	wei jian cang cang bi	1
+围井	wei jing	1
+维拉港	wei la gang	1
+韦腊克鲁斯	wei la ke lu si	1
+艉肋板	wei lei ban	1
+围帘	wei lian	1
+威廉斯塔德	wei lian si ta de	1
+尾流试验	wei liu shi yan	1
+尾流阻力	wei liu zu li	1
+艉楼	wei lou	1
+艉落	wei luo	1
+未满焊	wei man han	1
+艉锚	wei mao	1
+艉锚灯	wei mao deng	1
+艉锚绞车	wei mao jiao che	1
+艉门	wei men	1
+威尼斯	wei ni si	1
+艉鳍	wei qi	1
+艉翘	wei qiao	1
+艉倾	wei qing	1
+围裙材料	wei qun cai liao	1
+蔚山	wei shan	1
+桅设备	wei she bei	1
+卫生泵	wei sheng beng	1
+卫生单元	wei sheng dan yuan	1
+艉升高甲板船	wei sheng gao jia ban chuan	1
+桅室	wei shi	1
+维斯比	wei si bi	1
+维斯马	wei si ma	1
+桅索具	wei suo ju	1
+威瓦克	wei wa ke	1
+尾涡空化	wei wo kong hua	1
+艉斜浪	wei xie lang	1
+卫星导航系统	wei xing dao hang xi tong	1
+围罩梯口	wei zhao ti kou	1
+艉支架	wei zhi jia	1
+位置检测系统	wei zhi jian ce xi tong	1
+位置稳定性	wei zhi wen ding xing	1
+艉踵	wei zhong	1
+尾轴管	wei zhou guan	1
+艉轴架	wei zhou jia	1
+尾轴架	wei zhou jia	1
+艉轴转速表	wei zhou zhuan su biao	1
+艉柱	wei zhu	1
+桅柱	wei zhu	1
+艉柱底骨	wei zhu di gu	1
+稳定回转阶段	wen ding hui zhuan jie duan	1
+温哥华	wen ge hua	1
+紊流探测器	wen liu tan ce qi	1
+稳索	wen suo	1
+稳心	wen xin	1
+稳心半径	wen xin ban jing	1
+稳心曲线	wen xin qu xian	1
+稳性	wen xing	1
+稳性衡准数	wen xing heng zhun shu	1
+稳性消失角	wen xing xiao shi jiao	1
+稳压空气瓶	wen ya kong qi ping	1
+卧倒式坞门	wo dao shi wu men	1
+沃尔维斯湾	wo er wei si wan	1
+坞壁	wu bi	1
+坞壁作业车	wu bi zuo ye che	1
+物标正横	wu biao zheng heng	1
+误操作报警器	wu cao zuo bao jing qi	1
+武船	wu chuan	1
+无船承运人	wu chuan cheng yun ren	1
+无挡锚链	wu dang mao lian	1
+雾笛	wu di	1
+坞底	wu di	1
+污底	wu di	1
+坞墩	wu dun	1
+无杆锚	wu gan mao	1
+坞坎	wu kan	1
+无空化	wu kong hua	1
+坞口	wu kou	1
+乌拉湾	wu la wan	1
+勿拉湾	wu la wan	1
+无缆系结装置	wu lan xi jie zhuang zhi	1
+物料吊	wu liao diao	1
+物料间	wu liao jian	1
+坞龙骨	wu long gu	1
+坞门	wu men	1
+乌姆赛义德	wu mu sai yi de	1
+坞内净宽	wu nei jing kuan	1
+坞内找正	wu nei zhao zheng	1
+污泥柜	wu ni gui	1
+坞墙	wu qiang	1
+坞墙顶甲板	wu qiang ding jia ban	1
+坞墙通道	wu qiang tong dao	1
+污染海水腐蚀	wu ran hai shui fu shi	1
+无人机舱	wu ren ji cang	1
+无人潜水器	wu ren qian shui qi	1
+坞室	wu shi	1
+坞首	wu shou	1
+污水舱	wu shui cang	1
+污水井	wu shui jing	1
+污物粉碎泵	wu wu fen sui beng	1
+无线电测距	wu xian dian ce ju	1
+无线电测向	wu xian dian ce xiang	1
+无线电测向仪	wu xian dian ce xiang yi	1
+无线电导航	wu xian dian dao hang	1
+无线电定位	wu xian dian ding wei	1
+无线电管制	wu xian dian guan zhi	1
+无线电罗盘	wu xian dian luo pan	1
+无线电通信	wu xian dian tong xin	1
+无线电信标	wu xian dian xin biao	1
+无限航区	wu xian hang qu	1
+坞修	wu xiu	1
+污压载水	wu ya zai shui	1
+污液舱	wu ye cang	1
+污油舱	wu you cang	1
+西班牙港	xi ban ya gang	1
+系泊绞车	xi bo jiao che	1
+系泊设备	xi bo she bei	1
+系泊设备试验	xi bo she bei shi yan	1
+系泊试验	xi bo shi yan	1
+系泊旋转接头	xi bo xuan zhuan jie tou	1
+系泊状态	xi bo zhuang tai	1
+洗舱	xi cang	1
+洗舱孔	xi cang kong	1
+洗舱水	xi cang shui	1
+系船设备	xi chuan she bei	1
+细岛	xi dao	1
+西贡	xi gong	1
+西哈努克城	xi ha nu ke cheng	1
+系航索	xi hang suo	1
+希洪西班牙	xi hong xi ban ya	1
+洗净液	xi jing ye	1
+席拉查	xi la cha	1
+系缆具	xi lan ju	1
+系缆索	xi lan suo	1
+系列船模	xi lie chuan mu	1
+西林舵	xi lin duo	1
+吸泥管线	xi ni guan xian	1
+吸盘	xi pan	1
+吸气作用	xi qi zuo yong	1
+吸声性能	xi sheng xing neng	1
+牺牲阳极	xi sheng yang ji	1
+牺牲阳极材料	xi sheng yang ji cai liao	1
+吸收电路	xi shou dian lu	1
+吸收钳	xi shou qian	1
+系索令环	xi suo ling huan	1
+系索羊角	xi suo yang jiao	1
+西霞口船厂	xi xia kou chuan chang	1
+西雅图	xi ya tu	1
+洗衣机	xi yi ji	1
+舾装	xi zhuang	1
+系桩拉力	xi zhuang la li	1
+舾装码头	xi zhuang ma tou	1
+舾装设备	xi zhuang she bei	1
+舾装数	xi zhuang shu	1
+下导轮	xia dao lun	1
+下舵承	xia duo cheng	1
+下甲板	xia jia ban	1
+厦门重工	xia men zhong gong	1
+厦门中国	xia men zhong guo	1
+下潜加速度	xia qian jia su du	1
+下潜平台	xia qian ping tai	1
+下水	xia shui	1
+下水驳	xia shui bo	1
+下水车	xia shui che	1
+下水墩	xia shui dun	1
+下水分析	xia shui fen xi	1
+下水桁架	xia shui heng jia	1
+下水横梁	xia shui heng liang	1
+下水油脂	xia shui you zhi	1
+下水支架	xia shui zhi jia	1
+下死点后	xia si dian hou	1
+下体	xia ti	1
+舷边动力滚柱	xian bian dong li gun zhu	1
+舷边装卸口	xian bian zhuang xie kou	1
+舷侧阀	xian ce fa	1
+舷侧外板	xian ce wai ban	1
+舷侧纵骨	xian ce zong gu	1
+舷侧纵桁	xian ce zong heng	1
+舷窗	xian chuang	1
+舷窗风暴盖	xian chuang feng bao gai	1
+舷窗盖	xian chuang gai	1
+舷灯	xian deng	1
+舷顶列板	xian ding lie ban	1
+岘港	xian gang	1
+岘港越南	xian gang yue nan	1
+舷弧	xian hu	1
+线加速器	xian jia su qi	1
+限界线	xian jie xian	1
+暹罗湾	xian luo wan	1
+舷门	xian men	1
+舷门灯	xian men deng	1
+舷墙	xian qiang	1
+舷墙板	xian qiang ban	1
+舷墙门	xian qiang men	1
+舷墙梯	xian qiang ti	1
+舷桥	xian qiao	1
+舷伸甲板	xian shen jia ban	1
+显示	xian shi	1
+舷梯	xian ti	1
+舷梯绞车	xian ti jiao che	1
+舷梯强度试验	xian ti qiang du shi yan	1
+舷外撑臂	xian wai cheng bi	1
+舷外挂机推进	xian wai gua ji tui jin	1
+舷外跨距	xian wai kua ju	1
+舷外冷却	xian wai leng que	1
+舷外排出阀	xian wai pai chu fa	1
+纤维索	xian wei suo	1
+舷沿救生索	xian yan jiu sheng suo	1
+限制航道阻力	xian zhi hang dao zu li	1
+相对计程仪	xiang dui ji cheng yi	1
+相对旋转效率	xiang dui xuan zhuan xiao lv	1
+橡皮床	xiang pi chuang	1
+象山船厂	xiang shan chuan chang	1
+巷识别	xiang shi bie	1
+巷识别计	xiang shi bie ji	1
+箱形舱口盖	xiang xing cang kou gai	1
+箱形中桁材	xiang xing zhong heng cai	1
+相序指示器	xiang xu zhi shi qi	1
+响应谱	xiang ying pu	1
+消波器	xiao bo qi	1
+消波装置	xiao bo zhuang zhi	1
+小舱口盖	xiao cang kou gai	1
+消磁船	xiao ci chuan	1
+消防泵	xiao fang beng	1
+消防船	xiao fang chuan	1
+消防阀	xiao fang fa	1
+消防气瓶	xiao fang qi ping	1
+消防员装备	xiao fang yuan zhuang bei	1
+消防总管	xiao fang zong guan	1
+消防总用泵	xiao fang zong yong beng	1
+小陆桥	xiao lu qiao	1
+消灭曲线	xiao mie qu xian	1
+校气阀间隙	xiao qi fa jian xi	1
+校气缸余隙	xiao qi gang yu xi	1
+嚣音螺桨	xiao yin luo jiang	1
+斜边舱	xie bian cang	1
+斜舱壁	xie cang bi	1
+斜舱壁纵骨	xie cang bi zong gu	1
+斜船架	xie chuan jia	1
+斜船架滑道	xie chuan jia hua dao	1
+卸扣	xie kou	1
+楔块装置	xie kuai zhuang zhi	1
+斜肋骨	xie lei gu	1
+斜梁	xie liang	1
+斜剖线	xie pou xian	1
+泄水系统	xie shui xi tong	1
+斜梯	xie ti	1
+谐摇	xie yao	1
+斜置修正	xie zhi xiu zheng	1
+新奥尔良	xin ao er liang	1
+信号集合箱	xin hao ji he xiang	1
+信号绳	xin hao sheng	1
+信号探照灯	xin hao tan zhao deng	1
+信号桅	xin hao wei	1
+信号烟火	xin hao yan huo	1
+信号烟雾	xin hao yan wu	1
+新加坡	xin jia po	1
+芯片	xin pian	1
+新时代船厂	xin shi dai chuan chang	1
+新世纪船厂	xin shi ji chuan chang	1
+新泻	xin xie	1
+新扬子船厂	xin yang zi chuan chang	1
+兴波阻力	xing bo zu li	1
+兴波阻尼	xing bo zu ni	1
+型材桁	xing cai heng	1
+型吃水	xing chi shui	1
+形接头	xing jie tou	1
+型宽	xing kuan	1
+型排水量	xing pai shui liang	1
+型排水体积	xing pai shui ti ji	1
+型坡口	xing po kou	1
+形坡口	xing po kou	1
+型深	xing shen	1
+星体跟踪仪	xing ti gen zong yi	1
+型线	xing xian	1
+型线图	xing xian tu	1
+星形链	xing xing lian	1
+型值	xing zhi	1
+型值表	xing zhi biao	1
+汹涛阻力	xiong tao zu li	1
+修船浮筒	xiu chuan fu tong	1
+修井驳	xiu jing bo	1
+修井平台	xiu jing ping tai	1
+修理船	xiu li chuan	1
+修理门槽	xiu li men cao	1
+休斯敦	xiu si dun	1
+蓄电池室	xu dian chi shi	1
+续航力	xu hang li	1
+许可舱长	xu ke cang chang	1
+需用系数	xu yong xi shu	1
+旋臂试验	xuan bi shi yan	1
+旋臂水池	xuan bi shui chi	1
+悬高杆长比	xuan gao gan chang bi	1
+悬挂舵	xuan gua duo	1
+旋回能力	xuan hui neng li	1
+悬降区标志	xuan jiang qu biao zhi	1
+悬空段长度	xuan kong duan zhang du	1
+悬轮轴	xuan lun zhou	1
+旋涡泵	xuan wo beng	1
+旋涡阻尼	xuan wo zu ni	1
+选择性保护	xuan ze xing bao hu	1
+旋转灯	xuan zhuan deng	1
+旋转加速度	xuan zhuan jia su du	1
+旋转视窗	xuan zhuan shi chuang	1
+旋转弯头	xuan zhuan wan tou	1
+循环滑油舱	xun huan hua you cang	1
+循环水槽	xun huan shui cao	1
+巡回检测装置	xun hui jian ce zhuang zhi	1
+训练船	xun lian chuan	1
+巡洋舰艉	xun yang jian wei	1
+压电换能器	ya dian huan neng qi	1
+亚丁	ya ding	1
+雅尔塔	ya er ta	1
+亚尔塔米拉	ya er ta mi la	1
+雅加达	ya jia da	1
+压筋板	ya jin ban	1
+压紧器撬棒	ya jin qi qiao bang	1
+亚喀巴	ya ka ba	1
+压力补偿装置	ya li bu chang zhuang zhi	1
+压力管线	ya li guan xian	1
+亚历山大	ya li shan da	1
+亚曼达巴市	ya man da ba shi	1
+压铅	ya qian	1
+亚特兰大	ya te lan da	1
+压载	ya zai	1
+压载泵	ya zai beng	1
+压载控制台	ya zai kong zhi tai	1
+压载水舱	ya zai shui cang	1
+压载系统	ya zai xi tong	1
+压阻力	ya zu li	1
+延迟裂纹	yan chi lie wen	1
+岩国	yan guo	1
+沿海船	yan hai chuan	1
+沿海航区	yan hai hang qu	1
+衍射力	yan she li	1
+延伸报警板	yan shen bao jing ban	1
+淹湿性	yan shi xing	1
+仰光	yang guang	1
+氧化铝砂布	yang hua lv sha bu	1
+阳极屏蔽层	yang ji ping bi ceng	1
+阳极氧化	yang ji yang hua	1
+氧乙炔焊	yang yi que han	1
+扬州科进	yang zhou ke jin	1
+扬子江船厂	yang zi jiang chuan chang	1
+摇板式造波机	yao ban shi zao bo ji	1
+遥测表	yao ce biao	1
+药芯电弧焊	yao xin dian hu han	1
+药芯焊剂	yao xin han ji	1
+液舱	ye cang	1
+液舱容积	ye cang rong ji	1
+叶侧投影	ye ce tou ying	1
+叶侧投影限界	ye ce tou ying xian jie	1
+叶端	ye duan	1
+曳纲滑轮	ye gang hua lun	1
+曳纲束锁	ye gang shu suo	1
+叶根空化	ye gen kong hua	1
+叶厚比	ye hou bi	1
+液化埋管法	ye hua mai guan fa	1
+液化石油气舱	ye hua shi you qi cang	1
+液化石油气船	ye hua shi you qi chuan	1
+液化天然气舱	ye hua tian ran qi cang	1
+液化天然气船	ye hua tian ran qi chuan	1
+液货船	ye huo chuan	1
+液力减震器	ye li jian zhen qi	1
+叶面比	ye mian bi	1
+叶面参考线	ye mian can kao xian	1
+叶面空化	ye mian kong hua	1
+叶频	ye pin	1
+叶切面	ye qie mian	1
+液全器	ye quan qi	1
+叶梢	ye shao	1
+叶梢空化	ye shao kong hua	1
+曳绳钓起线机	ye sheng diao qi xian ji	1
+液体罗经	ye ti luo jing	1
+液位传感器	ye wei chuan gan qi	1
+液位开关	ye wei kai guan	1
+业务衡准数	ye wu heng zhun shu	1
+液压工具	ye ya gong ju	1
+液压试验	ye ya shi yan	1
+液压调速器	ye ya tiao su qi	1
+液压油柜	ye ya you gui	1
+液压油循环柜	ye ya you xun huan gui	1
+叶元体	ye yuan ti	1
+仪表	yi biao	1
+移驳绞车	yi bo jiao che	1
+异常	yi chang	1
+移船锚	yi chuan mao	1
+一次配电系统	yi ci pei dian xi tong	1
+移动绞机	yi dong jiao ji	1
+移动式平台	yi dong shi ping tai	1
+一度油漆	yi du you qi	1
+移航吃水	yi hang chi shui	1
+翼航吃水	yi hang chi shui	1
+移航排水量	yi hang pai shui liang	1
+移航状态	yi hang zhuang tai	1
+一级船	yi ji chuan	1
+伊基克	yi ji ke	1
+伊丽莎白港	yi li sha bai gang	1
+伊洛伊洛	yi luo yi luo	1
+伊斯但布尔	yi si dan bu er	1
+伊斯坦布尔	yi si tan bu er	1
+伊塔奇	yi ta qi	1
+伊塔雅伊	yi ta ya yi	1
+溢油舱	yi you cang	1
+伊予三岛	yi yu san dao	1
+医院船	yi yuan chuan	1
+仪征华为	yi zheng hua wei	1
+仪征新东海	yi zheng xin dong hai	1
+已装船提单	yi zhuang chuan ti dan	1
+伊兹密尔	yi zi mi er	1
+阴板	yin ban	1
+引船驳岸	yin chuan bo an	1
+引船绞盘	yin chuan jiao pan	1
+引发压力	yin fa ya li	1
+引航员软梯	yin hang yuan ruan ti	1
+引航员梯试验	yin hang yuan ti shi yan	1
+引航员椅	yin hang yuan yi	1
+引弧	yin hu	1
+阴极保护	yin ji bao hu	1
+音频强化器	yin pin qiang hua qi	1
+饮水舱	yin shui cang	1
+饮水舱涂料	yin shui cang tu liao	1
+饮水日用泵	yin shui ri yong beng	1
+饮水压力柜	yin shui ya li gui	1
+音响火箭	yin xiang huo jian	1
+音响榴弹	yin xiang liu dan	1
+音响信号器具	yin xiang xin hao qi ju	1
+阴影图	yin ying tu	1
+饮用水泵	yin yong shui beng	1
+饮用水舱	yin yong shui cang	1
+饮用水矿化器	yin yong shui kuang hua qi	1
+应答	ying da	1
+应急舱口	ying ji cang kou	1
+应急操舵装置	ying ji cao duo zhuang zhi	1
+应急操纵性	ying ji cao zong xing	1
+应急淡水柜	ying ji dan shui gui	1
+应急电站	ying ji dian zhan	1
+应急舵	ying ji duo	1
+应急发电机	ying ji fa dian ji	1
+应急发电机室	ying ji fa dian ji shi	1
+应急航行机组	ying ji hang xing ji zu	1
+应急空气瓶	ying ji kong qi ping	1
+应急空压机	ying ji kong ya ji	1
+应急抛载装置	ying ji pao zai zhuang zhi	1
+应急配电板	ying ji pei dian ban	1
+应急示位标	ying ji shi wei biao	1
+应急疏水试验	ying ji shu shui shi yan	1
+应急停	ying ji ting	1
+应急消防泵	ying ji xiao fang beng	1
+硬件	ying jian	1
+应力腐蚀断裂	ying li fu shi duan lie	1
+涌浪补偿器	yong lang bu chang qi	1
+油泵侧	you beng ce	1
+游步甲板	you bu jia ban	1
+油舱盖	you cang gai	1
+油舱涂料	you cang tu liao	1
+有酬载荷	you chou zai he	1
+油船	you chuan	1
+有挡锚链	you dang mao lian	1
+有毒液体物质	you du ye ti wu zhi	1
+有杆锚	you gan mao	1
+油缸铰链	you gang jiao lian	1
+有机物覆盖层	you ji wu fu gai ceng	1
+邮件舱	you jian cang	1
+油减震器	you jian zhen qi	1
+右开式	you kai shi	1
+有缆潜水器	you lan qian shui qi	1
+油密舱壁	you mi cang bi	1
+油密肋板	you mi lei ban	1
+油漆	you qi	1
+油漆滚筒	you qi gun tong	1
+油漆间	you qi jian	1
+油漆刷子	you qi shua zi	1
+油枪软管	you qiang ruan guan	1
+油散矿船	you san kuang chuan	1
+油水分界面	you shui fen jie mian	1
+油水分离器	you shui fen li qi	1
+油水分离设备	you shui fen li she bei	1
+油雾试验	you wu shi yan	1
+右舷舱	you xian cang	1
+右舷灯	you xian deng	1
+优先卸载	you xian xie zai	1
+有效波倾角	you xiao bo qing jiao	1
+有效波倾系数	you xiao bo qing xi shu	1
+有效干舷	you xiao gan xian	1
+有效功率	you xiao gong lv	1
+有效推力	you xiao tui li	1
+油性混合物	you xing hun he wu	1
+右旋螺桨	you xuan luo jiang	1
+油压试验	you ya shi yan	1
+有义波高	you yi bo gao	1
+诱鱼灯	you yu deng	1
+鱿鱼钓机	you yu diao ji	1
+油渣泵	you zha beng	1
+油脂滑道	you zhi hua dao	1
+右转机组	you zhuan ji zu	1
+渔泵	yu beng	1
+渔船	yu chuan	1
+预计航行时间	yu ji hang xing shi jian	1
+预计离港时间	yu ji li gang shi jian	1
+御扣	yu kou	1
+鱼雷快艇	yu lei kuai ting	1
+雨淋阀装置	yu lin fa zhuang zhi	1
+鱼探仪	yu tan yi	1
+预舾装	yu xi zhuang	1
+雨雪清除器	yu xue qing chu qi	1
+预压状态	yu ya zhuang tai	1
+渔业灯	yu ye deng	1
+渔业基地船	yu ye ji di chuan	1
+渔政船	yu zheng chuan	1
+预作用装置	yu zuo yong zhuang zhi	1
+原地校正	yuan di jiao zheng	1
+圆概率误差	yuan gai lv wu cha	1
+元山	yuan shan	1
+元山朝鲜	yuan shan chao xian	1
+圆型船	yuan xing chuan	1
+远洋船	yuan yang chuan	1
+原油洗舱	yuan you xi cang	1
+原油油船	yuan you you chuan	1
+圆周加速度	yuan zhou jia su du	1
+约束管道	yue shu guan dao	1
+运畜船	yun chu chuan	1
+运动补偿设备	yun dong bu chang she bei	1
+运动件校中	yun dong jian xiao zhong	1
+运河式船坞	yun he shi chuan wu	1
+运煤船	yun mei chuan	1
+运木船	yun mu chuan	1
+运输船	yun shu chuan	1
+运输分析	yun shu fen xi	1
+运输加速度	yun shu jia su du	1
+运转灯	yun zhuan deng	1
+运转试验	yun zhuan shi yan	1
+云状空化	yun zhuang kong hua	1
+杂货船	za huo chuan	1
+杂散电流腐蚀	za san dian liu fu shi	1
+载驳船	zai bo chuan	1
+在船上	zai chuan shang	1
+在船尾部	zai chuan wei bu	1
+载管驳	zai guan bo	1
+载荷曲线	zai he qu xian	1
+载货甲板	zai huo jia ban	1
+载货量	zai huo liang	1
+载货能力	zai huo neng li	1
+载货性能	zai huo xing neng	1
+再热裂纹	zai re lie wen	1
+载人潜水器	zai ren qian shui qi	1
+在位分析	zai wei fen xi	1
+载重量	zai zhong liang	1
+载重量标尺	zai zhong liang biao chi	1
+载重量分布	zai zhong liang fen bu	1
+载重量系数	zai zhong liang xi shu	1
+载重能力	zai zhong neng li	1
+载重线	zai zhong xian	1
+载重线标志	zai zhong xian biao zhi	1
+造波机	zao bo ji	1
+早期生产系统	zao qi sheng chan xi tong	1
+遭遇角	zao yu jiao	1
+增压柴油机	zeng ya chai you ji	1
+闸式潜水器	zha shi qian shui qi	1
+闸室装置	zha shi zhuang zhi	1
+窄带发射	zhai dai fa she	1
+窄带干扰	zhai dai gan rao	1
+战斗舰艇	zhan dou jian ting	1
+湛江	zhan jiang	1
+湛江中国	zhan jiang zhong guo	1
+展开轮廓	zhan kai lun kuo	1
+展开面积比	zhan kai mian ji bi	1
+战术直径	zhan shu zhi jing	1
+粘压阻力	zhan ya zu li	1
+帐拉马里博	zhang la ma li bo	1
+张力腿平台	zhang li tui ping tai	1
+照明分电箱	zhao ming fen dian xiang	1
+罩筒螺桨	zhao tong luo jiang	1
+找止点	zhao zhi dian	1
+折边肘板	zhe bian zhou ban	1
+折刀式门	zhe dao shi men	1
+折叠式舱口盖	zhe die shi cang kou gai	1
+遮光窗帘	zhe guang chuang lian	1
+浙江振宇	zhe jiang zhen yu	1
+折角线	zhe jiao xian	1
+侦察船	zhen cha chuan	1
+振荡仪试验	zhen dang yi shi yan	1
+振动烈度	zhen dong lie du	1
+振动允许界限	zhen dong yun xu jie xian	1
+针管热交换器	zhen guan re jiao huan qi	1
+真航向	zhen hang xiang	1
+针尖状气孔	zhen jian zhuang qi kong	1
+真空冷凝器	zhen kong leng ning qi	1
+真空式收集	zhen kong shi shou ji	1
+真艏向	zhen shou xiang	1
+正车部分	zheng che bu fen	1
+正车动叶	zheng che dong ye	1
+正车工况	zheng che gong kuang	1
+正车喷嘴	zheng che pen zui	1
+正车油动机	zheng che you dong ji	1
+正浮	zheng fu	1
+正横	zheng heng	1
+整理水池	zheng li shui chi	1
+蒸馏水泵	zheng liu shui beng	1
+蒸馏水水舱	zheng liu shui shui cang	1
+整流罩舵	zheng liu zhao duo	1
+蒸汽动力装置	zheng qi dong li zhuang zhi	1
+蒸汽机船	zheng qi ji chuan	1
+蒸汽警笛	zheng qi jing di	1
+整体螺桨	zheng ti luo jiang	1
+整体式浮船坞	zheng ti shi fu chuan wu	1
+郑志敏	zheng zhi min	1
+值班报警装置	zhi ban bao jing zhuang zhi	1
+纸箔床	zhi bo chuang	1
+制淡海水泵	zhi dan hai shui beng	1
+制淡装置	zhi dan zhuang zhi	1
+制荡板	zhi dang ban	1
+制荡舱壁	zhi dang cang bi	1
+止点规	zhi dian gui	1
+制动转速	zhi dong zhuan su	1
+制动装置试验	zhi dong zhuang zhi shi yan	1
+止滑器	zhi hua qi	1
+指挥电话机	zhi hui dian hua ji	1
+直接起动	zhi jie qi dong	1
+直径系数	zhi jing xi shu	1
+直立型艏	zhi li xing shou	1
+指令速率	zhi ling su lv	1
+制流板	zhi liu ban	1
+制流板舵	zhi liu ban duo	1
+直流电弧焊	zhi liu dian hu han	1
+止屈器	zhi qu qi	1
+直升机甲板	zhi sheng ji jia ban	1
+支索桅	zhi suo wei	1
+直梯	zhi ti	1
+直通电话	zhi tong dian hua	1
+支线船	zhi xian chuan	1
+支线传送装置	zhi xian chuan song zhuang zhi	1
+支线起线机	zhi xian qi xian ji	1
+直线拖曳试验	zhi xian tuo ye shi yan	1
+直线稳定性	zhi xian wen ding xing	1
+中波通信	zhong bo tong xin	1
+中部结构	zhong bu jie gou	1
+舯部肋骨	zhong bu lei gu	1
+舯部住舱	zhong bu zhu cang	1
+重柴油输送泵	zhong chai you shu song beng	1
+中垂	zhong chui	1
+中底桁	zhong di heng	1
+重迭螺桨	zhong die luo jiang	1
+中断	zhong duan	1
+中断装置	zhong duan zhuang zhi	1
+中舵	zhong duo	1
+重防蚀涂料	zhong fang shi tu liao	1
+中拱	zhong gong	1
+中桁材	zhong heng cai	1
+中横剖面	zhong heng pou mian	1
+中横剖面系数	zhong heng pou mian xi shu	1
+中机型船	zhong ji xing chuan	1
+中间铰链	zhong jian jiao lian	1
+中间肋骨	zhong jian lei gu	1
+中间轴	zhong jian zhou	1
+中间轴轴承	zhong jian zhou zhou cheng	1
+重力扳手	zhong li ban shou	1
+重力焊条	zhong li han tiao	1
+重力环	zhong li huan	1
+重力式吊艇架	zhong li shi diao ting jia	1
+重力式平台	zhong li shi ping tai	1
+重力式收集	zhong li shi shou ji	1
+重力式系泊塔	zhong li shi xi bo ta	1
+重力式下水	zhong li shi xia shui	1
+重力仪绞车	zhong li yi jiao che	1
+重力油柜	zhong li you gui	1
+重量计算书	zhong liang ji suan shu	1
+重量曲线	zhong liang qu xian	1
+中内龙骨	zhong nei long gu	1
+舯剖面惯性矩	zhong pou mian guan xing ju	1
+中速雾喷头	zhong su wu pen tou	1
+重稳距	zhong wen ju	1
+中线面	zhong xian mian	1
+重心	zhong xin	1
+重型吊杆装置	zhong xing diao gan zhuang zhi	1
+中压空气瓶	zhong ya kong qi ping	1
+中央井	zhong yang jing	1
+中央盘梯	zhong yang pan ti	1
+中站面	zhong zhan mian	1
+中轴系	zhong zhou xi	1
+中纵舱壁	zhong zong cang bi	1
+中纵剖面	zhong zong pou mian	1
+肘板	zhou ban	1
+肘板连接	zhou ban lian jie	1
+轴包覆	zhou bao fu	1
+轴包套	zhou bao tao	1
+轴承刮削	zhou cheng gua xiao	1
+轴承跨距	zhou cheng kua ju	1
+轴承力	zhou cheng li	1
+轴带发电机	zhou dai fa dian ji	1
+轴法兰	zhou fa lan	1
+轴毂	zhou gu	1
+轴颈和轴瓦	zhou jing he zhou wa	1
+轴模	zhou mo	1
+舟山船厂	zhou shan chuan chang	1
+轴隧	zhou sui	1
+轴隧艉室	zhou sui wei shi	1
+轴套黏接	zhou tao nian jie	1
+轴套水压试验	zhou tao shui ya shi yan	1
+轴套油压试验	zhou tao you ya shi yan	1
+轴系	zhou xi	1
+轴系传动装置	zhou xi chuan dong zhuang zhi	1
+轴系负荷校中	zhou xi fu he xiao zhong	1
+轴系共振	zhou xi gong zhen	1
+轴系固有频率	zhou xi gu you pin lv	1
+轴系回旋振动	zhou xi hui xuan zhen dong	1
+轴系接地装置	zhou xi jie di zhuang zhi	1
+轴系临界转速	zhou xi lin jie zhuan su	1
+轴系扭振测量	zhou xi niu zhen ce liang	1
+轴系扭转振动	zhou xi niu zhuan zhen dong	1
+轴系效率	zhou xi xiao lv	1
+轴系校中	zhou xi xiao zhong	1
+轴系找中	zhou xi zhao zhong	1
+轴系制动器	zhou xi zhi dong qi	1
+轴系直线校中	zhou xi zhi xian xiao zhong	1
+轴系中线	zhou xi zhong xian	1
+轴系纵向振动	zhou xi zong xiang zhen dong	1
+轴线上叶厚	zhou xian shang ye hou	1
+主舱	zhu cang	1
+贮藏舱	zhu cang cang	1
+住舱单元	zhu cang dan yuan	1
+住舱甲板	zhu cang jia ban	1
+主操舵装置	zhu cao duo zhuang zhi	1
+主柴油机	zhu chai you ji	1
+主尺度	zhu chi du	1
+主尺度比	zhu chi du bi	1
+主船体	zhu chuan ti	1
+主电站	zhu dian zhan	1
+主动舵	zhu dong duo	1
+主发电机组	zhu fa dian ji zu	1
+主干电缆	zhu gan dian lan	1
+主给水系统	zhu gei shui xi tong	1
+主钩起重量	zhu gou qi zhong liang	1
+珠海中国	zhu hai zhong guo	1
+主机	zhu ji	1
+主机飞轮	zhu ji fei lun	1
+主机海水泵	zhu ji hai shui beng	1
+主机滑油泵	zhu ji hua you beng	1
+主机基座	zhu ji ji zuo	1
+主机校中	zhu ji xiao zhong	1
+主机油底壳	zhu ji you di ke	1
+主机转速表	zhu ji zhuan su biao	1
+主甲板	zhu jia ban	1
+主空气瓶	zhu kong qi ping	1
+主空压机	zhu kong ya ji	1
+主缆	zhu lan	1
+主肋骨	zhu lei gu	1
+主罗经	zhu luo jing	1
+助媒剂	zhu mei ji	1
+主配电板	zhu pei dian ban	1
+主汽轮机	zhu qi lun ji	1
+主汽轮机组	zhu qi lun ji zu	1
+主燃气轮机	zhu ran qi lun ji	1
+主燃气轮机组	zhu ran qi lun ji zu	1
+注水式船坞	zhu shui shi chuan wu	1
+铸铁截止阀	zhu tie jie zhi fa	1
+主要构件	zhu yao gou jian	1
+主要要素	zhu yao yao su	1
+主用发信机	zhu yong fa xin ji	1
+主用收信机	zhu yong shou xin ji	1
+铸造锚链钢	zhu zao mao lian gang	1
+主蒸汽温度	zhu zheng qi wen du	1
+主蒸汽系统	zhu zheng qi xi tong	1
+主蒸汽压力	zhu zheng qi ya li	1
+主轴颈下沉量	zhu zhou jing xia chen liang	1
+主坐标平面	zhu zuo biao ping mian	1
+抓斗	zhua dou	1
+抓斗机	zhua dou ji	1
+抓斗稳索	zhua dou wen suo	1
+转驳柜	zhuan bo gui	1
+转出式吊艇架	zhuan chu shi diao ting jia	1
+转船力矩	zhuan chuan li ju	1
+转船提单	zhuan chuan ti dan	1
+转动导缆孔	zhuan dong dao lan kong	1
+转舵阶段	zhuan duo jie duan	1
+转环卸扣	zhuan huan xie kou	1
+转矩系数	zhuan ju xi shu	1
+转矩仪	zhuan ju yi	1
+转艏性	zhuan shou xing	1
+转首性	zhuan shou xing	1
+转艏滞后	zhuan shou zhi hou	1
+转速禁区	zhuan su jin qu	1
+转台	zhuan tai	1
+专用压载水	zhuan yong ya zai shui	1
+专用压载水舱	zhuan yong ya zai shui cang	1
+转柱带缆桩	zhuan zhu dai lan zhuang	1
+转柱舵	zhuan zhu duo	1
+装复	zhuang fu	1
+桩贯入深度	zhuang guan ru shen du	1
+桩基平台	zhuang ji ping tai	1
+桩式系泊塔	zhuang shi xi bo ta	1
+桩腿	zhuang tui	1
+装卸两港	zhuang xie liang gang	1
+桩靴	zhuang xue	1
+坠落试验	zhui luo shi yan	1
+自动操舵仪	zi dong cao duo yi	1
+自动测向仪	zi dong ce xiang yi	1
+自动电话	zi dong dian hua	1
+自动舵	zi dong duo	1
+自动焊	zi dong han	1
+自动排稀装置	zi dong pai xi zhuang zhi	1
+自动停车装置	zi dong ting che zhuang zhi	1
+自动系泊绞车	zi dong xi bo jiao che	1
+自动延绳钓机	zi dong yan sheng diao ji	1
+自浮泥管	zi fu ni guan	1
+自航试验	zi hang shi yan	1
+自航试验拖力	zi hang shi yan tuo li	1
+自航因子	zi hang yin zi	1
+自亮浮灯	zi liang fu deng	1
+自然腐蚀电位	zi ran fu shi dian wei	1
+自然环境条件	zi ran huan jing tiao jian	1
+自然噪声	zi ran zao sheng	1
+自适应能力	zi shi ying neng li	1
+自收藏能力	zi shou cang neng li	1
+紫铜床	zi tong chuang	1
+紫铜垫	zi tong dian	1
+紫铜管	zi tong guan	1
+字头型	zi tou xing	1
+自行扶正	zi xing fu zheng	1
+自由航迹试验	zi you hang ji shi yan	1
+自由航速	zi you hang su	1
+自由漂浮状态	zi you piao fu zhuang tai	1
+自由液面	zi you ye mian	1
+自由液面修正	zi you ye mian xiu zheng	1
+总布置	zong bu zhi	1
+纵舱壁	zong cang bi	1
+纵荡	zong dang	1
+总段建造法	zong duan jian zao fa	1
+总吨位	zong dun wei	1
+棕刚玉砂布	zong gang yu sha bu	1
+纵骨	zong gu	1
+纵骨架式	zong gu jia shi	1
+纵骨间距	zong gu jian ju	1
+综合导航	zong he dao hang	1
+纵桁	zong heng	1
+纵桁结构	zong heng jie gou	1
+纵距	zong ju	1
+纵裂纹	zong lie wen	1
+总排水量	zong pai shui liang	1
+总排水量曲线	zong pai shui liang qu xian	1
+纵剖线	zong pou xian	1
+纵倾	zong qing	1
+纵倾测量仪	zong qing ce liang yi	1
+纵倾角	zong qing jiao	1
+纵倾力矩	zong qing li ju	1
+纵倾平衡泵	zong qing ping heng beng	1
+纵倾调整	zong qing tiao zheng	1
+纵稳心	zong wen xin	1
+纵稳性	zong wen xing	1
+纵向构件	zong xiang gou jian	1
+纵向滑道	zong xiang hua dao	1
+纵向强力构件	zong xiang qiang li gou jian	1
+纵向下水	zong xiang xia shui	1
+纵向振动	zong xiang zhen dong	1
+纵斜	zong xie	1
+纵摇	zong yao	1
+纵摇角	zong yao jiao	1
+总用泵	zong yong beng	1
+总振动	zong zhen dong	1
+总纵强度	zong zong qiang du	1
+总纵强度试验	zong zong qiang du shi yan	1
+总纵弯曲	zong zong wan qu	1
+总阻力	zong zu li	1
+组合灯板	zu he deng ban	1
+组合锅炉	zu he guo lu	1
+组合肋板	zu he lei ban	1
+组合起动屏	zu he qi dong ping	1
+组合支柱	zu he zhi zhu	1
+阻力试验	zu li shi yan	1
+阻塞比	zu se bi	1
+阻塞效应	zu se xiao ying	1
+阻塞修正	zu se xiu zheng	1
+组装式辅机组	zu zhuang shi fu ji zu	1
+钻冰机	zuan bing ji	1
+钻井驳	zuan jing bo	1
+钻井船	zuan jing chuan	1
+钻井供应船	zuan jing gong ying chuan	1
+钻井平台	zuan jing ping tai	1
+最大沉深吃水	zui da chen shen chi shui	1
+最大持续功率	zui da chi xu gong lv	1
+最大横剖面	zui da heng pou mian	1
+最大间断工况	zui da jian duan gong kuang	1
+最大宽	zui da kuan	1
+最大连续工况	zui da lian xu gong kuang	1
+最大叶宽	zui da ye kuan	1
+最大叶宽比	zui da ye kuan bi	1
+最后分路	zui hou fen lu	1
+最佳直径	zui jia zhi jing	1
+最佳转速	zui jia zhuan su	1
+最小倾覆力矩	zui xiao qing fu li ju	1
+坐底声呐	zuo di sheng na	1
+坐底稳定性	zuo di wen ding xing	1
+坐底状态	zuo di zhuang tai	1
+左开式	zuo kai shi	1
+坐坞强度	zuo wu qiang du	1
+左舷灯	zuo xian deng	1
+作业吃水	zuo ye chi shui	1
+作业环境条件	zuo ye huan jing tiao jian	1
+作业锚泊载荷	zuo ye mao bo zai he	1
+作业排水量	zuo ye pai shui liang	1
+作业水深	zuo ye shui shen	1
+作业系泊载荷	zuo ye xi bo zai he	1
+作业系缆载荷	zuo ye xi lan zai he	1
+作业载荷	zuo ye zai he	1
+作业状态	zuo ye zhuang tai	1
+左转机组	zuo zhuan ji zu	1
+
