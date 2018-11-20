@@ -1,0 +1,157 @@
+﻿# Rime schema
+# encoding: utf-8
+
+schema:  
+  schema_id: BakHoi_JyutPing
+  name: 北海拼
+  version: "0.1"
+  author:
+    - Dr.Khuy（元任）,SlinYeng（洋圣）,ChakYu_Luk（杂工）
+  description: |
+    基于香港語言學會粵語拼音方案的冼氏北海語拼音方案
+  dependencies:
+    - luna_pinyin
+
+switches:  
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 番文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 深筆, 简体 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+  - name: zh_hk                
+    states: [ 臺, 港]             
+    reset: 1                      #默认开启
+  - name: emoji_cn                #Emoji开关
+    states: [ 〇, 😊]             #显示在状态栏的图标
+    reset: 0                      #默认关闭
+
+engine:  
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+    - reverse_lookup_translator
+  filters:
+    - simplifier
+    - uniquifier
+    - simplifier@zh_hk         
+    - simplifier@emoji_cn         #Emoji滤镜
+
+speller:  
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+  algebra:
+#前一个为拼音方案中实际字符，后一个为输入字符。
+    - derive/([1234])//           # ！忽略声调！
+    - derive/^ng/gn/              # 容錯 ng -> gn
+    - derive/^ny/yn/              # 容錯 ny -> yn
+    - derive/zi/ji/              # 支持廣州話詞典方案，兼顧只会普拼老派 zi -> ji
+    - derive/ci/qi/              # 支持廣州話詞典方案，兼顧只会普拼老派 ci -> qi
+    - derive/si/xi/              # 支持廣州話詞典方案，兼顧只会普拼老派 si -> xi
+    - derive/zi/zhi/              # 老派讀音為舌葉音，並兼顧普拼 zi -> zhi
+    - derive/ci/chi/              # 老派讀音為舌葉音，並兼顧普拼 ci -> chi
+    - derive/si/shi/              # 老派讀音為舌葉音，並兼顧普拼 si -> shi
+    - derive/w/u/              # 兼顧普拼人士 w -> u（多见于介音）
+    - derive/^ny/r/               # 快捷按鍵 ny -> r or 兼顧普拼
+    - derive/^sl/ls/              # 容别 sl -> ls
+    - derive/^sl/lh/              # 容别 sl -> lh
+    - derive/[^o]e/ie/           # 容他与容争议 oe/e  -> ie
+    - derive/ie/e/           # 容爭議介音 ie  -> e
+    - derive/au/ou/               # 容錯 au -> ou
+    - derive/aau/ao/               # 容錯 aau -> ao，针对普拼人士
+    - derive/aa$/a/               # 容錯 aa -> a
+    - derive/aan$/an/               # 容錯 aan -> an
+    - derive/aang$/ang/               # 容錯 aang -> ang
+    - derive/aak$/ak/               # 容錯 aak -> ak
+    - derive/aat$/at/               # 容錯 aat -> at
+    - derive/aap$/ap/               # 容錯 aap -> ap
+    - derive/ung$/ong/               # 针对普拼人士，容錯 ung -> ong
+    - derive/bik/bat/           # 北海方音，其他地区的畢 bat ->bik（實際讀音）
+    - derive/wo/o/           # 北海方音，容 wo -> o（實際讀音）
+    - derive/ong/wong/           # 北海方音，容 ong  -> wong（實際讀音）
+    - derive/nyi/n/           # 北海方音（懶音），容 nyi  -> n（實際讀音）
+    - derive/m/n/           # 北海新派，容錯 m尾  -> n尾（實際讀音）
+    - derive/ng/n/           # 北海新派，容錯 ng尾  -> n尾（實際讀音）
+    - derive/p$/h/           # 北海新派入声合流，容 p尾  -> h尾（實際讀音）
+    - derive/t$/h/           # 北海新派入声合流，容 t尾  -> h尾（實際讀音）
+    - derive/k$/h/           # 北海新派入声合流，容 k尾  -> h尾（實際讀音）
+    - derive/p$/t/           # 北海新派入声合流，容 p尾  -> t尾（實際讀音）
+    - derive/t$/k/           # 北海新派入声合流，容 t尾  -> k尾（實際讀音）
+    - derive/p$/k/           # 北海新派入声合流，容 p尾  -> k尾（實際讀音）
+    #- derive/^y/j/                # 支持冼拼轉粵拼 y -> j
+    #- derive/^ny/nj/                # 支持冼拼轉钦拼 ny -> nj
+    #- derive/aa/ae/           # 北海方音，容 aa  -> ae（實際讀音），冼拼中无
+    #- derive/([zcs])i/$1/           # 北海新派舌面音變舌尖前音，容 i  -> z（z表普拼中i）
+    #- derive/(ny)i/$1/           # 北海新派舌面音變舌尖前音，容 i  -> z（z表普拼中i）
+    #- derive/ie/o/               # 容他 ie -> o【疍家】
+    #- derive/^ny/y/               # 容他 ny -> y【疍家】
+    #- derive/^sl/s/               # 容他 sl -> s【疍家】
+    #- derive/^sl/x/               # 容他 sl -> x【疍家】or 快捷按鍵
+    #- derive/a$/aa/               # 容别 a -> aa【南康等部分客家】
+    #- derive/an$/aan/               # 容别 an -> aan【南康等部分客家】
+    #- derive/ang$/aang/               # 容别 ang -> aang【南康等部分客家】
+    #- derive/ak$/aak/               # 容别 ak -> aak【南康等部分客家】
+    #- derive/at$/aat/               # 容别 at -> aat【南康等部分客家】
+    #- derive/ap$/aap/               # 容别 ap -> aap【南康等部分客家】
+    - abbrev/^([a-z]).+$/$1/      # 首字母簡拼
+    - abbrev/^(n[gy]).+$/$1/      # 聲母簡拼
+    - abbrev/^([gk]w).+$/$1/      # 聲母簡拼
+    - abbrev/^(sl).+$/$1/         # 聲母簡拼
+    #- abbrev/^(l[sh]).+$/$1/      # 聲母簡拼
+
+translator:  
+  dictionary: BakHoi_JyutPing
+  spelling_hints: 5
+
+zh_hk:  
+  option_name: zh_hk
+  opencc_config: t2hk.json
+
+#Emoji滤镜配置
+emoji_cn:  
+  opencc_config: emoji.json       #Emoji词典配置文件
+  option_name: emoji_cn           #与状态栏开关的名称一致
+  tips: all                       #开启注释
+
+reverse_lookup:  
+  dictionary: luna_pinyin
+  prefix: "`"
+  suffix: "'"
+  tips: 〔拼音〕
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+
+punctuator:  
+  import_preset: symbols
+
+key_binder:  
+  import_preset: default
+  bindings: 
+    
+  - { when: has_menu, accept: "#", toggle: emoji_cn }
+
+recognizer:  
+  import_preset: default
+  patterns:
+    reverse_lookup: "`[a-z]*'?$"
+    punct:'^/([0-9]0?|[a-z]+)$'
