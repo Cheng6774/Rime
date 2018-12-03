@@ -1,0 +1,6 @@
+2018/12/03-15:21:12.904 2494 Log #72: 2 ops saved to Table #74 OK
+2018/12/03-15:21:12.905 2494 Archiving C:\Users\cheng\AppData\Roaming\Rime\easy_en.userdb/000072.log: OK
+2018/12/03-15:21:12.906 2494 Table #73: 6 entries OK
+2018/12/03-15:21:12.906 2494 Table #74: 2 entries OK
+2018/12/03-15:21:12.908 2494 Archiving C:\Users\cheng\AppData\Roaming\Rime\easy_en.userdb/MANIFEST-000070: OK
+2018/12/03-15:21:12.913 2494 **** Repaired leveldb C:\Users\cheng\AppData\Roaming\Rime\easy_en.userdb; recovered 2 files; 430 bytes. Some data may have been lost. ****

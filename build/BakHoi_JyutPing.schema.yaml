@@ -2,11 +2,11 @@ __build_info:
   rime_version: 1.3.2
   timestamps:
     BakHoi_JyutPing.custom: 0
-    BakHoi_JyutPing.schema: 1542638205
+    BakHoi_JyutPing.schema: 1543821162
     default: 1542026412
-    default.custom: 1543419130
-    symbols: 1542638207
-    symbols.custom: 1537281174
+    default.custom: 1543821163
+    symbols: 1543821164
+    symbols.custom: 1543821164
 emoji_cn:
   opencc_config: emoji.json
   option_name: emoji_cn

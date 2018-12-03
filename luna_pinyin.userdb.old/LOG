@@ -1,0 +1,6 @@
+2018/12/03-15:21:12.677 2494 Log #78: 12 ops saved to Table #80 OK
+2018/12/03-15:21:12.678 2494 Archiving C:\Users\cheng\AppData\Roaming\Rime\luna_pinyin.userdb/000078.log: OK
+2018/12/03-15:21:12.678 2494 Table #79: 205 entries OK
+2018/12/03-15:21:12.678 2494 Table #80: 12 entries OK
+2018/12/03-15:21:12.679 2494 Archiving C:\Users\cheng\AppData\Roaming\Rime\luna_pinyin.userdb/MANIFEST-000076: OK
+2018/12/03-15:21:12.681 2494 **** Repaired leveldb C:\Users\cheng\AppData\Roaming\Rime\luna_pinyin.userdb; recovered 2 files; 8439 bytes. Some data may have been lost. ****
