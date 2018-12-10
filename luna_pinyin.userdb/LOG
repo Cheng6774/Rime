@@ -1,12 +1,5 @@
-2018/12/05-12:52:06.492 5b9c Recovering log #30
-2018/12/05-12:52:06.492 5b9c Level-0 table #32: started
-2018/12/05-12:52:06.493 5b9c Level-0 table #32: 0 bytes OK
-2018/12/05-12:52:06.496 5b9c Delete type=0 #30
-2018/12/05-12:52:06.496 5b9c Delete type=3 #28
-2018/12/06-19:53:57.619 19f8 Compacting 2@0 + 1@1 files
-2018/12/06-19:53:57.622 19f8 Generated table #34: 40 keys, 1640 bytes
-2018/12/06-19:53:57.622 19f8 Compacted 2@0 + 1@1 files => 1640 bytes
-2018/12/06-19:53:57.623 19f8 Delete type=2 #18
-2018/12/06-19:53:57.625 19f8 Delete type=2 #22
-2018/12/06-19:53:57.626 19f8 Delete type=2 #29
-2018/12/06-19:53:57.627 19f8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2018/12/10-09:12:20.717 2e88 Recovering log #33
+2018/12/10-09:12:20.718 2e88 Level-0 table #36: started
+2018/12/10-09:12:20.719 2e88 Level-0 table #36: 12176 bytes OK
+2018/12/10-09:12:20.721 2e88 Delete type=0 #33
+2018/12/10-09:12:20.721 2e88 Delete type=3 #31
