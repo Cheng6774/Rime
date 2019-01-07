@@ -1,5 +1,5 @@
-2019/01/06-21:49:53.286 19e0 Recovering log #58
-2019/01/06-21:49:53.286 19e0 Level-0 table #60: started
-2019/01/06-21:49:53.290 19e0 Level-0 table #60: 224 bytes OK
-2019/01/06-21:49:53.296 19e0 Delete type=0 #58
-2019/01/06-21:49:53.296 19e0 Delete type=3 #56
+2019/01/07-21:21:16.371 a98 Recovering log #61
+2019/01/07-21:21:16.372 a98 Level-0 table #63: started
+2019/01/07-21:21:16.378 a98 Level-0 table #63: 538 bytes OK
+2019/01/07-21:21:16.384 a98 Delete type=0 #61
+2019/01/07-21:21:16.385 a98 Delete type=3 #59
