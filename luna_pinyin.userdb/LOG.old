@@ -1,5 +1,5 @@
-2019/01/11-23:32:26.651 32ac Recovering log #69
-2019/01/11-23:32:26.651 32ac Level-0 table #71: started
-2019/01/11-23:32:26.651 32ac Level-0 table #71: 536 bytes OK
-2019/01/11-23:32:26.653 32ac Delete type=0 #69
-2019/01/11-23:32:26.653 32ac Delete type=3 #68
+2019/01/16-19:59:18.960 50bc Recovering log #75
+2019/01/16-19:59:18.960 50bc Level-0 table #78: started
+2019/01/16-19:59:18.960 50bc Level-0 table #78: 431 bytes OK
+2019/01/16-19:59:18.962 50bc Delete type=0 #75
+2019/01/16-19:59:18.962 50bc Delete type=3 #73
