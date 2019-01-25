@@ -1,5 +1,5 @@
-2019/01/21-21:40:48.329 5ab8 Recovering log #80
-2019/01/21-21:40:48.329 5ab8 Level-0 table #82: started
-2019/01/21-21:40:48.329 5ab8 Level-0 table #82: 0 bytes OK
-2019/01/21-21:40:48.331 5ab8 Delete type=0 #80
-2019/01/21-21:40:48.331 5ab8 Delete type=3 #78
+2019/01/23-21:51:12.862 2d18 Recovering log #83
+2019/01/23-21:51:12.862 2d18 Level-0 table #85: started
+2019/01/23-21:51:12.862 2d18 Level-0 table #85: 0 bytes OK
+2019/01/23-21:51:12.865 2d18 Delete type=0 #83
+2019/01/23-21:51:12.865 2d18 Delete type=3 #81
