@@ -1,8 +1,12 @@
 __build_info:
-  rime_version: 1.3.2
+  rime_version: 1.4.0
   timestamps:
-    default: 1542026412
+    default: 1548686840
     default.custom: 1543821163
+    key_bindings: 1548686840
+    key_bindings.custom: 0
+    punctuation: 1548686840
+    punctuation.custom: 0
 ascii_composer:
   good_old_caps_lock: true
   switch_key:
@@ -11,7 +15,7 @@ ascii_composer:
     Control_R: noop
     Shift_L: commit_code
     Shift_R: commit_code
-config_version: 0.38
+config_version: 0.40
 key_binder:
   bindings:
     - {accept: "Control+p", send: Up, when: composing}

@@ -1,5 +1,5 @@
-2019/01/27-20:24:47.794 1c90 Recovering log #89
-2019/01/27-20:24:47.794 1c90 Level-0 table #91: started
-2019/01/27-20:24:47.794 1c90 Level-0 table #91: 0 bytes OK
-2019/01/27-20:24:47.795 1c90 Delete type=0 #89
-2019/01/27-20:24:47.796 1c90 Delete type=3 #87
+2019/01/31-23:14:47.832 7ac Recovering log #92
+2019/01/31-23:14:47.832 7ac Level-0 table #94: started
+2019/01/31-23:14:47.832 7ac Level-0 table #94: 0 bytes OK
+2019/01/31-23:14:47.834 7ac Delete type=0 #92
+2019/01/31-23:14:47.835 7ac Delete type=3 #90
