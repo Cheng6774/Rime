@@ -1,5 +1,5 @@
-2019/01/31-23:14:47.832 7ac Recovering log #92
-2019/01/31-23:14:47.832 7ac Level-0 table #94: started
-2019/01/31-23:14:47.832 7ac Level-0 table #94: 0 bytes OK
-2019/01/31-23:14:47.834 7ac Delete type=0 #92
-2019/01/31-23:14:47.835 7ac Delete type=3 #90
+2019/02/02-22:19:33.284 13cc Recovering log #101
+2019/02/02-22:19:33.284 13cc Level-0 table #103: started
+2019/02/02-22:19:33.284 13cc Level-0 table #103: 0 bytes OK
+2019/02/02-22:19:33.287 13cc Delete type=0 #101
+2019/02/02-22:19:33.288 13cc Delete type=3 #99
