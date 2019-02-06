@@ -1,14 +1,14 @@
 var:
-  last_build_time: 1548811549
+  last_build_time: 1549420110
   option:
     ascii_punct: false
     extended_charset: true
     simplification: true
   previously_selected_schema: luna_pinyin_simp
   schema_access_time:
-    BakHoi_JyutPing: 1537787748
+    BakHoi_JyutPing: 1549420040
     easy_en: 1537522618
     jyutping: 1540215339
     luna_pinyin: 1537066259
     luna_pinyin_fluency: 1542641927
-    luna_pinyin_simp: 1542641943
+    luna_pinyin_simp: 1549420067
