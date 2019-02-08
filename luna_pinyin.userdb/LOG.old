@@ -1,5 +1,5 @@
-2019/02/06-12:49:37.137 2554 Recovering log #8
-2019/02/06-12:49:37.137 2554 Level-0 table #10: started
-2019/02/06-12:49:37.138 2554 Level-0 table #10: 304 bytes OK
-2019/02/06-12:49:37.140 2554 Delete type=0 #8
-2019/02/06-12:49:37.140 2554 Delete type=3 #7
+2019/02/07-08:12:06.035 24fc Recovering log #11
+2019/02/07-08:12:06.035 24fc Level-0 table #13: started
+2019/02/07-08:12:06.035 24fc Level-0 table #13: 207 bytes OK
+2019/02/07-08:12:06.037 24fc Delete type=0 #11
+2019/02/07-08:12:06.038 24fc Delete type=3 #9
