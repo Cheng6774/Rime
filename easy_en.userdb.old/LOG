@@ -1,0 +1,14 @@
+2019/02/16-22:17:55.220 27e0 Log #6: 0 ops saved to Table #20 OK
+2019/02/16-22:17:55.222 27e0 Archiving C:\Users\cheng\AppData\Roaming\Rime\easy_en.userdb/000006.log: OK
+2019/02/16-22:17:55.223 27e0 Log #12: 2 ops saved to Table #21 OK
+2019/02/16-22:17:55.224 27e0 Archiving C:\Users\cheng\AppData\Roaming\Rime\easy_en.userdb/000012.log: OK
+2019/02/16-22:17:55.225 27e0 Log #19: 2 ops saved to Table #22 OK
+2019/02/16-22:17:55.227 27e0 Archiving C:\Users\cheng\AppData\Roaming\Rime\easy_en.userdb/000019.log: OK
+2019/02/16-22:17:55.227 27e0 Table #5: 5 entries OK
+2019/02/16-22:17:55.228 27e0 Table #14: 2 entries OK
+2019/02/16-22:17:55.228 27e0 Table #21: 2 entries OK
+2019/02/16-22:17:55.228 27e0 Table #22: 2 entries OK
+2019/02/16-22:17:55.230 27e0 Archiving C:\Users\cheng\AppData\Roaming\Rime\easy_en.userdb/MANIFEST-000004: OK
+2019/02/16-22:17:55.234 27e0 Archiving C:\Users\cheng\AppData\Roaming\Rime\easy_en.userdb/MANIFEST-000010: OK
+2019/02/16-22:17:55.235 27e0 Archiving C:\Users\cheng\AppData\Roaming\Rime\easy_en.userdb/MANIFEST-000018: OK
+2019/02/16-22:17:55.239 27e0 **** Repaired leveldb C:\Users\cheng\AppData\Roaming\Rime\easy_en.userdb; recovered 4 files; 695 bytes. Some data may have been lost. ****
