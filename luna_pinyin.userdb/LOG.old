@@ -1,1 +1,5 @@
-2019/02/17-23:23:27.097 dc8 Delete type=3 #1
+2019/02/20-09:40:27.959 1ae8 Recovering log #3
+2019/02/20-09:40:27.959 1ae8 Level-0 table #5: started
+2019/02/20-09:40:27.960 1ae8 Level-0 table #5: 1240 bytes OK
+2019/02/20-09:40:27.963 1ae8 Delete type=0 #3
+2019/02/20-09:40:27.963 1ae8 Delete type=3 #2
