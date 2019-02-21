@@ -1,5 +1,5 @@
-2019/02/20-09:40:27.973 1ae8 Recovering log #3
-2019/02/20-09:40:27.974 1ae8 Level-0 table #5: started
-2019/02/20-09:40:27.974 1ae8 Level-0 table #5: 224 bytes OK
-2019/02/20-09:40:27.977 1ae8 Delete type=0 #3
-2019/02/20-09:40:27.977 1ae8 Delete type=3 #2
+2019/02/20-22:09:24.431 e20 Recovering log #6
+2019/02/20-22:09:24.431 e20 Level-0 table #8: started
+2019/02/20-22:09:24.431 e20 Level-0 table #8: 0 bytes OK
+2019/02/20-22:09:24.434 e20 Delete type=0 #6
+2019/02/20-22:09:24.434 e20 Delete type=3 #4
