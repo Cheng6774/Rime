@@ -258,7 +258,7 @@ patch:
 &emsp; 除前文举例的代码已经写入配置文件以外，还有其他一些较为重要的配置情况一并列出:
 
 ### 6.1 词库信息
-&emsp; 本配置附带所有词库如下:
+&emsp; 本配置附带所有词库如下(这些配置均可以在`luna_pinyin.extended.dict.yaml`文件中开启或关闭):
 ```
   - luna_pinyin               # 系统自带词库，无意外必须开启。
   - luna_pinyin.anime         # 动漫词汇大全，动画、主要角色、声优等等。3w
@@ -307,18 +307,15 @@ patch:
   - c_catering                # 餐饮词汇
   # 用于进行自定义设置
   - f_myphrases
-  - f_mysecretphrase
+  - f_mysecretphrases
    ```
    
 ### 6.2 输入法信息
-&emsp; 本配置附带所有输入法如下:
+&emsp; 本配置附带所有输入法如下（这些配置均可以在`default.custom.yaml`文件中开启或关闭）:
 ```
     - {schema: luna_pinyin_fluency} # 明月拼音语句流
     - {schema: luna_pinyin_simp}    # 明月拼音简拼
     - {schema: BakHoi_JyutPing}     # 北海拼音
-    - {schema: jyutping}            # 香港语言学会粤拼（运用最多）
-    # - {schema: hkcantonese}         # 广东普通话（符合汉语规律）
-    # - {schema: yale}                # 耶鲁粤拼（偏欧美发音）
     # - {schema: bopomofo}            # 注音
     # - {schema: bopomofo_express}    # 注音——快打模式
     # - {schema: bopomofo_tw}         # 注音——台湾正体
