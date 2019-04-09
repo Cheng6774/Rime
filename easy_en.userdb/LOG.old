@@ -1,3 +1,5 @@
-2019/04/01-21:10:44.344 4cc Recovering log #28
-2019/04/01-21:10:44.346 4cc Delete type=0 #28
-2019/04/01-21:10:44.346 4cc Delete type=3 #26
+2019/04/05-21:50:31.713 3bb4 Recovering log #30
+2019/04/05-21:50:31.714 3bb4 Level-0 table #32: started
+2019/04/05-21:50:31.714 3bb4 Level-0 table #32: 155 bytes OK
+2019/04/05-21:50:31.717 3bb4 Delete type=0 #30
+2019/04/05-21:50:31.717 3bb4 Delete type=3 #29
